@@ -1,0 +1,2466 @@
+{
+  "descriere": "Coduri CAEN rev. 2",
+  "sursa": "http://data.gov.ro/dataset/caen-clase-rev2",
+  "coduri": [
+    {
+      "cod": 5813,
+      "descriere": "Activități de editare a ziarelor"
+    },
+    {
+      "cod": 111,
+      "descriere": "Cultivarea cerealelor (exclusiv orez), plantelor leguminoase şi a plantelor producătoare de semințe oleaginoase"
+    },
+    {
+      "cod": 112,
+      "descriere": "Cultivarea orezului"
+    },
+    {
+      "cod": 113,
+      "descriere": "Cultivarea legumelor şi a pepenilor, a rădăcinoaselor şi tuberculilor"
+    },
+    {
+      "cod": 114,
+      "descriere": "Cultivarea trestiei de zahăr"
+    },
+    {
+      "cod": 115,
+      "descriere": "Cultivarea tutunului"
+    },
+    {
+      "cod": 116,
+      "descriere": "Cultivarea plantelor pentru fibre"
+    },
+    {
+      "cod": 119,
+      "descriere": "Cultivarea altor plante nepermanente"
+    },
+    {
+      "cod": 121,
+      "descriere": "Cultivarea strugurilor"
+    },
+    {
+      "cod": 122,
+      "descriere": "Cultivarea fructelor tropicale şi subtropicale"
+    },
+    {
+      "cod": 123,
+      "descriere": "Cultivarea fructelor citrice"
+    },
+    {
+      "cod": 124,
+      "descriere": "Cultivarea fructelor semințoase şi sâmburoase"
+    },
+    {
+      "cod": 125,
+      "descriere": "Cultivarea arbuştilor fructiferi, căpşunilor, nuciferilor şi a altor pomi fructiferi"
+    },
+    {
+      "cod": 126,
+      "descriere": "Cultivarea fructelor oleaginoase"
+    },
+    {
+      "cod": 127,
+      "descriere": "Cultivarea plantelor pentru prepararea băuturilor"
+    },
+    {
+      "cod": 128,
+      "descriere": "Cultivarea condimentelor, plantelor aromatice, medicinale şi a plantelor de uz farmaceutic"
+    },
+    {
+      "cod": 129,
+      "descriere": "Cultivarea altor plante permanente"
+    },
+    {
+      "cod": 130,
+      "descriere": "Cultivarea plantelor pentru înmulțire"
+    },
+    {
+      "cod": 141,
+      "descriere": "Creşterea bovinelor de lapte"
+    },
+    {
+      "cod": 142,
+      "descriere": "Creşterea altor bovine"
+    },
+    {
+      "cod": 1031,
+      "descriere": "Prelucrarea şi conservarea cartofilor"
+    },
+    {
+      "cod": 1032,
+      "descriere": "Fabricarea sucurilor de fructe şi legume"
+    },
+    {
+      "cod": 1039,
+      "descriere": "Prelucrarea şi conservarea fructelor şi legumelor"
+    },
+    {
+      "cod": 1041,
+      "descriere": "Fabricarea uleiurilor şi grăsimilor"
+    },
+    {
+      "cod": 1042,
+      "descriere": "Fabricarea margarinei şi a altor produse comestibile similare"
+    },
+    {
+      "cod": 1051,
+      "descriere": "Fabricarea produselor lactate şi a brânzeturilor"
+    },
+    {
+      "cod": 1052,
+      "descriere": "Fabricarea înghețatei"
+    },
+    {
+      "cod": 1061,
+      "descriere": "Fabricarea produselor de morărit"
+    },
+    {
+      "cod": 1062,
+      "descriere": "Fabricarea amidonului şi a produselor din amidon"
+    },
+    {
+      "cod": 1071,
+      "descriere": "Fabricarea pâinii; fabricarea prăjiturilor şi a produselor proaspete de patiserie"
+    },
+    {
+      "cod": 1072,
+      "descriere": "Fabricarea biscuiților şi pişcoturilor; fabricarea prăjiturilor şi a produselor conservate de patiserie"
+    },
+    {
+      "cod": 1073,
+      "descriere": "Fabricarea macaroanelor, tăițeilor, cuş-cuş-ului şi a altor produse făinoase similare"
+    },
+    {
+      "cod": 1081,
+      "descriere": "Fabricarea zahărului"
+    },
+    {
+      "cod": 1082,
+      "descriere": "Fabricarea produselor din cacao, a ciocolatei şi a produselor zaharoase"
+    },
+    {
+      "cod": 1083,
+      "descriere": "Prelucrarea ceaiului şi cafelei"
+    },
+    {
+      "cod": 1084,
+      "descriere": "Fabricarea condimentelor şi ingredientelor"
+    },
+    {
+      "cod": 1085,
+      "descriere": "Fabricarea de mâncăruri preparate"
+    },
+    {
+      "cod": 1086,
+      "descriere": "Fabricarea preparatelor alimentare omogenizate şi alimentelor dietetice"
+    },
+    {
+      "cod": 143,
+      "descriere": "Creşterea cailor şi a altor cabaline"
+    },
+    {
+      "cod": 144,
+      "descriere": "Creşterea cămilelor şi a camelidelor"
+    },
+    {
+      "cod": 145,
+      "descriere": "Creşterea ovinelor şi caprinelor"
+    },
+    {
+      "cod": 146,
+      "descriere": "Creşterea porcinelor"
+    },
+    {
+      "cod": 147,
+      "descriere": "Creşterea păsărilor"
+    },
+    {
+      "cod": 149,
+      "descriere": "Creşterea altor animale"
+    },
+    {
+      "cod": 150,
+      "descriere": "Activități în ferme mixte (cultura vegetală combinată cu creşterea animalelor)"
+    },
+    {
+      "cod": 161,
+      "descriere": "Activități auxiliare pentru producția vegetală"
+    },
+    {
+      "cod": 162,
+      "descriere": "Activități auxiliare pentru creşterea animalelor"
+    },
+    {
+      "cod": 163,
+      "descriere": "Activități după recoltare"
+    },
+    {
+      "cod": 164,
+      "descriere": "Pregătirea semințelor în vederea însămânțării"
+    },
+    {
+      "cod": 170,
+      "descriere": "Vânătoare,capturarea cu capcane a vânatului şi activități de servicii anexe vânătorii"
+    },
+    {
+      "cod": 210,
+      "descriere": "Silvicultură şi alte activități forestiere"
+    },
+    {
+      "cod": 220,
+      "descriere": "Exploatare forestieră"
+    },
+    {
+      "cod": 230,
+      "descriere": "Colectarea plantelor şi fructelor din flora spontană (excl. material lemnos)"
+    },
+    {
+      "cod": 240,
+      "descriere": "Activități de servicii anexe silviculturii"
+    },
+    {
+      "cod": 892,
+      "descriere": "Extracția şi aglomerarea turbei"
+    },
+    {
+      "cod": 893,
+      "descriere": "Extracția sării"
+    },
+    {
+      "cod": 899,
+      "descriere": "Alte activități extractive n.c.a."
+    },
+    {
+      "cod": 910,
+      "descriere": "Activități de servicii anexe extracției petrolului brut şi gazelor naturale"
+    },
+    {
+      "cod": 990,
+      "descriere": "Activități de servicii anexe pentru extracția mineralelor"
+    },
+    {
+      "cod": 311,
+      "descriere": "Pescuitul maritim"
+    },
+    {
+      "cod": 312,
+      "descriere": "Pescuitul în ape dulci"
+    },
+    {
+      "cod": 321,
+      "descriere": "Acvacultura  maritimă"
+    },
+    {
+      "cod": 322,
+      "descriere": "Acvacultura în ape dulci"
+    },
+    {
+      "cod": 510,
+      "descriere": "Extracția cărbunelui superior (PCS=>23865 kJ/kg)"
+    },
+    {
+      "cod": 520,
+      "descriere": "Extracția cărbunelui inferior (PCS<23865 kJ/kg)"
+    },
+    {
+      "cod": 610,
+      "descriere": "Extracția petrolului brut"
+    },
+    {
+      "cod": 620,
+      "descriere": "Extracția gazelor naturale"
+    },
+    {
+      "cod": 710,
+      "descriere": "Extracția minereurilor feroase"
+    },
+    {
+      "cod": 721,
+      "descriere": "Extracția minereurilor de uraniu şi toriu"
+    },
+    {
+      "cod": 729,
+      "descriere": "Extracția altor minereuri metalifere neferoase"
+    },
+    {
+      "cod": 811,
+      "descriere": "Extracția pietrei ornamentale şi a pietrei pentru construcții, extracția pietrei calcaroase, ghipsului, cretei şi a ardeziei"
+    },
+    {
+      "cod": 812,
+      "descriere": "Extracția pietrişului şi nisipului; extracția argilei şi caolinului"
+    },
+    {
+      "cod": 891,
+      "descriere": "Extracția mineralelor pentru industria chimică şi a îngrăşămintelor naturale"
+    },
+    {
+      "cod": 9900,
+      "descriere": "Activități ale organizațiilor şi organismelor extrateritoriale"
+    },
+    {
+      "cod": 1011,
+      "descriere": "Producția şi conservarea cărnii"
+    },
+    {
+      "cod": 1012,
+      "descriere": "Prelucrarea şi conservarea cărnii de pasăre"
+    },
+    {
+      "cod": 1013,
+      "descriere": "Fabricarea produselor din carne (inclusiv din carne de pasăre)"
+    },
+    {
+      "cod": 1020,
+      "descriere": "Prelucrarea şi conservarea peştelui, crustaceelor şi moluştelor"
+    },
+    {
+      "cod": 1089,
+      "descriere": "Fabricarea altor produse alimentare n.c.a."
+    },
+    {
+      "cod": 1091,
+      "descriere": "Fabricarea preparatelor pentru hrana animalelor de fermă"
+    },
+    {
+      "cod": 1092,
+      "descriere": "Fabricarea preparatelor pentru hrana animalelor de companie"
+    },
+    {
+      "cod": 1101,
+      "descriere": "Distilarea, rafinarea şi mixarea băuturilor alcoolice"
+    },
+    {
+      "cod": 1102,
+      "descriere": "Fabricarea vinurilor din struguri"
+    },
+    {
+      "cod": 1103,
+      "descriere": "Fabricarea cidrului şi a altor vinuri din fructe"
+    },
+    {
+      "cod": 1104,
+      "descriere": "Fabricarea altor băuturi nedistilate, obținute prin fermentare"
+    },
+    {
+      "cod": 1105,
+      "descriere": "Fabricarea berii"
+    },
+    {
+      "cod": 1106,
+      "descriere": "Fabricarea malțului"
+    },
+    {
+      "cod": 1107,
+      "descriere": "Producția de băuturi răcoritoare nealcoolice; producția de ape minerale şi alte ape îmbuteliate"
+    },
+    {
+      "cod": 1200,
+      "descriere": "Fabricarea produselor din tutun"
+    },
+    {
+      "cod": 1310,
+      "descriere": "Pregătirea fibrelor şi filarea fibrelor textile"
+    },
+    {
+      "cod": 1320,
+      "descriere": "Producția de țesături"
+    },
+    {
+      "cod": 1330,
+      "descriere": "Finisarea materialelor textile"
+    },
+    {
+      "cod": 1391,
+      "descriere": "Fabricarea de metraje prin tricotare sau croşetare"
+    },
+    {
+      "cod": 1392,
+      "descriere": "Fabricarea de articole confecționate din textile (cu excepția îmbrăcămintei şi lenjeriei de corp)"
+    },
+    {
+      "cod": 1393,
+      "descriere": "Fabricarea de covoare şi mochete"
+    },
+    {
+      "cod": 1394,
+      "descriere": "Fabricarea de odgoane, frânghii, sfori şi plase"
+    },
+    {
+      "cod": 1395,
+      "descriere": "Fabricarea de textile nețesute şi articole din acestea, cu excepția confecțiilor de îmbrăcăminte"
+    },
+    {
+      "cod": 1396,
+      "descriere": "Fabricarea de articole tehnice şi industriale din textile"
+    },
+    {
+      "cod": 1399,
+      "descriere": "Fabricarea altor articole textile n.c.a."
+    },
+    {
+      "cod": 1411,
+      "descriere": "Fabricarea articolelor de îmbrăcăminte din piele"
+    },
+    {
+      "cod": 1412,
+      "descriere": "Fabricarea articolelor de îmbrăcăminte pentru lucru"
+    },
+    {
+      "cod": 1413,
+      "descriere": "Fabricarea altor articole de îmbrăcăminte (exclusiv lenjeria de corp)"
+    },
+    {
+      "cod": 1414,
+      "descriere": "Fabricarea de articole de lenjerie de corp"
+    },
+    {
+      "cod": 1419,
+      "descriere": "Fabricarea altor articole de îmbrăcăminte şi accesorii n.c.a."
+    },
+    {
+      "cod": 1420,
+      "descriere": "Fabricarea articolelor din blană"
+    },
+    {
+      "cod": 1431,
+      "descriere": "Fabricarea prin tricotare sau croşetare a ciorapilor şi articolelor de galanterie"
+    },
+    {
+      "cod": 1439,
+      "descriere": "Fabricarea prin tricotare sau croşetare a altor articole de îmbrăcăminte"
+    },
+    {
+      "cod": 1511,
+      "descriere": "Tăbăcirea şi finisarea pieilor; prepararea şi vopsirea blănurilor"
+    },
+    {
+      "cod": 1512,
+      "descriere": "Fabricarea articolelor de voiaj şi marochinărie şi a articolelor de harnaşament"
+    },
+    {
+      "cod": 1520,
+      "descriere": "Fabricarea încălțămintei"
+    },
+    {
+      "cod": 1610,
+      "descriere": "Tăierea şi rindeluirea lemnului"
+    },
+    {
+      "cod": 1621,
+      "descriere": "Fabricarea de furnire şi a panourilor de lemn"
+    },
+    {
+      "cod": 1622,
+      "descriere": "Fabricarea parchetului asamblat în panouri"
+    },
+    {
+      "cod": 1721,
+      "descriere": "Fabricarea hârtiei şi cartonului ondulat şi a ambalajelor din hârtie şi carton"
+    },
+    {
+      "cod": 1722,
+      "descriere": "Fabricarea produselor de uz gospodăresc şi sanitar, din hârtie sau carton"
+    },
+    {
+      "cod": 1723,
+      "descriere": "Fabricarea articolelor de papetărie"
+    },
+    {
+      "cod": 1724,
+      "descriere": "Fabricarea tapetului"
+    },
+    {
+      "cod": 1729,
+      "descriere": "Fabricarea altor articole din hârtie şi carton n.c.a."
+    },
+    {
+      "cod": 1811,
+      "descriere": "Tipărirea ziarelor"
+    },
+    {
+      "cod": 1812,
+      "descriere": "Alte activități de tipărire n.c.a."
+    },
+    {
+      "cod": 1813,
+      "descriere": "Servicii pregătitoare pentru pretipărire"
+    },
+    {
+      "cod": 1814,
+      "descriere": "Legătorie şi servicii conexe"
+    },
+    {
+      "cod": 1820,
+      "descriere": "Reproducerea înregistrărilor"
+    },
+    {
+      "cod": 1910,
+      "descriere": "Fabricarea produselor de cocserie"
+    },
+    {
+      "cod": 2011,
+      "descriere": "Fabricarea gazelor industriale"
+    },
+    {
+      "cod": 2012,
+      "descriere": "Fabricarea coloranților şi a pigmenților"
+    },
+    {
+      "cod": 2013,
+      "descriere": "Fabricarea altor produse chimice anorganice, de bază"
+    },
+    {
+      "cod": 2014,
+      "descriere": "Fabricarea altor produse chimice organice, de bază"
+    },
+    {
+      "cod": 2015,
+      "descriere": "Fabricarea îngrăşămintelor şi produselor azotoase"
+    },
+    {
+      "cod": 2016,
+      "descriere": "Fabricarea materialelor plastice în forme primare"
+    },
+    {
+      "cod": 2017,
+      "descriere": "Fabricarea cauciucului sintetic în forme primare"
+    },
+    {
+      "cod": 2020,
+      "descriere": "Fabricarea pesticidelor şi a altor produse agrochimice"
+    },
+    {
+      "cod": 2030,
+      "descriere": "Fabricarea vopselelor, lacurilor, cernelii tipografice şi masticurilor"
+    },
+    {
+      "cod": 2041,
+      "descriere": "Fabricarea săpunurilor, detergenților şi a produselor de întreținere"
+    },
+    {
+      "cod": 2042,
+      "descriere": "Fabricarea parfumurilor şi a produselor cosmetice (de toaletă)"
+    },
+    {
+      "cod": 2051,
+      "descriere": "Fabricarea explozivilor"
+    },
+    {
+      "cod": 2052,
+      "descriere": "Fabricarea cleiurilor"
+    },
+    {
+      "cod": 2053,
+      "descriere": "Fabricarea uleiurilor esențiale"
+    },
+    {
+      "cod": 2059,
+      "descriere": "Fabricarea altor produse chimice n.c.a."
+    },
+    {
+      "cod": 2060,
+      "descriere": "Fabricarea fibrelor sintetice şi artificiale"
+    },
+    {
+      "cod": 2110,
+      "descriere": "Fabricarea produselor farmaceutice de bază"
+    },
+    {
+      "cod": 2120,
+      "descriere": "Fabricarea preparatelor farmaceutice"
+    },
+    {
+      "cod": 2211,
+      "descriere": "Fabricarea anvelopelor şi a camerelor de aer; reşaparea şi refacerea anvelopelor"
+    },
+    {
+      "cod": 2219,
+      "descriere": "Fabricarea altor produse din cauciuc"
+    },
+    {
+      "cod": 2221,
+      "descriere": "Fabricarea plăcilor, foliilor, tuburilor şi profilelor din material plastic"
+    },
+    {
+      "cod": 2222,
+      "descriere": "Fabricarea articolelor de ambalaj din material plastic"
+    },
+    {
+      "cod": 2223,
+      "descriere": "Fabricarea articolelor din material plastic pentru construcții"
+    },
+    {
+      "cod": 2229,
+      "descriere": "Fabricarea altor produse din material plastic"
+    },
+    {
+      "cod": 2311,
+      "descriere": "Fabricarea sticlei plate"
+    },
+    {
+      "cod": 2312,
+      "descriere": "Prelucrarea şi fasonarea sticlei plate"
+    },
+    {
+      "cod": 2313,
+      "descriere": "Fabricarea articolelor din sticlă"
+    },
+    {
+      "cod": 2314,
+      "descriere": "Fabricarea fibrelor din sticlă"
+    },
+    {
+      "cod": 2319,
+      "descriere": "Fabricarea de sticlărie tehnică"
+    },
+    {
+      "cod": 2320,
+      "descriere": "Fabricarea de produse refractare"
+    },
+    {
+      "cod": 2331,
+      "descriere": "Fabricarea plăcilor şi dalelor din ceramică"
+    },
+    {
+      "cod": 2332,
+      "descriere": "Fabricarea cărămizilor, țiglelor şi a altor produse pentru construcții, din argilă arsă"
+    },
+    {
+      "cod": 2341,
+      "descriere": "Fabricarea articolelor ceramice pentru uz gospodăresc şi ornamental"
+    },
+    {
+      "cod": 2342,
+      "descriere": "Fabricarea de obiecte sanitare din ceramică"
+    },
+    {
+      "cod": 2343,
+      "descriere": "Fabricarea izolatorilor şi pieselor izolante din ceramică"
+    },
+    {
+      "cod": 2344,
+      "descriere": "Fabricarea altor produse tehnice din ceramică"
+    },
+    {
+      "cod": 2349,
+      "descriere": "Fabricarea altor produse ceramice n.c.a."
+    },
+    {
+      "cod": 2351,
+      "descriere": "Fabricarea cimentului"
+    },
+    {
+      "cod": 2352,
+      "descriere": "Fabricarea varului şi ipsosului"
+    },
+    {
+      "cod": 2361,
+      "descriere": "Fabricarea produselor din beton pentru construcții"
+    },
+    {
+      "cod": 2362,
+      "descriere": "Fabricarea produselor din ipsos pentru construcții"
+    },
+    {
+      "cod": 2363,
+      "descriere": "Fabricarea betonului"
+    },
+    {
+      "cod": 2364,
+      "descriere": "Fabricarea mortarului"
+    },
+    {
+      "cod": 2365,
+      "descriere": "Fabricarea produselor din azbociment"
+    },
+    {
+      "cod": 2369,
+      "descriere": "Fabricarea altor articole din beton, ciment şi ipsos"
+    },
+    {
+      "cod": 2370,
+      "descriere": "Tăierea, fasonarea şi finisarea pietrei"
+    },
+    {
+      "cod": 2391,
+      "descriere": "Fabricarea de produse abrazive"
+    },
+    {
+      "cod": 2399,
+      "descriere": "Fabricarea altor produse din minerale nemetalice, n.c.a."
+    },
+    {
+      "cod": 2410,
+      "descriere": "Producția de metale feroase sub forme primare şi de feroaliaje"
+    },
+    {
+      "cod": 2420,
+      "descriere": "Producția de tuburi, țevi, profile tubulare şi accesorii pentru acestea, din oțel"
+    },
+    {
+      "cod": 2431,
+      "descriere": "Tragere la rece a barelor"
+    },
+    {
+      "cod": 2432,
+      "descriere": "Laminare la rece a benzilor înguste"
+    },
+    {
+      "cod": 2433,
+      "descriere": "Producția de profiluri obținute la rece"
+    },
+    {
+      "cod": 2434,
+      "descriere": "Trefilarea firelor la rece"
+    },
+    {
+      "cod": 2441,
+      "descriere": "Producția metalelor prețioase"
+    },
+    {
+      "cod": 2442,
+      "descriere": "Metalurgia aluminiului"
+    },
+    {
+      "cod": 2443,
+      "descriere": "Producția plumbului, zincului şi cositorului"
+    },
+    {
+      "cod": 2444,
+      "descriere": "Metalurgia cuprului"
+    },
+    {
+      "cod": 2445,
+      "descriere": "Producția altor metale neferoase"
+    },
+    {
+      "cod": 2446,
+      "descriere": "Prelucrarea combustibililor nucleari"
+    },
+    {
+      "cod": 2451,
+      "descriere": "Turnarea fontei"
+    },
+    {
+      "cod": 2452,
+      "descriere": "Turnarea oțelului"
+    },
+    {
+      "cod": 1623,
+      "descriere": "Fabricarea altor elemente de dulgherie şi tâmplărie, pentru construcții"
+    },
+    {
+      "cod": 1624,
+      "descriere": "Fabricarea ambalajelor din lemn"
+    },
+    {
+      "cod": 1629,
+      "descriere": "Fabricarea altor produse din lemn; fabricarea articolelor din plută, paie şi din alte materiale vegetale împletite"
+    },
+    {
+      "cod": 1711,
+      "descriere": "Fabricarea celulozei"
+    },
+    {
+      "cod": 1712,
+      "descriere": "Fabricarea hârtiei şi cartonului"
+    },
+    {
+      "cod": 2453,
+      "descriere": "Turnarea metalelor neferoase uşoare"
+    },
+    {
+      "cod": 2454,
+      "descriere": "Turnarea altor metale neferoase"
+    },
+    {
+      "cod": 2511,
+      "descriere": "Fabricarea de construcții metalice şi părți componente ale structurilor metalice"
+    },
+    {
+      "cod": 2512,
+      "descriere": "Fabricarea de uşi şi ferestre din metal"
+    },
+    {
+      "cod": 2521,
+      "descriere": "Producția de radiatoare şi cazane pentru încălzire centrală"
+    },
+    {
+      "cod": 2529,
+      "descriere": "Producția de rezervoare, cisterne şi containere metalice"
+    },
+    {
+      "cod": 2530,
+      "descriere": "Producția generatoarelor de aburi (cu excepția cazanelor pentru încălzire centrală)"
+    },
+    {
+      "cod": 2540,
+      "descriere": "Fabricarea armamentului şi muniției"
+    },
+    {
+      "cod": 2550,
+      "descriere": "Fabricarea produselor metalice obținute prin deformare plastică; metalurgia pulberilor"
+    },
+    {
+      "cod": 2561,
+      "descriere": "Tratarea şi acoperirea metalelor"
+    },
+    {
+      "cod": 2562,
+      "descriere": "Operațiuni de mecanică generală"
+    },
+    {
+      "cod": 2571,
+      "descriere": "Fabricarea produselor de tăiat"
+    },
+    {
+      "cod": 2572,
+      "descriere": "Fabricarea articolelor de feronerie"
+    },
+    {
+      "cod": 2573,
+      "descriere": "Fabricarea uneltelor"
+    },
+    {
+      "cod": 2591,
+      "descriere": "Fabricarea de recipienți, containere şi alte produse similare din oțel"
+    },
+    {
+      "cod": 2592,
+      "descriere": "Fabricarea ambalajelor uşoare din metal"
+    },
+    {
+      "cod": 2593,
+      "descriere": "Fabricarea articolelor din fire metalice; fabricarea de lanțuri şi arcuri"
+    },
+    {
+      "cod": 2594,
+      "descriere": "Fabricarea de şuruburi, buloane şi alte articole filetate; fabricarea de nituri şi şaibe"
+    },
+    {
+      "cod": 2599,
+      "descriere": "Fabricarea altor articole din metal n.c.a."
+    },
+    {
+      "cod": 2611,
+      "descriere": "Fabricarea subansamblurilor electronice (module)"
+    },
+    {
+      "cod": 2612,
+      "descriere": "Fabricarea altor componente electronice"
+    },
+    {
+      "cod": 2620,
+      "descriere": "Fabricarea calculatoarelor şi a echipamentelor periferice"
+    },
+    {
+      "cod": 2630,
+      "descriere": "Fabricarea echipamentelor de comunicații"
+    },
+    {
+      "cod": 2640,
+      "descriere": "Fabricarea produselor electronice de larg consum"
+    },
+    {
+      "cod": 2651,
+      "descriere": "Fabricarea de instrumente şi dispozitive pentru măsură, verificare, control, navigație"
+    },
+    {
+      "cod": 2652,
+      "descriere": "Productia de ceasuri"
+    },
+    {
+      "cod": 2660,
+      "descriere": "Fabricarea de echipamente pentru radiologie, electrodiagnostic şi electroterapie"
+    },
+    {
+      "cod": 2670,
+      "descriere": "Fabricarea de instrumente optice şi echipamente fotografice"
+    },
+    {
+      "cod": 2680,
+      "descriere": "Fabricarea suporturilor  magnetice şi optice destinate înregistrărilor"
+    },
+    {
+      "cod": 2711,
+      "descriere": "Fabricarea motoarelor, generatoarelor şi transformatoarelor electrice şi a aparatelor de distribuție şi control a electricității"
+    },
+    {
+      "cod": 2712,
+      "descriere": "Fabricarea aparatelor de control şi distribuție a electricității"
+    },
+    {
+      "cod": 2720,
+      "descriere": "Fabricarea de acumulatori şi baterii"
+    },
+    {
+      "cod": 2731,
+      "descriere": "Fabricarea de cabluri cu fibră optică"
+    },
+    {
+      "cod": 2732,
+      "descriere": "Fabricarea altor fire şi cabluri electrice şi electrocasnice"
+    },
+    {
+      "cod": 2733,
+      "descriere": "Fabricarea dispozitivelor de conexiune pentru fire şi cabluri electrice şi electronice"
+    },
+    {
+      "cod": 2740,
+      "descriere": "Fabricarea de echipamente electrice de iluminat"
+    },
+    {
+      "cod": 2751,
+      "descriere": "Fabricarea de aparate electrocasnice"
+    },
+    {
+      "cod": 2752,
+      "descriere": "Fabricarea de echipamente casnice neelectrice"
+    },
+    {
+      "cod": 2790,
+      "descriere": "Fabricarea altor echipamente electrice"
+    },
+    {
+      "cod": 2811,
+      "descriere": "Fabricarea de motoare şi turbine (cu excepția celor pentru avioane, autovehicule şi motociclete)"
+    },
+    {
+      "cod": 2812,
+      "descriere": "Fabricarea de motoare hidraulice"
+    },
+    {
+      "cod": 2813,
+      "descriere": "Fabricarea de pompe şi compresoare"
+    },
+    {
+      "cod": 2814,
+      "descriere": "Fabricarea de articole de robinetărie"
+    },
+    {
+      "cod": 2815,
+      "descriere": "Fabricarea lagărelor, angrenajelor, cutiilor de viteză şi a elementelor mecanice de transmisie"
+    },
+    {
+      "cod": 2821,
+      "descriere": "Fabricarea cuptoarelor, furnalelor şi arzătoarelor"
+    },
+    {
+      "cod": 2822,
+      "descriere": "Fabricarea echipamentelor de ridicat şi manipulat"
+    },
+    {
+      "cod": 2823,
+      "descriere": "Fabricarea maşinilor şi echipamentelor de birou (exclusiv fabricarea calculatoarelor şi a echipamentelor periferice)"
+    },
+    {
+      "cod": 2824,
+      "descriere": "Fabricarea maşinilor-unelte portabile acționate electric"
+    },
+    {
+      "cod": 2825,
+      "descriere": "Fabricarea ehipamentelor de ventilație şi frigorifice, exclusiv a echipamentelor de uz casnic"
+    },
+    {
+      "cod": 2829,
+      "descriere": "Fabricarea altor maşini şi utilaje de utilizare generală n.c.a."
+    },
+    {
+      "cod": 2830,
+      "descriere": "Fabricarea maşinilor şi utilajelor pentru agricultură şi exploatări forestiere"
+    },
+    {
+      "cod": 2841,
+      "descriere": "Fabricarea utilajelor şi a maşinilor-unelte pentru prelucrarea metalului"
+    },
+    {
+      "cod": 2849,
+      "descriere": "Fabricarea altor maşini-unelte n.c.a."
+    },
+    {
+      "cod": 2891,
+      "descriere": "Fabricarea utilajelor pentru metalurgie"
+    },
+    {
+      "cod": 2892,
+      "descriere": "Fabricarea utilajelor pentru extracție şi construcții"
+    },
+    {
+      "cod": 2893,
+      "descriere": "Fabricarea utilajelor pentru prelucrarea produselor alimentare, băuturilor şi tutunului"
+    },
+    {
+      "cod": 2894,
+      "descriere": "Fabricarea utilajelor pentru industria textilă, a îmbrăcămintei şi a pielăriei"
+    },
+    {
+      "cod": 2895,
+      "descriere": "Fabricarea utilajelor pentru industria hârtiei şi cartonului"
+    },
+    {
+      "cod": 2896,
+      "descriere": "Fabricarea utilajelor pentru prelucrarea maselor plastice şi a cauciucului"
+    },
+    {
+      "cod": 2899,
+      "descriere": "Fabricarea altor maşini şi utilaje specifice n.c.a."
+    },
+    {
+      "cod": 2910,
+      "descriere": "Fabricarea autovehiculelor de transport rutier"
+    },
+    {
+      "cod": 2920,
+      "descriere": "Producția de caroserii pentru autovehicule; fabricarea de remorci şi semiremorci"
+    },
+    {
+      "cod": 2931,
+      "descriere": "Fabricarea de echipamente electrice şi electronice pentru autovehicule şi pentru motoare de autovehicule"
+    },
+    {
+      "cod": 2932,
+      "descriere": "Fabricarea altor piese şi accesorii pentru autovehicule şi pentru motoare de autovehicule"
+    },
+    {
+      "cod": 3011,
+      "descriere": "Construcția de nave şi structuri plutitoare"
+    },
+    {
+      "cod": 3012,
+      "descriere": "Construcția de ambarcațiuni sportive şi de agrement"
+    },
+    {
+      "cod": 3020,
+      "descriere": "Fabricarea materialului rulant"
+    },
+    {
+      "cod": 3030,
+      "descriere": "Fabricarea de aeronave şi nave spațiale"
+    },
+    {
+      "cod": 3040,
+      "descriere": "Fabricarea vehiculelor militare de luptă"
+    },
+    {
+      "cod": 3091,
+      "descriere": "Fabricarea de motociclete"
+    },
+    {
+      "cod": 3092,
+      "descriere": "Fabricarea de biciclete şi de vehicule pentru invalizi"
+    },
+    {
+      "cod": 3099,
+      "descriere": "Fabricarea altor mijloace de transport n.c.a."
+    },
+    {
+      "cod": 3101,
+      "descriere": "Fabricarea de mobilă pentru birouri şi magazine"
+    },
+    {
+      "cod": 3102,
+      "descriere": "Fabricarea de mobilă pentru bucătării"
+    },
+    {
+      "cod": 3103,
+      "descriere": "Fabricarea de saltele şi somiere"
+    },
+    {
+      "cod": 3109,
+      "descriere": "Fabricarea de mobilă n.c.a."
+    },
+    {
+      "cod": 3211,
+      "descriere": "Baterea monedelor"
+    },
+    {
+      "cod": 3212,
+      "descriere": "Fabricarea bijuteriilor şi articolelor similare din metale şi pietre prețioase"
+    },
+    {
+      "cod": 3213,
+      "descriere": "Fabricarea imitațiilor de bijuterii şi articole similare"
+    },
+    {
+      "cod": 3220,
+      "descriere": "Fabricarea instrumentelor muzicale"
+    },
+    {
+      "cod": 3230,
+      "descriere": "Fabricarea articolelor pentru sport"
+    },
+    {
+      "cod": 3240,
+      "descriere": "Fabricarea jocurilor şi jucăriilor"
+    },
+    {
+      "cod": 3250,
+      "descriere": "Producția de dispozitive, aparate şi instrumente medicale şi de laborator"
+    },
+    {
+      "cod": 3291,
+      "descriere": "Fabricarea măturilor şi periilor"
+    },
+    {
+      "cod": 3299,
+      "descriere": "Fabricarea altor produse manufacturiere n.c.a."
+    },
+    {
+      "cod": 3311,
+      "descriere": "Repararea articolelor fabricate din metal"
+    },
+    {
+      "cod": 3312,
+      "descriere": "Repararea maşinilor"
+    },
+    {
+      "cod": 3313,
+      "descriere": "Repararea echipamentelor electronice şi optice"
+    },
+    {
+      "cod": 3314,
+      "descriere": "Repararea echipamentelor electrice"
+    },
+    {
+      "cod": 3315,
+      "descriere": "Repararea şi întreținerea navelor şi bărcilor"
+    },
+    {
+      "cod": 3316,
+      "descriere": "Repararea şi întreținerea aeronavelor şi navelor spațiale"
+    },
+    {
+      "cod": 3317,
+      "descriere": "Repararea şi întreținerea altor echipamente de transport n.c.a."
+    },
+    {
+      "cod": 3319,
+      "descriere": "Repararea altor echipamente"
+    },
+    {
+      "cod": 3320,
+      "descriere": "Instalarea maşinilor şi echipamentelor industriale"
+    },
+    {
+      "cod": 3511,
+      "descriere": "Producția de energie electrică"
+    },
+    {
+      "cod": 3512,
+      "descriere": "Transportul energiei electrice"
+    },
+    {
+      "cod": 3513,
+      "descriere": "Distribuția energiei electrice"
+    },
+    {
+      "cod": 3514,
+      "descriere": "Comercializarea energiei electrice"
+    },
+    {
+      "cod": 3521,
+      "descriere": "Producția gazelor"
+    },
+    {
+      "cod": 3522,
+      "descriere": "Distribuția combustibililor gazoşi prin conducte"
+    },
+    {
+      "cod": 3523,
+      "descriere": "Comercializarea combustibililor gazoşi prin conducte"
+    },
+    {
+      "cod": 3530,
+      "descriere": "Furnizarea de abur şi aer condiționat"
+    },
+    {
+      "cod": 3600,
+      "descriere": "Captarea, tratarea şi distribuția apei"
+    },
+    {
+      "cod": 3700,
+      "descriere": "Colectarea şi epurarea apelor uzate"
+    },
+    {
+      "cod": 3811,
+      "descriere": "Colectarea deşeurilor nepericuloase"
+    },
+    {
+      "cod": 3812,
+      "descriere": "Colectarea deşeurilor periculoase"
+    },
+    {
+      "cod": 3821,
+      "descriere": "Tratarea şi eliminarea deşeurilor nepericuloase"
+    },
+    {
+      "cod": 3822,
+      "descriere": "Tratarea şi eliminarea deşeurilor periculoase"
+    },
+    {
+      "cod": 3831,
+      "descriere": "Demontarea (dezasamblarea) maşinilor şi echipamentelor scoase din uz pentru recuperarea materialelor"
+    },
+    {
+      "cod": 3832,
+      "descriere": "Recuperarea materialelor reciclabile sortate"
+    },
+    {
+      "cod": 3900,
+      "descriere": "Activități şi servicii de decontaminare"
+    },
+    {
+      "cod": 4110,
+      "descriere": "Dezvoltare (promovare) imobiliară"
+    },
+    {
+      "cod": 4120,
+      "descriere": "Lucrări de construcții a clădirilor rezidențiale şi nerezidențiale"
+    },
+    {
+      "cod": 4211,
+      "descriere": "Lucrări de construcții a drumurilor şi autostrăzilor"
+    },
+    {
+      "cod": 4212,
+      "descriere": "Lucrări de construcții a căilor ferate de suprafață  şi subterane"
+    },
+    {
+      "cod": 4213,
+      "descriere": "Costrucția de poduri şi tuneluri"
+    },
+    {
+      "cod": 4221,
+      "descriere": "Lucrări de construcții a proiectelor utilitare pentru fluide"
+    },
+    {
+      "cod": 4222,
+      "descriere": "Lucrări de construcții a proiectelor utilitare pentru electricitate şi telecomunicații"
+    },
+    {
+      "cod": 4291,
+      "descriere": "Construcții hidrotehnice"
+    },
+    {
+      "cod": 4299,
+      "descriere": "Lucrări de construcții a altor proiecte inginereşti n.c.a"
+    },
+    {
+      "cod": 4311,
+      "descriere": "Lucrări de demolare a construcțiilor"
+    },
+    {
+      "cod": 4312,
+      "descriere": "Lucrări de pregătire a terenului"
+    },
+    {
+      "cod": 4313,
+      "descriere": "Lucrări de foraj şi sondaj pentru construcții"
+    },
+    {
+      "cod": 4321,
+      "descriere": "Lucrări de instalații electrice"
+    },
+    {
+      "cod": 4322,
+      "descriere": "Lucrări de instalații sanitare, de încălzire şi de aer condiționat"
+    },
+    {
+      "cod": 4329,
+      "descriere": "Alte lucrări de instalații pentru construcții"
+    },
+    {
+      "cod": 4331,
+      "descriere": "Lucrări de ipsoserie"
+    },
+    {
+      "cod": 4332,
+      "descriere": "Lucrări de tâmplărie şi dulgherie"
+    },
+    {
+      "cod": 4333,
+      "descriere": "Lucrări de pardosire şi placare a pereților"
+    },
+    {
+      "cod": 4334,
+      "descriere": "Lucrări de vopsitorie, zugrăveli şi montări de geamuri"
+    },
+    {
+      "cod": 4339,
+      "descriere": "Alte lucrări de finisare"
+    },
+    {
+      "cod": 4391,
+      "descriere": "Lucrări de învelitori, şarpante şi terase la construcții"
+    },
+    {
+      "cod": 4399,
+      "descriere": "Alte lucrări speciale de construcții n.c.a."
+    },
+    {
+      "cod": 4511,
+      "descriere": "Comerț cu autoturisme şi autovehicule uşoare (sub 3,5 tone)"
+    },
+    {
+      "cod": 4519,
+      "descriere": "Comerț cu alte autovehicule"
+    },
+    {
+      "cod": 4520,
+      "descriere": "Întreținerea şi repararea autovehiculelor"
+    },
+    {
+      "cod": 4531,
+      "descriere": "Comerț cu ridicata de piese şi accesorii pentru autovehicule"
+    },
+    {
+      "cod": 4532,
+      "descriere": "Comerț cu amănuntul de piese şi accesorii pentru autovehicule"
+    },
+    {
+      "cod": 4540,
+      "descriere": "Comerț cu motociclete, piese şi accesorii aferente; întreținerea şi repararea motocicletelor"
+    },
+    {
+      "cod": 4611,
+      "descriere": "Intermedieri în comerțul cu materii prime agricole, animale vii, materii prime textile şi cu bunuri semifinite"
+    },
+    {
+      "cod": 4612,
+      "descriere": "Intermedieri în comerțul cu combustibili, minereuri, metale şi produse chimice pentru industrie"
+    },
+    {
+      "cod": 4613,
+      "descriere": "Intermedieri în comerțul cu material lemnos şi materiale de construcții"
+    },
+    {
+      "cod": 4614,
+      "descriere": "Intermedieri în comerțul cu maşini, echipamente industriale, nave şi avioane"
+    },
+    {
+      "cod": 4615,
+      "descriere": "Intermedieri în comerțul cu mobilă, articole de menaj şi de fierărie"
+    },
+    {
+      "cod": 4616,
+      "descriere": "Intermedieri în comerțul cu textile, confecții din blană , încălțăminte şi articole din piele"
+    },
+    {
+      "cod": 4617,
+      "descriere": "Intermedieri în comerțul cu produse alimentare, băuturi şi tutun"
+    },
+    {
+      "cod": 4618,
+      "descriere": "Intermedieri în comerțul specializat în vânzarea produselor cu caracter specific, n.c.a."
+    },
+    {
+      "cod": 4619,
+      "descriere": "Intermedieri în comerțul cu produse diverse"
+    },
+    {
+      "cod": 4621,
+      "descriere": "Comerț cu ridicata al cerealelor, semințelor, furajelor şi tutunului neprelucrat"
+    },
+    {
+      "cod": 4622,
+      "descriere": "Comerț cu ridicata al florilor şi al plantelor"
+    },
+    {
+      "cod": 4623,
+      "descriere": "Comerț cu ridicata al animalelor vii"
+    },
+    {
+      "cod": 4624,
+      "descriere": "Comerț cu ridicata al blănurilor, pieilor brute şi al pieilor prelucrate"
+    },
+    {
+      "cod": 4631,
+      "descriere": "Comerț cu ridicata al fructelor şi legumelor"
+    },
+    {
+      "cod": 4632,
+      "descriere": "Comerț cu ridicata al cărnii şi produselor din carne"
+    },
+    {
+      "cod": 4633,
+      "descriere": "Comerț cu ridicata al produselor lactate, ouălor, uleiurilor şi grăsimilor comestibile"
+    },
+    {
+      "cod": 4634,
+      "descriere": "Comerț cu ridicata al băuturilor"
+    },
+    {
+      "cod": 4635,
+      "descriere": "Comerț cu ridicata al produselor din tutun"
+    },
+    {
+      "cod": 4636,
+      "descriere": "Comerț cu ridicata al zahărului, ciocolatei şi produselor zaharoase"
+    },
+    {
+      "cod": 4637,
+      "descriere": "Comerț cu ridicata cu cafea, ceai, cacao şi condimente"
+    },
+    {
+      "cod": 4638,
+      "descriere": "Comerț cu ridicata specializat al altor alimente, inclusiv peşte, crustacee şi moluşte"
+    },
+    {
+      "cod": 4639,
+      "descriere": "Comerț cu ridicata nespecializat de produse alimentare, băuturi şi tutun"
+    },
+    {
+      "cod": 4641,
+      "descriere": "Comerț cu ridicata al produselor textile"
+    },
+    {
+      "cod": 4642,
+      "descriere": "Comerț cu ridicata al îmbrăcămintei şi încălțămintei"
+    },
+    {
+      "cod": 4643,
+      "descriere": "Comerț cu ridicata al aparatelor electrice de uz gospodăresc, al aparatelor de radio şi televizoarelor"
+    },
+    {
+      "cod": 4644,
+      "descriere": "Comerț cu ridicata al produselor din ceramică, sticlărie, şi al produselor de întreținere"
+    },
+    {
+      "cod": 4645,
+      "descriere": "Comerț cu ridicata al produselor cosmetice şi de parfumerie"
+    },
+    {
+      "cod": 4646,
+      "descriere": "Comerț cu ridicata al produselor farmaceutice"
+    },
+    {
+      "cod": 4647,
+      "descriere": "Comerț cu ridicata al mobilei, covoarelor şi a articolelor de iluminat"
+    },
+    {
+      "cod": 4648,
+      "descriere": "Comerț cu ridicata al ceasurilor şi bijuteriilor"
+    },
+    {
+      "cod": 4649,
+      "descriere": "Comerț cu ridicata al altor bunuri de uz gospodăresc"
+    },
+    {
+      "cod": 4651,
+      "descriere": "Comerț cu ridicata al calculatoarelor, echipamentelor periferice şi software- ului"
+    },
+    {
+      "cod": 4652,
+      "descriere": "Comerț cu ridicata de componente şi echipamente electronice şi de telecomunicații"
+    },
+    {
+      "cod": 4661,
+      "descriere": "Comerț cu ridicata al maşinilor agricole, echipamentelor şi furniturilor"
+    },
+    {
+      "cod": 4662,
+      "descriere": "Comerț cu ridicata al maşinilor- unelte"
+    },
+    {
+      "cod": 4663,
+      "descriere": "Comerț cu ridicata al maşinilor pentru industria minieră şi construcții"
+    },
+    {
+      "cod": 4664,
+      "descriere": "Comerț cu ridicata al maşinilor pentru industria textilă şi al maşinilor de cusut şi de tricotat"
+    },
+    {
+      "cod": 4665,
+      "descriere": "Comerț cu ridicata al mobilei de birou"
+    },
+    {
+      "cod": 4666,
+      "descriere": "Comerț cu ridicata al altor maşini şi echipamente de birou"
+    },
+    {
+      "cod": 4920,
+      "descriere": "Transporturi de marfă pe calea ferată"
+    },
+    {
+      "cod": 4931,
+      "descriere": "Transporturi urbane, suburbane şi metropolitane de călători"
+    },
+    {
+      "cod": 4932,
+      "descriere": "Transporturi cu taxiuri"
+    },
+    {
+      "cod": 4939,
+      "descriere": "Alte transporturi terestre de călători n.c.a"
+    },
+    {
+      "cod": 4941,
+      "descriere": "Transporturi rutiere de mărfuri"
+    },
+    {
+      "cod": 4942,
+      "descriere": "Servicii de mutare"
+    },
+    {
+      "cod": 4950,
+      "descriere": "Transporturi prin conducte"
+    },
+    {
+      "cod": 5010,
+      "descriere": "Transporturi maritime şi costiere de pasageri"
+    },
+    {
+      "cod": 5020,
+      "descriere": "Transporturi maritime şi costiere de marfă"
+    },
+    {
+      "cod": 5030,
+      "descriere": "Transporturi de pasageri pe căi navigabile interioare"
+    },
+    {
+      "cod": 5040,
+      "descriere": "Transportul de marfă pe căi navigabile interioare"
+    },
+    {
+      "cod": 5110,
+      "descriere": "Transporturi aeriene de pasageri"
+    },
+    {
+      "cod": 5121,
+      "descriere": "Transporturi aeriene de marfă"
+    },
+    {
+      "cod": 5122,
+      "descriere": "Transporturi spațiale"
+    },
+    {
+      "cod": 5210,
+      "descriere": "Depozitări"
+    },
+    {
+      "cod": 5221,
+      "descriere": "Activități de servicii anexe pentru transporturi terestre"
+    },
+    {
+      "cod": 5222,
+      "descriere": "Activități de servicii anexe transportului pe apă"
+    },
+    {
+      "cod": 5223,
+      "descriere": "Activități de servicii anexe transporturilor aeriene"
+    },
+    {
+      "cod": 5224,
+      "descriere": "Manipulări"
+    },
+    {
+      "cod": 5229,
+      "descriere": "Alte activități anexe transporturilor"
+    },
+    {
+      "cod": 5310,
+      "descriere": "Activități poştale desfăşurate sub obligativitatea serviciului universal"
+    },
+    {
+      "cod": 5320,
+      "descriere": "Alte activități poştale şi de curier"
+    },
+    {
+      "cod": 5510,
+      "descriere": "Hoteluri şi alte facilități de cazare similare"
+    },
+    {
+      "cod": 5520,
+      "descriere": "Facilități de cazare pentru vacanțe şi perioade de scurtă durată"
+    },
+    {
+      "cod": 5530,
+      "descriere": "Parcuri pentru rulote, campinguri şi tabere"
+    },
+    {
+      "cod": 5590,
+      "descriere": "Alte servicii de cazare"
+    },
+    {
+      "cod": 5610,
+      "descriere": "Restaurante"
+    },
+    {
+      "cod": 5621,
+      "descriere": "Activități de alimentație (catering) pentru evenimente"
+    },
+    {
+      "cod": 5629,
+      "descriere": "Alte activități de alimentație n.c.a."
+    },
+    {
+      "cod": 5630,
+      "descriere": "Baruri şi alte activități de servire a băuturilor"
+    },
+    {
+      "cod": 5811,
+      "descriere": "Activități de editare a cărților"
+    },
+    {
+      "cod": 5812,
+      "descriere": "Activități de editare de ghiduri, compendii, liste de adrese şi similare"
+    },
+    {
+      "cod": 5814,
+      "descriere": "Activități de editare a revistelor şi periodicelor"
+    },
+    {
+      "cod": 5819,
+      "descriere": "Alte activități de editare"
+    },
+    {
+      "cod": 5821,
+      "descriere": "Activități de editare a jocurilor de calculator"
+    },
+    {
+      "cod": 5829,
+      "descriere": "Activități de editare a altor produse software"
+    },
+    {
+      "cod": 5911,
+      "descriere": "Activități de producție cinematografică, video şi de programe de televiziune"
+    },
+    {
+      "cod": 5912,
+      "descriere": "Activități de postproducție cinematografică, video şi de programe de televiziune"
+    },
+    {
+      "cod": 5913,
+      "descriere": "Activități de distribuție a filmelor cinematografice, video şi a programelor de televiziune"
+    },
+    {
+      "cod": 5914,
+      "descriere": "Proiecția de filme cinematografice"
+    },
+    {
+      "cod": 5920,
+      "descriere": "Activități de realizare a înregistrărilor audio şi activități de editare muzicală"
+    },
+    {
+      "cod": 6010,
+      "descriere": "Activități de difuzare a programelor de radio"
+    },
+    {
+      "cod": 6020,
+      "descriere": "Activități de difuzare a programelor de televiziune"
+    },
+    {
+      "cod": 4669,
+      "descriere": "Comerț cu ridicata al altor maşini şi echipamente"
+    },
+    {
+      "cod": 4671,
+      "descriere": "Comerț cu ridicata al combustibililor solizi, lichizi şi gazoşi al produselor derivate"
+    },
+    {
+      "cod": 4672,
+      "descriere": "Comerț cu ridicata al metalelor şi minereurilor metalice"
+    },
+    {
+      "cod": 4673,
+      "descriere": "Comerț cu ridicata al materialului lemnos şi al materialelor de construcții şi echipamentelor sanitare"
+    },
+    {
+      "cod": 4674,
+      "descriere": "Comerț cu ridicata al echipamentelor şi furniturilor de fierărie pentru instalații sanitare şi de încălzire"
+    },
+    {
+      "cod": 4675,
+      "descriere": "Comerț cu ridicata al produselor chimice"
+    },
+    {
+      "cod": 4676,
+      "descriere": "Comerț cu ridicata al altor produse intermediare"
+    },
+    {
+      "cod": 4677,
+      "descriere": "Comerț cu ridicata al deşeurilor şi resturilor"
+    },
+    {
+      "cod": 4690,
+      "descriere": "Comerț cu ridicata nespecializat"
+    },
+    {
+      "cod": 4711,
+      "descriere": "Comerț cu amănuntul în magazine nespecializate, cu vânzare predominantă de produse alimentare, băuturi şi tutun"
+    },
+    {
+      "cod": 4719,
+      "descriere": "Comerț cu amănuntul în magazine nespecializate, cu vânzare predominantă de produse nealimentare"
+    },
+    {
+      "cod": 4721,
+      "descriere": "Comerț cu amănuntul al fructelor şi legumelor proaspete, în magazine specializate"
+    },
+    {
+      "cod": 4722,
+      "descriere": "Comerț cu amănuntul al cărnii şi al produselor din carne, în magazine specializate"
+    },
+    {
+      "cod": 4723,
+      "descriere": "Comerț cu amănuntul al peştelui, crustaceelor şi moluştelor, în magazine specializate"
+    },
+    {
+      "cod": 4724,
+      "descriere": "Comerț cu amănuntul al pâinii, produselor de patiserie şi produselor zaharoase, în magazine specializate"
+    },
+    {
+      "cod": 4725,
+      "descriere": "Comerț cu amănuntul al băuturilor, în magazine specializate"
+    },
+    {
+      "cod": 4726,
+      "descriere": "Comerț cu amănuntul al produselor din tutun, în magazine specializate"
+    },
+    {
+      "cod": 4729,
+      "descriere": "Comerț cu amănuntul al altor produse alimentare, în magazine specializate"
+    },
+    {
+      "cod": 4730,
+      "descriere": "Comerț cu amănuntul al carburanților pentru autovehicule, în magazine specializate"
+    },
+    {
+      "cod": 4741,
+      "descriere": "Comerț cu amănuntul al calculatoarelor, unităților periferice şi software-ului, in magazine specializate"
+    },
+    {
+      "cod": 4742,
+      "descriere": "Comerț cu amănuntul al echipamentului pentru telecomunicații, în magazine specializate"
+    },
+    {
+      "cod": 4743,
+      "descriere": "Comerț cu amănuntul al echipamentului audio/ video, în magazine specializate"
+    },
+    {
+      "cod": 4751,
+      "descriere": "Comerț cu amănuntul al textilelor, în magazine specializate"
+    },
+    {
+      "cod": 4752,
+      "descriere": "Comerț cu amănuntul al articolelor de fierărie, al articolelor din sticlă şi a celor pentru vopsit, în magazine specializate"
+    },
+    {
+      "cod": 4753,
+      "descriere": "Comerț cu amănuntul al covoarelor, carpetelor, tapetelor şi al altor acoperitoare de podea, în magazine specializate"
+    },
+    {
+      "cod": 4754,
+      "descriere": "Comerț cu amănuntul al articolelor şi aparatelor electrocasnice, în magazine specializate"
+    },
+    {
+      "cod": 4759,
+      "descriere": "Comerț cu amănuntul al mobilei, al articolelor de iluminat şi al articolelor de uz casnic n.c.a., în magazine specializate"
+    },
+    {
+      "cod": 4761,
+      "descriere": "Comerț cu amănuntul al cărților, în magazine specializate"
+    },
+    {
+      "cod": 4762,
+      "descriere": "Comerț cu amănuntul al ziarelor şi articolelor de papetărie, în magazine specializate"
+    },
+    {
+      "cod": 4763,
+      "descriere": "Comerț cu amănuntul al discurilor şi benzilor magnetice cu sau fără înregistrări audio/ video , în magazine specializate"
+    },
+    {
+      "cod": 4764,
+      "descriere": "Comerț cu amănuntul al echipamentelor sportive, în magazine specializate"
+    },
+    {
+      "cod": 4765,
+      "descriere": "Comerț cu amănuntul al jocurilor şi jucăriilor, în magazine specializate"
+    },
+    {
+      "cod": 4771,
+      "descriere": "Comerț cu amănuntul al îmbrăcămintei, în magazine specializate"
+    },
+    {
+      "cod": 4772,
+      "descriere": "Comerț cu amănuntul al încălțămintei şi articolelor din piele, în magazine specializate"
+    },
+    {
+      "cod": 4773,
+      "descriere": "Comerț cu amănuntul al produselor farmaceutice, în magazine specializate"
+    },
+    {
+      "cod": 4774,
+      "descriere": "Comerț cu amănuntul al articolelor medicale şi ortopedice, în magazine specializate"
+    },
+    {
+      "cod": 4775,
+      "descriere": "Comerț cu amănuntul al produselor cosmetice şi de parfumerie, în magazine specializate"
+    },
+    {
+      "cod": 4776,
+      "descriere": "Comerț cu amănuntul al florilor, plantelor şi semințelor, comerț cu amănuntul al animalelor de companie şi al hranei pentru acestea, în magazine specializate"
+    },
+    {
+      "cod": 4777,
+      "descriere": "Comerț cu amănuntul al ceasurilor şi bijuteriilor, în magazine specializate"
+    },
+    {
+      "cod": 4778,
+      "descriere": "Comerț cu amănuntul al altor bunuri noi, în magazine specializate"
+    },
+    {
+      "cod": 4779,
+      "descriere": "Comerț cu amănuntul al bunurilor de ocazie vândute prin magazine"
+    },
+    {
+      "cod": 4781,
+      "descriere": "Comerț cu amănuntul al produselor alimentare, băuturilor şi produselor din tutun efectuat prin standuri, chioşcuri şi piețe"
+    },
+    {
+      "cod": 4782,
+      "descriere": "Comerț cu amănuntul al textilelor, îmbrăcămintei şi încălțămintei efectuat prin standuri, chioşcuri şi piețe"
+    },
+    {
+      "cod": 4789,
+      "descriere": "Comerț cu amănuntul prin standuri, chioşcuri şi piețe al altor produse"
+    },
+    {
+      "cod": 4791,
+      "descriere": "Comerț cu amănuntul prin intermediul caselor de comenzi sau prin internet"
+    },
+    {
+      "cod": 4799,
+      "descriere": "Comerț cu amănuntul altfel efectuat în afara  magazinelor, standurilor, chioşcurilor şi piețelor"
+    },
+    {
+      "cod": 4910,
+      "descriere": "Transporturi interurbane de călători pe calea ferată"
+    },
+    {
+      "cod": 9511,
+      "descriere": "Repararea calculatoarelor şi a echipamentelor periferice"
+    },
+    {
+      "cod": 9512,
+      "descriere": "Repararea echipamentelor de comunicații"
+    },
+    {
+      "cod": 9521,
+      "descriere": "Repararea aparatelor electronice, de uz casnic"
+    },
+    {
+      "cod": 9522,
+      "descriere": "Repararea dispozitivelor de uz gospodăresc şi a echipamentelor pentru casă şi grădină"
+    },
+    {
+      "cod": 9523,
+      "descriere": "Repararea încălțămintei şi a articolelor din piele"
+    },
+    {
+      "cod": 9524,
+      "descriere": "Repararea mobilei şi a furniturilor casnice"
+    },
+    {
+      "cod": 9525,
+      "descriere": "Repararea ceasurilor şi a bijuteriilor"
+    },
+    {
+      "cod": 9529,
+      "descriere": "Repararea articolelor de uz personal şi gospodăresc n.c.a."
+    },
+    {
+      "cod": 9601,
+      "descriere": "Spălarea şi curățarea (uscată) articolelor textile şi a produselor din blană"
+    },
+    {
+      "cod": 9602,
+      "descriere": "Coafură şi alte activități de înfrumusețare"
+    },
+    {
+      "cod": 9603,
+      "descriere": "Activități de pompe funebre şi similare"
+    },
+    {
+      "cod": 9604,
+      "descriere": "Activități de întreținere corporală"
+    },
+    {
+      "cod": 9609,
+      "descriere": "Alte activități de servicii n.c.a."
+    },
+    {
+      "cod": 9700,
+      "descriere": "Activități ale gospodăriilor private în calitate de angajator de personal casnic"
+    },
+    {
+      "cod": 9810,
+      "descriere": "Activități ale gospodăriilor private de producere de bunuri şi servicii destinate consumului propriu"
+    },
+    {
+      "cod": 9820,
+      "descriere": "Activități ale gospodăriilor private de producere de servicii pentru scopuri proprii"
+    },
+    {
+      "cod": 1920,
+      "descriere": "Fabricarea produselor obținute din prelucrarea țițeiului"
+    },
+    {
+      "cod": 6110,
+      "descriere": "Activități de telecomunicații prin rețele cu cablu"
+    },
+    {
+      "cod": 6120,
+      "descriere": "Activități de telecomunicații prin rețele fără cablu (exclusiv prin satelit)"
+    },
+    {
+      "cod": 6130,
+      "descriere": "Activități de telecomunicații prin satelit"
+    },
+    {
+      "cod": 6190,
+      "descriere": "Alte activități de telecomunicații"
+    },
+    {
+      "cod": 6201,
+      "descriere": "Activități de realizare a soft-ului la comandă (software orientat client)"
+    },
+    {
+      "cod": 6202,
+      "descriere": "Activități de consultanță în tehnologia informației"
+    },
+    {
+      "cod": 6203,
+      "descriere": "Activități de management (gestiune şi exploatare) al mijloacelor de calcul"
+    },
+    {
+      "cod": 6209,
+      "descriere": "Alte activități de servicii privind tehnologia informației"
+    },
+    {
+      "cod": 6311,
+      "descriere": "Prelucrarea datelor, administrarea paginilor web şi activități conexe"
+    },
+    {
+      "cod": 6312,
+      "descriere": "Activități ale portalurilor web"
+    },
+    {
+      "cod": 6391,
+      "descriere": "Activități ale agențiilor de ştiri"
+    },
+    {
+      "cod": 6399,
+      "descriere": "Alte activități de servicii informaționale n.c.a."
+    },
+    {
+      "cod": 6411,
+      "descriere": "Activități ale băncii centrale (naționale)"
+    },
+    {
+      "cod": 6419,
+      "descriere": "Alte activități de intermedieri monetare"
+    },
+    {
+      "cod": 6420,
+      "descriere": "Activități ale holdingurilor"
+    },
+    {
+      "cod": 6430,
+      "descriere": "Fonduri mutuale şi alte entități financiare similare"
+    },
+    {
+      "cod": 6491,
+      "descriere": "Leasing financiar"
+    },
+    {
+      "cod": 6492,
+      "descriere": "Alte activități de creditare"
+    },
+    {
+      "cod": 6499,
+      "descriere": "Alte intermedieri financiare n.c.a."
+    },
+    {
+      "cod": 6511,
+      "descriere": "Activități de asigurări de viață"
+    },
+    {
+      "cod": 6512,
+      "descriere": "Alte activități de asigurări (exceptând asigurările de viață)"
+    },
+    {
+      "cod": 6520,
+      "descriere": "Activități de reasigurare"
+    },
+    {
+      "cod": 6530,
+      "descriere": "Activități ale fondurilor de pensii (cu excepția celor din sistemul public de asigurări sociale)"
+    },
+    {
+      "cod": 6611,
+      "descriere": "Administrarea piețelor financiare"
+    },
+    {
+      "cod": 6612,
+      "descriere": "Activități de intermediere a tranzacțiilor financiare"
+    },
+    {
+      "cod": 6619,
+      "descriere": "Activități auxiliare intermedierilor financiare, exclusiv activități de asigurari şi fonduri de pensii"
+    },
+    {
+      "cod": 6621,
+      "descriere": "Activități de evaluare a riscului de asigurare şi a pagubelor"
+    },
+    {
+      "cod": 6622,
+      "descriere": "Activități ale agenților şi brokerilor de asigurări"
+    },
+    {
+      "cod": 6629,
+      "descriere": "Alte activități auxiliare activităților de asigurări şi fonduri de pensii"
+    },
+    {
+      "cod": 6630,
+      "descriere": "Activități de administrare a fondurilor"
+    },
+    {
+      "cod": 6810,
+      "descriere": "Cumpărarea şi vânzarea de bunuri imobiliare proprii"
+    },
+    {
+      "cod": 6820,
+      "descriere": "Închirierea şi subînchirierea bunurilor imobiliare proprii sau în leasing"
+    },
+    {
+      "cod": 6831,
+      "descriere": "Agenții imobiliare"
+    },
+    {
+      "cod": 6832,
+      "descriere": "Administrarea imobilelor pe bază de comision sau contract"
+    },
+    {
+      "cod": 6910,
+      "descriere": "Activități juridice"
+    },
+    {
+      "cod": 6920,
+      "descriere": "Activități de contabilitate şi audit financiar; consultanță în domeniul fiscal"
+    },
+    {
+      "cod": 7010,
+      "descriere": "Activități ale direcțiilor (centralelor), birourilor administrative centralizate"
+    },
+    {
+      "cod": 7021,
+      "descriere": "Activități de consultanță în domeniul relațiilor publice şi al comunicării"
+    },
+    {
+      "cod": 7022,
+      "descriere": "Activități de consultanță pentru afaceri şi management"
+    },
+    {
+      "cod": 7111,
+      "descriere": "Activități de arhitectură"
+    },
+    {
+      "cod": 7112,
+      "descriere": "Activități de inginerie şi consultanță tehnică legate de acestea"
+    },
+    {
+      "cod": 7120,
+      "descriere": "Activități de testare şi analize tehnice"
+    },
+    {
+      "cod": 7211,
+      "descriere": "Cercetare-dezvoltare în biotehnologie"
+    },
+    {
+      "cod": 7219,
+      "descriere": "Cercetare-dezvoltare în alte ştiințe naturale şi inginerie"
+    },
+    {
+      "cod": 7220,
+      "descriere": "Cercetare-dezvoltare în ştiințe sociale şi umaniste"
+    },
+    {
+      "cod": 7311,
+      "descriere": "Activități ale agențiilor de publicitate"
+    },
+    {
+      "cod": 7312,
+      "descriere": "Servicii de reprezentare media"
+    },
+    {
+      "cod": 7320,
+      "descriere": "Activități de studiere a pieței şi de sondare a opiniei publice"
+    },
+    {
+      "cod": 7410,
+      "descriere": "Activități de design specializat"
+    },
+    {
+      "cod": 7420,
+      "descriere": "Activități fotografice"
+    },
+    {
+      "cod": 7430,
+      "descriere": "Activități de traducere scrisă şi orală (interpreți)"
+    },
+    {
+      "cod": 7490,
+      "descriere": "Alte activități profesionale, ştiințifice şi tehnice n.c.a."
+    },
+    {
+      "cod": 7500,
+      "descriere": "Activități veterinare"
+    },
+    {
+      "cod": 7711,
+      "descriere": "Activități de închiriere şi leasing cu autoturisme şi autovehicule rutiere uşoare"
+    },
+    {
+      "cod": 7712,
+      "descriere": "Activități de închiriere şi leasing cu autovehicule rutiere grele"
+    },
+    {
+      "cod": 7721,
+      "descriere": "Activități de închiriere şi leasing cu bunuri recreaționale şi echipament sportiv"
+    },
+    {
+      "cod": 7722,
+      "descriere": "Închirierea de casete video şi discuri (CD-uri, DVD-uri)"
+    },
+    {
+      "cod": 7729,
+      "descriere": "Activități de închiriere şi leasing cu alte bunuri personale şi gospodăreşti n.c.a."
+    },
+    {
+      "cod": 7731,
+      "descriere": "Activități de închiriere şi leasing cu maşini şi echipamente agricole"
+    },
+    {
+      "cod": 7732,
+      "descriere": "Activități de închiriere şi leasing cu maşini şi echipamente pentru construcții"
+    },
+    {
+      "cod": 7733,
+      "descriere": "Activități de închiriere şi leasing cu maşini şi echipamente de birou (inclusiv calculatoare)"
+    },
+    {
+      "cod": 7734,
+      "descriere": "Activități de închiriere şi leasing cu maşini şi echipamente de transport pe apă"
+    },
+    {
+      "cod": 7735,
+      "descriere": "Activități de închiriere şi leasing cu maşini şi echipamente de transport aerian"
+    },
+    {
+      "cod": 7739,
+      "descriere": "Activități de închiriere şi leasing cu alte maşini, echipamente şi bunuri tangibile"
+    },
+    {
+      "cod": 7740,
+      "descriere": "Leasing cu bunuri intangibile (exclusiv financiare)"
+    },
+    {
+      "cod": 7810,
+      "descriere": "Activități ale agențiilor de plasare a forței de muncă"
+    },
+    {
+      "cod": 7820,
+      "descriere": "Activități de contractare, pe baze temporare, a personalului"
+    },
+    {
+      "cod": 7830,
+      "descriere": "Alte servicii de furnizare a forței de muncă"
+    },
+    {
+      "cod": 7911,
+      "descriere": "Activități ale agențiilor turistice"
+    },
+    {
+      "cod": 7912,
+      "descriere": "Activități ale tur-operatorilor"
+    },
+    {
+      "cod": 7990,
+      "descriere": "Alte servicii de rezervare şi asistență turistică"
+    },
+    {
+      "cod": 8010,
+      "descriere": "Activități de protecție şi gardă"
+    },
+    {
+      "cod": 8020,
+      "descriere": "Activități de servicii privind sistemele de securizare"
+    },
+    {
+      "cod": 8030,
+      "descriere": "Activități de investigații"
+    },
+    {
+      "cod": 8110,
+      "descriere": "Activități de servicii suport combinate"
+    },
+    {
+      "cod": 8121,
+      "descriere": "Activități generale (nespecializate) de curățenie interioară a clădirilor"
+    },
+    {
+      "cod": 8122,
+      "descriere": "Activități specializate de curățenie a clădirilor, mijloacelor de transport, maşinilor şi utilajelor industriale"
+    },
+    {
+      "cod": 8129,
+      "descriere": "Alte activități de curățenie n.c.a."
+    },
+    {
+      "cod": 8130,
+      "descriere": "Activități de întreținere peisagistică"
+    },
+    {
+      "cod": 8211,
+      "descriere": "Activități combinate de secretariat"
+    },
+    {
+      "cod": 8219,
+      "descriere": "Activități de fotocopiere, de pregătire a documentelor şi alte activități specializate de secretariat"
+    },
+    {
+      "cod": 8220,
+      "descriere": "Activități ale centrelor de intermediere telefonică (call center)"
+    },
+    {
+      "cod": 8230,
+      "descriere": "Activități de organizare a expozițiilor, târgurilor şi congreselor"
+    },
+    {
+      "cod": 8291,
+      "descriere": "Activități ale agențiilor de colectare şi a birourilor (oficiilor) de raportare a creditului"
+    },
+    {
+      "cod": 8292,
+      "descriere": "Activități de ambalare"
+    },
+    {
+      "cod": 8299,
+      "descriere": "Alte activități de servicii suport pentru întreprinderi n.c.a."
+    },
+    {
+      "cod": 8411,
+      "descriere": "Servicii de administrație publică generală"
+    },
+    {
+      "cod": 8412,
+      "descriere": "Reglementarea activităților organismelor care prestează servicii în domeniul îngrijirii sănătății, învățământului, culturii şi al altor activități sociale, exclusiv protecția socială"
+    },
+    {
+      "cod": 8413,
+      "descriere": "Reglementarea şi eficientizarea activităților economice"
+    },
+    {
+      "cod": 8421,
+      "descriere": "Activități de servicii externe"
+    },
+    {
+      "cod": 8422,
+      "descriere": "Activități de apărare națională"
+    },
+    {
+      "cod": 8423,
+      "descriere": "Activități de justiție"
+    },
+    {
+      "cod": 8424,
+      "descriere": "Activități de ordine publică şi de protecție civilă"
+    },
+    {
+      "cod": 8425,
+      "descriere": "Activități de luptă împotriva incendiilor şi de prevenire a acestora"
+    },
+    {
+      "cod": 8430,
+      "descriere": "Activități de protecție socială obligatorie"
+    },
+    {
+      "cod": 8510,
+      "descriere": "Învățământ preşcolar"
+    },
+    {
+      "cod": 8520,
+      "descriere": "Învățământ primar"
+    },
+    {
+      "cod": 8531,
+      "descriere": "Învățământ secundar general"
+    },
+    {
+      "cod": 8532,
+      "descriere": "Învățământ secundar, tehnic sau profesional"
+    },
+    {
+      "cod": 8541,
+      "descriere": "Învățământ superior nonuniversitar"
+    },
+    {
+      "cod": 8542,
+      "descriere": "Învățământ superior universitar"
+    },
+    {
+      "cod": 8551,
+      "descriere": "Învățământ în domeniul sportiv şi recreațional"
+    },
+    {
+      "cod": 8552,
+      "descriere": "Învățământ în domeniul cultural (limbi străine, muzică, teatru, dans, arte plastice, şi alte domenii)"
+    },
+    {
+      "cod": 8553,
+      "descriere": "Şcoli de conducere (pilotaj)"
+    },
+    {
+      "cod": 8559,
+      "descriere": "Alte forme de învățământ n.c.a."
+    },
+    {
+      "cod": 8560,
+      "descriere": "Activități de servicii suport pentru învățământ"
+    },
+    {
+      "cod": 8610,
+      "descriere": "Activități de asistență spitalicească"
+    },
+    {
+      "cod": 8621,
+      "descriere": "Activități de asistență medicală generală"
+    },
+    {
+      "cod": 8622,
+      "descriere": "Activități de asistență medicală specializată"
+    },
+    {
+      "cod": 8623,
+      "descriere": "Activități de asistență stomatologică"
+    },
+    {
+      "cod": 8690,
+      "descriere": "Alte activități referitoare la sănătatea umană"
+    },
+    {
+      "cod": 8710,
+      "descriere": "Activități ale centrelor de îngrijire medicală"
+    },
+    {
+      "cod": 8720,
+      "descriere": "Activități ale centrelor de recuperare psihică şi de dezintoxicare, exclusiv spitale"
+    },
+    {
+      "cod": 8730,
+      "descriere": "Activități ale căminelor de bătrâni şi ale căminelor pentru persoane aflate în incapacitate de a se îngriji singure"
+    },
+    {
+      "cod": 8790,
+      "descriere": "Alte activități de asistență socială, cu cazare n.c.a."
+    },
+    {
+      "cod": 8810,
+      "descriere": "Activități de asistență socială, fără cazare, pentru bătrâni şi pentru persoane aflate în incapacitate de a se îngriji singure"
+    },
+    {
+      "cod": 8891,
+      "descriere": "Activități de îngrijire zilnică pentru copii"
+    },
+    {
+      "cod": 8899,
+      "descriere": "Alte activități de asistență socială, fără cazare, n.c.a."
+    },
+    {
+      "cod": 9001,
+      "descriere": "Activități de interpretare artistică (spectacole)"
+    },
+    {
+      "cod": 9002,
+      "descriere": "Activități suport pentru interpretare artistică (spectacole)"
+    },
+    {
+      "cod": 9003,
+      "descriere": "Activități de creație artistică"
+    },
+    {
+      "cod": 9004,
+      "descriere": "Activități de gestionare a sălilor de spectacole"
+    },
+    {
+      "cod": 9101,
+      "descriere": "Activități ale bibliotecilor şi arhivelor"
+    },
+    {
+      "cod": 9102,
+      "descriere": "Activități ale muzeelor"
+    },
+    {
+      "cod": 9103,
+      "descriere": "Gestionarea monumentelor, clădirilor istorice şi a altor obiective de interes turistic"
+    },
+    {
+      "cod": 9104,
+      "descriere": "Activități ale grădinilor zoologice, botanice şi ale rezervațiilor naturale"
+    },
+    {
+      "cod": 9200,
+      "descriere": "Activități de jocuri de noroc şi pariuri"
+    },
+    {
+      "cod": 9311,
+      "descriere": "Activități ale bazelor sportive"
+    },
+    {
+      "cod": 9312,
+      "descriere": "Activități ale cluburilor sportive"
+    },
+    {
+      "cod": 9313,
+      "descriere": "Activități ale centrelor de fitness"
+    },
+    {
+      "cod": 9319,
+      "descriere": "Alte activități sportive"
+    },
+    {
+      "cod": 9321,
+      "descriere": "Bâlciuri şi parcuri de distracții"
+    },
+    {
+      "cod": 9329,
+      "descriere": "Alte activități recreative şi distractive n.c.a."
+    },
+    {
+      "cod": 9411,
+      "descriere": "Activități ale organizațiilor economice şi patronale"
+    },
+    {
+      "cod": 9412,
+      "descriere": "Activități ale organizațiilor profesionale"
+    },
+    {
+      "cod": 9420,
+      "descriere": "Activități ale sindicatelor salariaților"
+    },
+    {
+      "cod": 9491,
+      "descriere": "Activități ale organizațiilor religioase"
+    },
+    {
+      "cod": 9492,
+      "descriere": "Activități ale organizațiilor politice"
+    },
+    {
+      "cod": 9499,
+      "descriere": "Activități ale altor organizații n.c.a."
+    }
+  ]
+}
