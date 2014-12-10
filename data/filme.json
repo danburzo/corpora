@@ -1,0 +1,65 @@
+{
+	"descriere": "Filme românești",
+	"filme": [
+		{
+			"titlu": "Reconstituirea",
+			"an": "1968",
+			"regizor": "Lucian Pintilie"
+		},
+		{
+			"titlu": "Pădurea Spînzuraților",
+			"an": "1964",
+			"regizor": "Liviu Ciulei"
+		},
+		{
+			"titlu": "B.D. la munte și la mare",
+			"an": "1971",
+			"regizor": "Mircea Drăgan"
+		},
+		{
+			"titlu": "Nunta de piatră",
+			"an": "1973",
+			"regizor": "Mircea Veroiu"
+		},
+		{
+			"titlu": "De ce trag clopotele, Mitică?",
+			"an": "1981",
+			"regizor": "Lucian Pintilie"
+		},
+		{
+			"titlu": "Moromeții",
+			"an": "1988",
+			"regizor": "Stere Gulea"
+		},
+		{
+			"titlu": "Balanța",
+			"an": "1992",
+			"regizor": "Lucian Pintilie"
+		},
+		{
+			"titlu": "Filantropica",
+			"an": "2002",
+			"regizor": "Nae Caranfil"
+		},
+		{
+			"titlu": "Moartea domnului Lăzărescu",
+			"an": "2005",
+			"regizor": "Cristi Puiu"
+		},
+		{
+			"titlu": "A fost sau n-a fost?",
+			"an": "2006",
+			"regizor": "Corneliu Porumboiu"
+		},
+		{
+			"titlu": "4 luni, 3 săptămâni şi 2 zile",
+			"an": "2007",
+			"regizor": "Cristian Mungiu"
+		},
+		{
+			"titlu": "Eu când vreau să fluier, fluier",
+			"an": "2010",
+			"regizor": "Florin Șerban"
+		}
+	]
+}
