@@ -4459,20 +4459,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.59014630317688,
-          46.7711625502878
-        ]
-      },
-      "properties": {
-        "categorie": "B. Biserici",
-        "descriere": "Biserica și casa parohială Evanghelică Bdul 21 Decembrie 1 1816-1822"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23.590167760849,
           46.77089433560736
         ]
@@ -5528,8 +5514,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.54692, 46.76128
         ]
       },
       "properties": {
@@ -5547,8 +5532,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.54692, 46.76128
         ]
       },
       "properties": {
@@ -5567,8 +5551,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.54692, 46.76128
         ]
       },
       "properties": {
@@ -5587,8 +5570,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.54692, 46.76128
         ]
       },
       "properties": {
@@ -5607,8 +5589,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.54692, 46.76128
         ]
       },
       "properties": {
@@ -5627,8 +5608,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.54692, 46.76128
         ]
       },
       "properties": {
@@ -5647,8 +5627,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.54692, 46.76128
         ]
       },
       "properties": {
@@ -5656,7 +5635,7 @@
         "lmi": 13,
         "lmi2004": "CJ-I-m-B-06923.06",
         "denumire": "Așezare",
-        "adresa": "„La Stăvilar””",
+        "adresa": "„La Stăvilar”",
         "datare": "Neolitic",
         "valoare": 1,
         "ran": "54984.09.01"
@@ -6079,8 +6058,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.581659,
+          46.775465
         ]
       },
       "properties": {
@@ -6140,8 +6119,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.578557, 46.769565
         ]
       },
       "properties": {
@@ -6178,8 +6156,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.589564, 46.774355
         ]
       },
       "properties": {
@@ -6191,25 +6168,6 @@
         "datare": "sec. XVIII-XIX",
         "valoare": 1,
         "adresa_wiki": "Zona delimitată de: limita vestică a parcelei din piața Mihai Viteazul nr. 1, str. Doja nr. 38 până la Someș, cheiul drept sudic al râului Someș, de la podul Gh. Doja până la str. Iașilor nr. 16, str. Iașilor frontul sudic (identic cu piața Mihai Viteazul nr. 1)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23,
-          46
-        ]
-      },
-      "properties": {
-        "rlu": 47,
-        "lmi": 768,
-        "lmi2004": "CJ-II-m-B-07306.01",
-        "denumire": "Biserica evanghelică",
-        "adresa": "Bd. 21 Decembrie 1989 nr. 1 (fațada principală) [Str. Regele Ferdinand 2 (fostă Str. Doja Gheorghe 2)]",
-        "datare": "1816-1822",
-        "valoare": 1
       }
     },
     {
@@ -7784,25 +7742,6 @@
         "denumire": "Fragment din zidul primei incinte a orașului medieval",
         "adresa": "Str. Deleu 2-4",
         "datare": "sec. XIII-XV",
-        "valoare": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23,
-          46
-        ]
-      },
-      "properties": {
-        "rlu": 214,
-        "lmi": 768,
-        "lmi2004": "CJ-II-m-B-07306.01",
-        "denumire": "Biserica evanghelică",
-        "adresa": "Str. Regele Ferdinand 2 (fostă Str. Doja Gheorghe 2)",
-        "datare": "1816-1822",
         "valoare": 1
       }
     },
