@@ -1,5 +1,8 @@
 {
   "type": "FeatureCollection",
+  "name": "Harta monumentelor din Cluj",
+  "description": "Extrase din harta creată de d-na Liana Vescan",
+  "source": "https://www.google.com/maps/d/viewer?mid=1tOzucsfM2NV5e1Zyq0EcabD1d_s",
   "features": [
     {
       "type": "Feature",
@@ -12,7 +15,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07292 Casa Kos Karoly Str. Breaza 14 - 1900"
+        "descriere": "Casa Kos Karoly Str. Breaza 14 - 1900",
+        "cod": "CJ-II-m-B-07292"
       }
     },
     {
@@ -25,8 +29,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07294 Casă Str. Clemenceau Georges 1 sec. XVII - XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Clemenceau Georges 1 sec. XVII - XVIII",
+        "cod": "CJ-II-m-B-07294"
       }
     },
     {
@@ -39,8 +44,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07295 Casă cu elemente de Renaștere Str. Clemenceau Georges 3 sec. XVI"
+        "categorie": "B. Case",
+        "descriere": "Casă cu elemente de Renaștere Str. Clemenceau Georges 3 sec. XVI",
+        "cod": "CJ-II-m-B-07295"
       }
     },
     {
@@ -54,7 +60,8 @@
       },
       "properties": {
         "categorie": "A. Clădiri publice",
-        "descriere": "CJ-II-a-A-07297 Ansamblul clinicilor universitare Str. Clinicilor 15 1900-1904 "
+        "descriere": "Ansamblul clinicilor universitare Str. Clinicilor 15 1900-1904",
+        "cod": "CJ-II-a-A-07297"
       }
     },
     {
@@ -67,8 +74,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07296 Biblioteca Centrală Universitară Str. Clinicilor 2 1906-1908 Kálmán Giergl (arhitect) \n"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Biblioteca Centrală Universitară Str. Clinicilor 2 1906-1908 Kálmán Giergl (arhitect)",
+        "cod": "CJ-II-m-B-07296"
       }
     },
     {
@@ -81,8 +89,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07298 Casă Str. Coșbuc George 2 sec. XVIII \n"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Coșbuc George 2 sec. XVIII",
+        "cod": "CJ-II-m-B-07298"
       }
     },
     {
@@ -95,8 +104,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07299 Casă Str. Curie Frederic Joliot 3 sec. XX \n"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Curie Frederic Joliot 3 sec. XX",
+        "cod": "CJ-II-m-B-07299"
       }
     },
     {
@@ -109,8 +119,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07300 m-B-07300Casa Kovary Laszlo Str. Daicoviciu Constantin 1 sec. XIX \n"
+        "categorie": "B. Case",
+        "descriere": "m-B-07300Casa Kovary Laszlo Str. Daicoviciu Constantin 1 sec. XIX",
+        "cod": "CJ-II-m-B-07300"
       }
     },
     {
@@ -123,8 +134,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07301 Casă Str. Daicoviciu Constantin 3 sec. XVIII - XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Daicoviciu Constantin 3 sec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07301"
       }
     },
     {
@@ -137,8 +149,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07302 Casă Str. Daicoviciu Constantin 5 sec. XVIII - XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Daicoviciu Constantin 5 sec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07302"
       }
     },
     {
@@ -151,8 +164,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07303 Institutul Politehnic Str. Daicoviciu Constantin 15 sec. XIX"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Institutul Politehnic Str. Daicoviciu Constantin 15 sec. XIX",
+        "cod": "CJ-II-m-B-07303"
       }
     },
     {
@@ -166,7 +180,8 @@
       },
       "properties": {
         "categorie": "A. Biserici",
-        "descriere": "CJ-II-m-A-07304 Biserica „Nașterea Maicii Domnului” Str. Dârjan Traian 8- 1750"
+        "descriere": "Biserica „Nașterea Maicii Domnului” Str. Dârjan Traian 8- 1750",
+        "cod": "CJ-II-m-A-07304"
       }
     },
     {
@@ -180,7 +195,8 @@
       },
       "properties": {
         "categorie": "A. Cetatea",
-        "descriere": "CJ-II-m-A-07241.06 Fragment din zidul primei incinte a orașului medieval Str. Deleu 2-4 Str. Doja Gheorghe nr. 17-25 sec. XIII-XV"
+        "descriere": "Fragment din zidul primei incinte a orașului medieval Str. Deleu 2-4 Str. Doja Gheorghe nr. 17-25 sec. XIII-XV",
+        "cod": "CJ-II-m-A-07241.06"
       }
     },
     {
@@ -194,7 +210,8 @@
       },
       "properties": {
         "categorie": "A. Biserici",
-        "descriere": "CJ-II-a-A-07305 Mănăstirea Franciscanilor Str. Deleu 2-4 sec. XV - XVIII"
+        "descriere": "Mănăstirea Franciscanilor Str. Deleu 2-4 sec. XV - XVIII",
+        "cod": "CJ-II-a-A-07305"
       }
     },
     {
@@ -207,8 +224,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Biserici\n",
-        "descriere": "CJ-II-m-A-07305.01 Biserica franciscană Str. Deleu 2-4 sec. XV - XVIII "
+        "categorie": "A. Biserici",
+        "descriere": "Biserica franciscană Str. Deleu 2-4 sec. XV - XVIII",
+        "cod": "CJ-II-m-A-07305.01"
       }
     },
     {
@@ -221,8 +239,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07307 Casa barocă Str. Doja Gheorghe 4 sec. XVI - XVIII \n"
+        "categorie": "B. Case",
+        "descriere": "Casa barocă Str. Doja Gheorghe 4 sec. XVI - XVIII",
+        "cod": "CJ-II-m-B-07307"
       }
     },
     {
@@ -235,8 +254,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07308 Casă cu elemente renascentiste Str. Doja Gheorghe 5 sec. XVI - XVIII \n"
+        "categorie": "B. Case",
+        "descriere": "Casă cu elemente renascentiste Str. Doja Gheorghe 5 sec. XVI - XVIII",
+        "cod": "CJ-II-m-B-07308"
       }
     },
     {
@@ -249,8 +269,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07310 Hotel „Pannonia” Str. Doja Gheorghe 17 sec. XVII - XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Hotel „Pannonia” Str. Doja Gheorghe 17 sec. XVII - XIX",
+        "cod": "CJ-II-m-B-07310"
       }
     },
     {
@@ -263,8 +284,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07309 Casă Str. Doja Gheorghe 19 \nsf. sec. XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Doja Gheorghe 19 \nsf. sec. XIX",
+        "cod": "CJ-II-m-B-07309"
       }
     },
     {
@@ -277,8 +299,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07311 Casă Str. Doja Gheorghe 25 \nsec. XVIII \n"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Doja Gheorghe 25 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07311"
       }
     },
     {
@@ -291,8 +314,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07312 Poștă Str. Doja Gheorghe 33 \nsec. XIX \n"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Poștă Str. Doja Gheorghe 33 \nsec. XIX",
+        "cod": "CJ-II-m-B-07312"
       }
     },
     {
@@ -305,8 +329,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07313 Casa cu stema familiei Bathory Str. Doja Gheorghe 34 \nsf. sec. XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Casa cu stema familiei Bathory Str. Doja Gheorghe 34 \nsf. sec. XIX",
+        "cod": "CJ-II-m-B-07313"
       }
     },
     {
@@ -319,8 +344,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07241.02 Fragment din zidul roman suprapus de zidul primei incinte Str. Barițiu George 25 sec. XIII - XVI"
+        "categorie": "A. Cetatea",
+        "descriere": "Fragment din zidul roman suprapus de zidul primei incinte Str. Barițiu George 25 sec. XIII - XVI",
+        "cod": "CJ-II-m-A-07241.02"
       }
     },
     {
@@ -333,8 +359,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07316 Tribunalul și Curtea de Apel Calea Dorobanților 24 și Piața Stefan cel Mare nr. 1 1902 \nGyula Wagner (arhitect)"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Tribunalul și Curtea de Apel Calea Dorobanților 24 și Piața Stefan cel Mare nr. 1 1902 \nGyula Wagner (arhitect)",
+        "cod": "CJ-II-m-B-07316"
       }
     },
     {
@@ -347,8 +374,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07317 Casa Teleki Bd. Eroilor 1 și Piața Unirii nr. 32 sec. XV - XVIII \n"
+        "categorie": "B. Case",
+        "descriere": "Casa Teleki Bd. Eroilor 1 și Piața Unirii nr. 32 sec. XV - XVIII",
+        "cod": "CJ-II-m-B-07317"
       }
     },
     {
@@ -361,8 +389,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07319 Casă Bd. Eroilor 3 \nsec. XVI - XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Casă Bd. Eroilor 3 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07319"
       }
     },
     {
@@ -376,7 +405,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07321  \nCasă Bd. Eroilor 5 \n \nsec. XV - XVIII"
+        "descriere": "Casă Bd. Eroilor 5 \n \nsec. XV - XVIII",
+        "cod": "CJ-II-m-B-07321"
       }
     },
     {
@@ -389,8 +419,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07323 Casă Bd. Eroilor 7 sec. XVI - XIX "
+        "categorie": "B. Case",
+        "descriere": "Casă Bd. Eroilor 7 sec. XVI - XIX",
+        "cod": "CJ-II-m-B-07323"
       }
     },
     {
@@ -403,8 +434,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07326 Bd. Eroilor 13 \nsec. XV - XVI"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 13 \nsec. XV - XVI",
+        "cod": "CJ-II-m-B-07326"
       }
     },
     {
@@ -417,8 +449,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07327 Bd. Eroilor 15 \nsec. XV - XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 15 \nsec. XV - XIX",
+        "cod": "CJ-II-m-B-07327"
       }
     },
     {
@@ -431,8 +464,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07329 Bd. Eroilor 17 sec. XV - XIX"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 17 sec. XV - XIX",
+        "cod": "CJ-II-m-B-07329"
       }
     },
     {
@@ -445,8 +479,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07331 Bd. Eroilor 19 înc. sec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 19 înc. sec. XIX",
+        "cod": "CJ-II-m-B-07331"
       }
     },
     {
@@ -459,8 +494,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07333 Bd. Eroilor 21 sec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 21 sec. XVI - XIX",
+        "cod": "CJ-II-m-B-07333"
       }
     },
     {
@@ -473,8 +509,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07334 Fosta casă a breslei cizmarilor Bd. Eroilor 23-25 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Fosta casă a breslei cizmarilor Bd. Eroilor 23-25 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07334"
       }
     },
     {
@@ -487,8 +524,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07335 Bd. Eroilor 27 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 27 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07335"
       }
     },
     {
@@ -501,8 +539,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07336 Bd. Eroilor 29 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 29 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07336"
       }
     },
     {
@@ -515,8 +554,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07337 Bd. Eroilor 31 \nsec. XVI - XX"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 31 \nsec. XVI - XX",
+        "cod": "CJ-II-m-B-07337"
       }
     },
     {
@@ -530,7 +570,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07339 \nBd. Eroilor 33 \nsec. XVI - XX"
+        "descriere": "Bd. Eroilor 33 \nsec. XVI - XX",
+        "cod": "CJ-II-m-B-07339"
       }
     },
     {
@@ -543,8 +584,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07340 Bd. Eroilor 37 \nsec. XV - XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 37 \nsec. XV - XIX",
+        "cod": "CJ-II-m-B-07340"
       }
     },
     {
@@ -557,8 +599,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07318 Bd. Eroilor 2 \n1830-1840"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 2 \n1830-1840",
+        "cod": "CJ-II-m-B-07318"
       }
     },
     {
@@ -571,8 +614,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07320 \nBd. Eroilor 4 și str.. I. C. Brătianu nr. 19 \nsec. XV - XVIII"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 4 și str.. I. C. Brătianu nr. 19 \nsec. XV - XVIII",
+        "cod": "CJ-II-m-B-07320"
       }
     },
     {
@@ -585,8 +629,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07322 \nBd. Eroilor 6-8 și str. I.C. Brătianu nr. 21-23 \nsec. XVIII - XIX"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 6-8 și str. I.C. Brătianu nr. 21-23 \nsec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07322"
       }
     },
     {
@@ -600,7 +645,8 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "CJ-II-a-B-07324 Mănăstirea minoriților Bd. Eroilor 8-10 \nsec. XVI - XIX"
+        "descriere": "Mănăstirea minoriților Bd. Eroilor 8-10 \nsec. XVI - XIX",
+        "cod": "CJ-II-a-B-07324"
       }
     },
     {
@@ -614,7 +660,8 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "CJ-II-m-B-07324.01 Biserica mănăstirii minorite, azi catedrala greco-catolică Bd. Eroilor 10 \nsec. XVIII"
+        "descriere": "Biserica mănăstirii minorite, azi catedrala greco-catolică Bd. Eroilor 10 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07324.01"
       }
     },
     {
@@ -627,8 +674,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07325 Casă barocă cu elemente gotice Bd. Eroilor 12 și str. Tomis nr. 1 \nsec. XV - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă barocă cu elemente gotice Bd. Eroilor 12 și str. Tomis nr. 1 \nsec. XV - XIX",
+        "cod": "CJ-II-m-B-07325"
       }
     },
     {
@@ -641,8 +689,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07328 Casa Tricesimei Bd. Eroilor 16 \nsec. XVI - XIX "
+        "categorie": "B. Case",
+        "descriere": "Casa Tricesimei Bd. Eroilor 16 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07328"
       }
     },
     {
@@ -655,8 +704,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07330  \nBd. Eroilor 18 \nsec. XIX "
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 18 \nsec. XIX",
+        "cod": "CJ-II-m-B-07330"
       }
     },
     {
@@ -669,8 +719,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07332 \nCasa Katona Bd. Eroilor 20 \nsec. XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Casa Katona Bd. Eroilor 20 \nsec. XIX",
+        "cod": "CJ-II-m-B-07332"
       }
     },
     {
@@ -683,8 +734,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Case\n",
-        "descriere": "CJ-II-m-A-07338 Casa mică Banffy Bd. Eroilor 32 \nsec. XVI - XIX"
+        "categorie": "A. Case",
+        "descriere": "Casa mică Banffy Bd. Eroilor 32 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-A-07338"
       }
     },
     {
@@ -697,8 +749,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07341 Bd. Eroilor 38 \n1920 \n"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 38 \n1920",
+        "cod": "CJ-II-m-B-07341"
       }
     },
     {
@@ -711,8 +764,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07342 Bd. Eroilor 42 \nsec. XX"
+        "categorie": "B. Case",
+        "descriere": "Bd. Eroilor 42 \nsec. XX",
+        "cod": "CJ-II-m-B-07342"
       }
     },
     {
@@ -725,8 +779,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07344 Str. Fortăreței 8 \nsec. XVI"
+        "categorie": "B. Case",
+        "descriere": "Str. Fortăreței 8 \nsec. XVI",
+        "cod": "CJ-II-m-B-07344"
       }
     },
     {
@@ -739,8 +794,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07345 \nGara Cluj-Napoca Piața Gării 1 \n1870 \n"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Gara Cluj-Napoca Piața Gării 1 \n1870",
+        "cod": "CJ-II-m-B-07345"
       }
     },
     {
@@ -753,8 +809,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Palate\n",
-        "descriere": "CJ-II-m-B-07346 \nPalatul Berde Str. Horea 1 \n1889-1900"
+        "categorie": "B. Palate",
+        "descriere": "Palatul Berde Str. Horea 1 \n1889-1900",
+        "cod": "CJ-II-m-B-07346"
       }
     },
     {
@@ -767,8 +824,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07348 \nCasa de Comerț și Industrie Str. Horea 3 \n1903"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Casa de Comerț și Industrie Str. Horea 3 \n1903",
+        "cod": "CJ-II-m-B-07348"
       }
     },
     {
@@ -781,8 +839,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07352 \nFacultatea de Filologie \nmunicipiul Cluj-Napoca \nStr. Horea 31 \n1905"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Facultatea de Filologie \nmunicipiul Cluj-Napoca \nStr. Horea 31 \n1905",
+        "cod": "CJ-II-m-B-07352"
       }
     },
     {
@@ -795,8 +854,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07353 \nCasă \nmunicipiul Cluj-Napoca \nStr. Horea 35 \n1900"
+        "categorie": "B. Case",
+        "descriere": "Casă \nmunicipiul Cluj-Napoca \nStr. Horea 35 \n1900",
+        "cod": "CJ-II-m-B-07353"
       }
     },
     {
@@ -809,8 +869,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-20937 \nCasă secesion \nmunicipiu CLUJ-NAPOCA \nStr. Hossu Iuliu, Cardinal 1 \n1902, extindere 1930"
+        "categorie": "B. Case",
+        "descriere": "Casă secesion \nmunicipiu CLUJ-NAPOCA \nStr. Hossu Iuliu, Cardinal 1 \n1902, extindere 1930",
+        "cod": "CJ-II-m-B-20937"
       }
     },
     {
@@ -823,8 +884,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Biserici\n",
-        "descriere": "CJ-II-m-B-07354 \nCatedrala Arhiepiscopiei ortodoxe \nmunicipiul Cluj-Napoca \nPiața Iancu Avram \n1923-1936"
+        "categorie": "B. Biserici",
+        "descriere": "Catedrala Arhiepiscopiei ortodoxe \nmunicipiul Cluj-Napoca \nPiața Iancu Avram \n1923-1936",
+        "cod": "CJ-II-m-B-07354"
       }
     },
     {
@@ -837,8 +899,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Clădiri publice\n",
-        "descriere": "CJ-II-m-A-07355 \nTeatrul Național Piața Iancu Avram 2 \n1904-1906 \nFerdinand Fellner Junior, Hermann Helmer (arhitect)"
+        "categorie": "A. Clădiri publice",
+        "descriere": "Teatrul Național Piața Iancu Avram 2 \n1904-1906 \nFerdinand Fellner Junior, Hermann Helmer (arhitect)",
+        "cod": "CJ-II-m-A-07355"
       }
     },
     {
@@ -852,7 +915,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-m-B-07358 \nSediul Direcției regionale CFR \nPiața Iancu Avram 16 \nsf. sec. XIX"
+        "descriere": "Sediul Direcției regionale CFR \nPiața Iancu Avram 16 \nsf. sec. XIX",
+        "cod": "CJ-II-m-B-07358"
       }
     },
     {
@@ -865,8 +929,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07357 \nCasă \nmunicipiul Cluj-Napoca \nPiața Iancu Avram 14 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nmunicipiul Cluj-Napoca \nPiața Iancu Avram 14 \nsec. XIX",
+        "cod": "CJ-II-m-B-07357"
       }
     },
     {
@@ -879,8 +944,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07359 \nArhiepiscopia ortodoxă a Vadului, Feleacului și Clujului, Piața Iancu Avram 18 A, \nsec. XIX, \nBalázs Debreczeni (arhitect)"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Arhiepiscopia ortodoxă a Vadului, Feleacului și Clujului, Piața Iancu Avram 18 A, \nsec. XIX, \nBalázs Debreczeni (arhitect)",
+        "cod": "CJ-II-m-B-07359"
       }
     },
     {
@@ -894,7 +960,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-m-B-07360 \nAdministrația Financiară, Piața Iancu Avram 19 și str. Dorobanților nr. 1, \nsec. XIX \nFriedrich Mätz (arhitect)"
+        "descriere": "Administrația Financiară, Piața Iancu Avram 19 și str. Dorobanților nr. 1, \nsec. XIX \nFriedrich Mätz (arhitect)",
+        "cod": "CJ-II-m-B-07360"
       }
     },
     {
@@ -907,8 +974,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07356 Casa Bogdanffy Str. Iancu Avram 1 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casa Bogdanffy Str. Iancu Avram 1 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07356"
       }
     },
     {
@@ -921,8 +989,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07242.01Bastionul Postăvarilor \nmunicipiul Cluj-Napoca \nStr. Iancu Avram 9 \nsec. XV"
+        "categorie": "A. Cetatea",
+        "descriere": "Bastionul Postăvarilor \nmunicipiul Cluj-Napoca \nStr. Iancu Avram 9 \nsec. XV",
+        "cod": "CJ-II-m-A-07242.01"
       }
     },
     {
@@ -935,8 +1004,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07361 \nCasă, Str. Iancu Avram 10-12 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă, Str. Iancu Avram 10-12 \nsec. XIX",
+        "cod": "CJ-II-m-B-07361"
       }
     },
     {
@@ -949,8 +1019,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07242.02 Bastionul Cizmarilor, Str. Iancu Avram 13 \nsec. XV"
+        "categorie": "A. Cetatea",
+        "descriere": "Bastionul Cizmarilor, Str. Iancu Avram 13 \nsec. XV",
+        "cod": "CJ-II-m-A-07242.02"
       }
     },
     {
@@ -963,8 +1034,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07362 \nTipografia Liceului Reformat (zid de incintă medievală pe limita de parcelă), Str. Iancu Avram 13-15 \nsec. XIX"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Tipografia Liceului Reformat (zid de incintă medievală pe limita de parcelă), Str. Iancu Avram 13-15 \nsec. XIX",
+        "cod": "CJ-II-m-B-07362"
       }
     },
     {
@@ -977,8 +1049,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07363 \nCasă \nmunicipiul Cluj-Napoca \nStr. Iancu Avram 16-18 \n1938"
+        "categorie": "B. Case",
+        "descriere": "Casă \nmunicipiul Cluj-Napoca \nStr. Iancu Avram 16-18 \n1938",
+        "cod": "CJ-II-m-B-07363"
       }
     },
     {
@@ -991,8 +1064,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07242.04 \nTurnul Zidarilor și fragment din zidul celei de a doua incinte a orașului medieval, \nStr. Iancu Avram 17 \nsec. XV"
+        "categorie": "A. Cetatea",
+        "descriere": "Turnul Zidarilor și fragment din zidul celei de a doua incinte a orașului medieval, \nStr. Iancu Avram 17 \nsec. XV",
+        "cod": "CJ-II-m-A-07242.04"
       }
     },
     {
@@ -1005,8 +1079,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07365 \nCasă, fost hotel Biazini, \nStr. Iancu Avram 20 \nsec. XIX"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Casă, fost hotel Biazini, \nStr. Iancu Avram 20 \nsec. XIX",
+        "cod": "CJ-II-m-B-07365"
       }
     },
     {
@@ -1019,8 +1094,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07366  \nCasă,  \nStr. Iancu Avram 21 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă,  \nStr. Iancu Avram 21 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07366"
       }
     },
     {
@@ -1033,8 +1109,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07367Str. Iancu Avram 23 \nînc. sec. XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Str. Iancu Avram 23 \nînc. sec. XIX",
+        "cod": "CJ-II-m-B-07367"
       }
     },
     {
@@ -1047,8 +1124,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07364 \nCasă (zid de incintă medievală pe limita de parcelă)  \nStr. Iancu Avram 27-29, Calea Dorobanților nr. 19, Str. Kogălniceanu Mihail \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă (zid de incintă medievală pe limita de parcelă)  \nStr. Iancu Avram 27-29, Calea Dorobanților nr. 19, Str. Kogălniceanu Mihail \nsec. XIX",
+        "cod": "CJ-II-m-B-07364"
       }
     },
     {
@@ -1061,8 +1139,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07368, \nStr. Isac Emil 4 \nsec. XX"
+        "categorie": "B. Case",
+        "descriere": ", \nStr. Isac Emil 4 \nsec. XX",
+        "cod": "CJ-II-m-B-07368"
       }
     },
     {
@@ -1075,8 +1154,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07241.05 \nFragment din zidul primei incinte a orașului medieval Str. Isac Emil 10 și str. Pavel Chinezu nr. 5 în curtea Liceului G. Barițiu \nsec. XIII-XV"
+        "categorie": "A. Cetatea",
+        "descriere": "Fragment din zidul primei incinte a orașului medieval Str. Isac Emil 10 și str. Pavel Chinezu nr. 5 în curtea Liceului G. Barițiu \nsec. XIII-XV",
+        "cod": "CJ-II-m-A-07241.05"
       }
     },
     {
@@ -1089,8 +1169,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07369 \nCasă cu elemente de decorațiune interioară în stil Secession, Str. Isac Emil 14 \n1904"
+        "categorie": "B. Case",
+        "descriere": "Casă cu elemente de decorațiune interioară în stil Secession, Str. Isac Emil 14 \n1904",
+        "cod": "CJ-II-m-B-07369"
       }
     },
     {
@@ -1103,8 +1184,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07343 \nCasă, \nStr. Iuliu Maniu 40, Str. Baba Novac nr. 4 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă, \nStr. Iuliu Maniu 40, Str. Baba Novac nr. 4 \nsec. XIX",
+        "cod": "CJ-II-m-B-07343"
       }
     },
     {
@@ -1117,8 +1199,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07370 \nUniversitatea „Babeș Bolyai” \nStr. Kogălniceanu Mihail 1 \n1893-1903"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Universitatea „Babeș Bolyai” \nStr. Kogălniceanu Mihail 1 \n1893-1903",
+        "cod": "CJ-II-m-B-07370"
       }
     },
     {
@@ -1132,7 +1215,8 @@
       },
       "properties": {
         "categorie": "A. Clădiri publice",
-        "descriere": "CJ-II-m-A-07371 Liceul „Bathory”, fost liceu al Piariștilor \n, Str. Kogălniceanu Mihail 2 și str. Universității nr. 7-9 \n1817-1821"
+        "descriere": "Liceul „Bathory”, fost liceu al Piariștilor \n, Str. Kogălniceanu Mihail 2 și str. Universității nr. 7-9 \n1817-1821",
+        "cod": "CJ-II-m-A-07371"
       }
     },
     {
@@ -1145,8 +1229,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07372Casă (zid incinta medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 4 \n1789-1800"
+        "categorie": "B. Case",
+        "descriere": "Casă (zid incinta medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 4 \n1789-1800",
+        "cod": "CJ-II-m-B-07372"
       }
     },
     {
@@ -1159,8 +1244,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07373Str. Kogălniceanu Mihail 5"
+        "categorie": "B. Case",
+        "descriere": "Str. Kogălniceanu Mihail 5",
+        "cod": "CJ-II-m-B-07373"
       }
     },
     {
@@ -1173,8 +1259,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07374 \nCasă (zid de incintă medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 6 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă (zid de incintă medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 6 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07374"
       }
     },
     {
@@ -1188,7 +1275,8 @@
       },
       "properties": {
         "categorie": "A. Palate",
-        "descriere": "CJ-II-m-A-07375 Palatul Teleki \nStr. Kogălniceanu Mihail 7 \n1790-1795 \nJoseph Leder (arhitect) \n"
+        "descriere": "Palatul Teleki \nStr. Kogălniceanu Mihail 7 \n1790-1795 \nJoseph Leder (arhitect)",
+        "cod": "CJ-II-m-A-07375"
       }
     },
     {
@@ -1201,8 +1289,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07376\nLiceul „Emil Racoviță” \nStr. Kogălniceanu Mihail 9-11 \nsec. XVI - XIX"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Liceul „Emil Racoviță” \nStr. Kogălniceanu Mihail 9-11 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07376"
       }
     },
     {
@@ -1215,8 +1304,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07377Arhivele Statului Cluj-Napoca (zid de incintă medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 10 \nsec. XVIII"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Arhivele Statului Cluj-Napoca (zid de incintă medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 10 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07377"
       }
     },
     {
@@ -1229,8 +1319,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Case\n",
-        "descriere": "CJ-II-a-A-07378 \nCasele Profesorilor reformați  \nStr. Kogălniceanu Mihail 13, 15, 17, 19 \nsec. XVIII"
+        "categorie": "A. Case",
+        "descriere": "Casele Profesorilor reformați  \nStr. Kogălniceanu Mihail 13, 15, 17, 19 \nsec. XVIII",
+        "cod": "CJ-II-a-A-07378"
       }
     },
     {
@@ -1243,8 +1334,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Case\n",
-        "descriere": "CJ-II-m-A-07378.01 \nCasă  \nStr. Kogălniceanu Mihail 13 \n1790-1802"
+        "categorie": "A. Case",
+        "descriere": "Casă  \nStr. Kogălniceanu Mihail 13 \n1790-1802",
+        "cod": "CJ-II-m-A-07378.01"
       }
     },
     {
@@ -1258,7 +1350,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-m-B-07379Colegiul Reformat \nStr. Kogălniceanu Mihail 14 \nsec. XVII"
+        "descriere": "Colegiul Reformat \nStr. Kogălniceanu Mihail 14 \nsec. XVII",
+        "cod": "CJ-II-m-B-07379"
       }
     },
     {
@@ -1271,8 +1364,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Case\n",
-        "descriere": "CJ-II-m-A-07378.02 \nCasă \nStr. Kogălniceanu Mihail 15 \n1790-1802"
+        "categorie": "A. Case",
+        "descriere": "Casă \nStr. Kogălniceanu Mihail 15 \n1790-1802",
+        "cod": "CJ-II-m-A-07378.02"
       }
     },
     {
@@ -1285,8 +1379,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Biserici\n",
-        "descriere": "CJ-II-m-A-07380 \nBiserica reformată Matia \nStr. Kogălniceanu Mihail 16 \n1486-1494, ref. 1644"
+        "categorie": "A. Biserici",
+        "descriere": "Biserica reformată Matia \nStr. Kogălniceanu Mihail 16 \n1486-1494, ref. 1644",
+        "cod": "CJ-II-m-A-07380"
       }
     },
     {
@@ -1299,8 +1394,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Case\n",
-        "descriere": "CJ-II-m-A-07378.03 \nCasăStr. Kogălniceanu Mihail 17 \n1790-1802"
+        "categorie": "A. Case",
+        "descriere": "CasăStr. Kogălniceanu Mihail 17 \n1790-1802",
+        "cod": "CJ-II-m-A-07378.03"
       }
     },
     {
@@ -1313,8 +1409,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07381  \nTipografia Colegiului Reformat \nStr. Kogălniceanu Mihail 18 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Tipografia Colegiului Reformat \nStr. Kogălniceanu Mihail 18 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07381"
       }
     },
     {
@@ -1327,8 +1424,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07378.04 \nCasă, Str. Kogălniceanu Mihail 19 \n1790-1802"
+        "categorie": "B. Case",
+        "descriere": "Casă, Str. Kogălniceanu Mihail 19 \n1790-1802",
+        "cod": "CJ-II-m-B-07378.04"
       }
     },
     {
@@ -1341,8 +1439,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07382 \nCasa parohială a bisericii reformate  \nStr. Kogălniceanu Mihail 23 \n1751"
+        "categorie": "B. Case",
+        "descriere": "Casa parohială a bisericii reformate  \nStr. Kogălniceanu Mihail 23 \n1751",
+        "cod": "CJ-II-m-B-07382"
       }
     },
     {
@@ -1355,8 +1454,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Palate\n",
-        "descriere": "CJ-II-a-A-07383 Palatele „Status-ului romano-catolic” \nStr. Maniu Iuliu 1-6 \n1902"
+        "categorie": "A. Palate",
+        "descriere": "Palatele „Status-ului romano-catolic” \nStr. Maniu Iuliu 1-6 \n1902",
+        "cod": "CJ-II-a-A-07383"
       }
     },
     {
@@ -1369,8 +1469,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07384  \nStr. Maniu Iuliu 8 și str. Bolyai Janos nr. 6, sec. XVIII - XIX"
+        "categorie": "B. Case",
+        "descriere": "Str. Maniu Iuliu 8 și str. Bolyai Janos nr. 6, sec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07384"
       }
     },
     {
@@ -1383,8 +1484,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07385 \nCasă,  \nStr. Maniu Iuliu 9 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă,  \nStr. Maniu Iuliu 9 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07385"
       }
     },
     {
@@ -1397,8 +1499,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07386  \nCasa în care s-a născut Carol Popp de Szathmary  \nStr. Maniu Iuliu 17 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casa în care s-a născut Carol Popp de Szathmary  \nStr. Maniu Iuliu 17 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07386"
       }
     },
     {
@@ -1411,8 +1514,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07387 Casă  \nStr. Maniu Iuliu 34 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă  \nStr. Maniu Iuliu 34 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07387"
       }
     },
     {
@@ -1425,8 +1529,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Clădiri publice\n",
-        "descriere": "CJ-II-m-A-07388 \nCasa universitarilor, azi Colegiul academic \nStr. Martonne, Em. de 1 și str. I.C. Brătianu nr. 4 \n1928-1936"
+        "categorie": "A. Clădiri publice",
+        "descriere": "Casa universitarilor, azi Colegiul academic \nStr. Martonne, Em. de 1 și str. I.C. Brătianu nr. 4 \n1928-1936",
+        "cod": "CJ-II-m-A-07388"
       }
     },
     {
@@ -1439,8 +1544,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07389Casă  \nStr. Matei Corvin 1 și str. Memorandumului nr. 2 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă  \nStr. Matei Corvin 1 și str. Memorandumului nr. 2 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07389"
       }
     },
     {
@@ -1453,8 +1559,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07390 Casă Str. Matei Corvin 2 și Piața Unirii nr. 18 \nsec. XVI - XX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Matei Corvin 2 și Piața Unirii nr. 18 \nsec. XVI - XX",
+        "cod": "CJ-II-m-B-07390"
       }
     },
     {
@@ -1467,8 +1574,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07391 \nCasă \nStr. Matei Corvin 3 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Matei Corvin 3 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07391"
       }
     },
     {
@@ -1481,8 +1589,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07392 Casa principelui Transilvaniei Ștefan Bocskay, azi Universitatea „Sapientia” (fragmente din zidul incintei medieval în subsol) \nStr. Matei Corvin 4 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casa principelui Transilvaniei Ștefan Bocskay, azi Universitatea „Sapientia” (fragmente din zidul incintei medieval în subsol) \nStr. Matei Corvin 4 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07392"
       }
     },
     {
@@ -1495,8 +1604,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Case\n",
-        "descriere": "CJ-II-m-A-07393\nCasa Matei, aparținând de Academia de Arte Vizuale „Ion Andreescu” \nStr. Matei Corvin 6 \nsec. XV - XVIII"
+        "categorie": "A. Case",
+        "descriere": "Casa Matei, aparținând de Academia de Arte Vizuale „Ion Andreescu” \nStr. Matei Corvin 6 \nsec. XV - XVIII",
+        "cod": "CJ-II-m-A-07393"
       }
     },
     {
@@ -1509,8 +1619,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07394Vama veche \nStr. Mănășturului 1 \n1748"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Vama veche \nStr. Mănășturului 1 \n1748",
+        "cod": "CJ-II-m-B-07394"
       }
     },
     {
@@ -1523,8 +1634,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Biserici\n",
-        "descriere": "CJ-II-m-A-07396  \nBiserica Mănăștur-Calvaria \nStr. Mănășturului 12 \nsec. XIII-XIX"
+        "categorie": "A. Biserici",
+        "descriere": "Biserica Mănăștur-Calvaria \nStr. Mănășturului 12 \nsec. XIII-XIX",
+        "cod": "CJ-II-m-A-07396"
       }
     },
     {
@@ -1537,8 +1649,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07397Banca „Alpha” \nStr. Memorandumului 1 \n1893"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Banca „Alpha” \nStr. Memorandumului 1 \n1893",
+        "cod": "CJ-II-m-B-07397"
       }
     },
     {
@@ -1551,8 +1664,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07399 \nCasă Str. Memorandumului 6 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Memorandumului 6 \nsec. XIX",
+        "cod": "CJ-II-m-B-07399"
       }
     },
     {
@@ -1565,8 +1679,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07400Casă\nStr. Memorandumului 7 \nsec. XVIII - XX"
+        "categorie": "B. Case",
+        "descriere": "Casă\nStr. Memorandumului 7 \nsec. XVIII - XX",
+        "cod": "CJ-II-m-B-07400"
       }
     },
     {
@@ -1580,7 +1695,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07401 \nCasă Str. Memorandumului 8 \n1846"
+        "descriere": "Casă Str. Memorandumului 8 \n1846",
+        "cod": "CJ-II-m-B-07401"
       }
     },
     {
@@ -1593,8 +1709,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07402 \nCasă\nStr. Memorandumului 11-13 și str. Rațiu Ion nr. 2 str. Memorandumului 11 - 13 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă\nStr. Memorandumului 11-13 și str. Rațiu Ion nr. 2 str. Memorandumului 11 - 13 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07402"
       }
     },
     {
@@ -1607,8 +1724,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Biserici\n",
-        "descriere": "CJ-II-m-B-07395\nMănăstirea iezuită Str. Mănășturului 9 \nsec. XVI"
+        "categorie": "B. Biserici",
+        "descriere": "Mănăstirea iezuită Str. Mănășturului 9 \nsec. XVI",
+        "cod": "CJ-II-m-B-07395"
       }
     },
     {
@@ -1621,8 +1739,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07403 Sediul fostei Casine române, azi locuință \nStr. Memorandumului 12 \nsec. XVIII"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Sediul fostei Casine române, azi locuință \nStr. Memorandumului 12 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07403"
       }
     },
     {
@@ -1635,8 +1754,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07404 Casă \nStr. Memorandumului 15 \nsec. XVI - XVII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Memorandumului 15 \nsec. XVI - XVII",
+        "cod": "CJ-II-m-B-07404"
       }
     },
     {
@@ -1649,8 +1769,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07405 \nCasă Str. Memorandumului 17 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Memorandumului 17 \nsec. XIX",
+        "cod": "CJ-II-m-B-07405"
       }
     },
     {
@@ -1663,8 +1784,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07405 \nCasă Str. Memorandumului 17 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Memorandumului 17 \nsec. XIX",
+        "cod": "CJ-II-m-B-07405"
       }
     },
     {
@@ -1677,8 +1799,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07407Casa în care s-a judecat procesul memorandiștilor, azi Muzeul Etnografic al Transilvaniei („' Reduta”) \nStr. Memorandumului 21 \n1810-1812"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Casa în care s-a judecat procesul memorandiștilor, azi Muzeul Etnografic al Transilvaniei („' Reduta”) \nStr. Memorandumului 21 \n1810-1812",
+        "cod": "CJ-II-m-B-07407"
       }
     },
     {
@@ -1691,8 +1814,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07408 \nCasă, \nStr. Memorandumului 22 \n1788"
+        "categorie": "B. Case",
+        "descriere": "Casă, \nStr. Memorandumului 22 \n1788",
+        "cod": "CJ-II-m-B-07408"
       }
     },
     {
@@ -1705,8 +1829,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07409Casă  \nStr. Memorandumului 23 \n1740"
+        "categorie": "B. Case",
+        "descriere": "Casă  \nStr. Memorandumului 23 \n1740",
+        "cod": "CJ-II-m-B-07409"
       }
     },
     {
@@ -1719,8 +1844,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07410Casă \nStr. Micu Klein I. 6 \nsf. sec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Micu Klein I. 6 \nsf. sec. XVIII",
+        "cod": "CJ-II-m-B-07410"
       }
     },
     {
@@ -1733,8 +1859,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07411 \nCasă \nStr. Micu Klein I. 12 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Micu Klein I. 12 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07411"
       }
     },
     {
@@ -1747,8 +1874,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07412 Casă Str. Micu Klein I. 15 \nsec. XVIII - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Micu Klein I. 15 \nsec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07412"
       }
     },
     {
@@ -1761,8 +1889,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07413 \nCasă \nmunicipiul Cluj-Napoca \nStr. Micu Klein I. 17 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nmunicipiul Cluj-Napoca \nStr. Micu Klein I. 17 \nsec. XIX",
+        "cod": "CJ-II-m-B-07413"
       }
     },
     {
@@ -1775,8 +1904,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07414 Casă Str. Micu Klein Samuil 8 \nsec. XVIII - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Micu Klein Samuil 8 \nsec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07414"
       }
     },
     {
@@ -1789,8 +1919,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07416 \nPalatul Primăriei  \nCalea Moților 1-3 \nsec. XIX \nIgnác Alpár (arhitect)"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Palatul Primăriei  \nCalea Moților 1-3 \nsec. XIX \nIgnác Alpár (arhitect)",
+        "cod": "CJ-II-m-B-07416"
       }
     },
     {
@@ -1803,8 +1934,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07417Casă \nCalea Moților 4 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nCalea Moților 4 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07417"
       }
     },
     {
@@ -1817,8 +1949,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07418 \nCasă \nCalea Moților 8 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nCalea Moților 8 \nsec. XIX",
+        "cod": "CJ-II-m-B-07418"
       }
     },
     {
@@ -1832,7 +1965,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07419 \nCasă \nCalea Moților 24 \n1832"
+        "descriere": "Casă \nCalea Moților 24 \n1832",
+        "cod": "CJ-II-m-B-07419"
       }
     },
     {
@@ -1845,8 +1979,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07420 \nCasă \nCalea Moților 27 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nCalea Moților 27 \nsec. XIX",
+        "cod": "CJ-II-m-B-07420"
       }
     },
     {
@@ -1859,8 +1994,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07421 \nCasă \nCalea Moților 29 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nCalea Moților 29 \nsec. XIX",
+        "cod": "CJ-II-m-B-07421"
       }
     },
     {
@@ -1873,8 +2009,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07422 \nCasa în care a locuit Ilie Măcelaru \nCalea Moților 32 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casa în care a locuit Ilie Măcelaru \nCalea Moților 32 \nsec. XIX",
+        "cod": "CJ-II-m-B-07422"
       }
     },
     {
@@ -1887,8 +2024,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07423 \nCasă \nCalea Moților 54 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nCalea Moților 54 \nsec. XIX",
+        "cod": "CJ-II-m-B-07423"
       }
     },
     {
@@ -1901,8 +2039,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07424 Casă Calea Moților 69 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă Calea Moților 69 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07424"
       }
     },
     {
@@ -1915,8 +2054,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07425 \nCasă \nCalea Moților 70 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nCalea Moților 70 \nsec. XIX",
+        "cod": "CJ-II-m-B-07425"
       }
     },
     {
@@ -1929,8 +2069,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07426 \nLiceu \nCalea Moților 82 \n1900"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Liceu \nCalea Moților 82 \n1900",
+        "cod": "CJ-II-m-B-07426"
       }
     },
     {
@@ -1943,8 +2084,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Biserici\n",
-        "descriere": "CJ-II-m-B-07427 \nBiserica reformată Calea Moților 84 \n1913 \nKároly Kós (arhitect)"
+        "categorie": "B. Biserici",
+        "descriere": "Biserica reformată Calea Moților 84 \n1913 \nKároly Kós (arhitect)",
+        "cod": "CJ-II-m-B-07427"
       }
     },
     {
@@ -1957,8 +2099,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07428Casă \nCalea Moților 94 \nsec. XVIII - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nCalea Moților 94 \nsec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07428"
       }
     },
     {
@@ -1971,8 +2114,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07429 \nCasă \nmunicipiul Cluj-Napoca \nCalea Moților 104 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nmunicipiul Cluj-Napoca \nCalea Moților 104 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07429"
       }
     },
     {
@@ -1985,8 +2129,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07430 Casă \nCalea Moților 137 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nCalea Moților 137 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07430"
       }
     },
     {
@@ -1999,8 +2144,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07431 \nCasă Str. Mureșanu Andrei 15 \nsec. XX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Mureșanu Andrei 15 \nsec. XX",
+        "cod": "CJ-II-m-B-07431"
       }
     },
     {
@@ -2013,8 +2159,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07432 \nCasă \nStr. Mureșanu Andrei 16 \n1911"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Mureșanu Andrei 16 \n1911",
+        "cod": "CJ-II-m-B-07432"
       }
     },
     {
@@ -2027,8 +2174,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07433 \nCasă \nStr. Mureșanu Andrei 20 \n1906"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Mureșanu Andrei 20 \n1906",
+        "cod": "CJ-II-m-B-07433"
       }
     },
     {
@@ -2041,8 +2189,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Palate\n",
-        "descriere": "CJ-II-m-B-07434Palatul Mikes Piața Muzeului 4 \nsec. XVIII"
+        "categorie": "B. Palate",
+        "descriere": "Palatul Mikes Piața Muzeului 4 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07434"
       }
     },
     {
@@ -2055,8 +2204,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07435Casă \nPiața Muzeului 5 \nsec. XVII - XX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Muzeului 5 \nsec. XVII - XX",
+        "cod": "CJ-II-m-B-07435"
       }
     },
     {
@@ -2069,8 +2219,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07436 \nHotel „Continental” \nStr. Napoca 1 \n1895"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Hotel „Continental” \nStr. Napoca 1 \n1895",
+        "cod": "CJ-II-m-B-07436"
       }
     },
     {
@@ -2083,8 +2234,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Palate\n",
-        "descriere": "CJ-II-m-B-07437 \nPalatul Bornemisza \nStr. Napoca 2-4 și Piața Unirii nr. 9 \nsec. XV - XIX"
+        "categorie": "B. Palate",
+        "descriere": "Palatul Bornemisza \nStr. Napoca 2-4 și Piața Unirii nr. 9 \nsec. XV - XIX",
+        "cod": "CJ-II-m-B-07437"
       }
     },
     {
@@ -2097,8 +2249,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07438 Casă \nmunicipiul Cluj-Napoca \nStr. Napoca 3 \nsec. XVIII - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nmunicipiul Cluj-Napoca \nStr. Napoca 3 \nsec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07438"
       }
     },
     {
@@ -2111,8 +2264,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07439 Casă \nStr. Napoca 5 \nsec. XVIII - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Napoca 5 \nsec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07439"
       }
     },
     {
@@ -2125,8 +2279,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07440Casă \nStr. Napoca 6[2] \nsec. XVIIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Napoca 6[2] \nsec. XVIIII",
+        "cod": "CJ-II-m-B-07440"
       }
     },
     {
@@ -2139,8 +2294,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07441 \nCasă Str. Napoca 7 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Napoca 7 \nsec. XIX",
+        "cod": "CJ-II-m-B-07441"
       }
     },
     {
@@ -2153,8 +2309,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07442(Cod RAN: 54984.187) \nCasă \nmunicipiul Cluj-Napoca \nStr. Napoca 9 \nsec. XVI - XVIII"
+        "categorie": "B. Case",
+        "descriere": "(Cod RAN: 54984.187) \nCasă \nmunicipiul Cluj-Napoca \nStr. Napoca 9 \nsec. XVI - XVIII",
+        "cod": "CJ-II-m-B-07442"
       }
     },
     {
@@ -2167,8 +2324,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07443 \nCasă Str. Napoca 10 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Napoca 10 \nsec. XIX",
+        "cod": "CJ-II-m-B-07443"
       }
     },
     {
@@ -2181,8 +2339,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07444 \nInstitutul de Istorie Națională \nStr. Napoca 11 \nsec. XVIII - XIX"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Institutul de Istorie Națională \nStr. Napoca 11 \nsec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07444"
       }
     },
     {
@@ -2195,8 +2354,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07445 \nCasă Str. Napoca 12 \n1905"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Napoca 12 \n1905",
+        "cod": "CJ-II-m-B-07445"
       }
     },
     {
@@ -2209,8 +2369,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07446 Casă Str. Napoca 14 \nsec. XVIII - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Napoca 14 \nsec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07446"
       }
     },
     {
@@ -2223,8 +2384,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07447 Casă \nStr. Napoca 15 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Napoca 15 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07447"
       }
     },
     {
@@ -2237,8 +2399,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07448Casă \nStr. Napoca 18 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Napoca 18 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07448"
       }
     },
     {
@@ -2251,8 +2414,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07450 \nClinica medicală  \nStr. Pasteur 1 \n1900"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Clinica medicală  \nStr. Pasteur 1 \n1900",
+        "cod": "CJ-II-m-B-07450"
       }
     },
     {
@@ -2265,8 +2429,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07451 \nInstitutul de Igienă Str. Pasteur 6 \n1900"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Institutul de Igienă Str. Pasteur 6 \n1900",
+        "cod": "CJ-II-m-B-07451"
       }
     },
     {
@@ -2279,8 +2444,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07452 Casă Str. Petroșani 2 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Petroșani 2 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07452"
       }
     },
     {
@@ -2293,8 +2459,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07241.03 \nFragment din zidul primei incinte a orașului medieval Str. Petroșeni 1-3 \nsec. XIII"
+        "categorie": "A. Cetatea",
+        "descriere": "Fragment din zidul primei incinte a orașului medieval Str. Petroșeni 1-3 \nsec. XIII",
+        "cod": "CJ-II-m-A-07241.03"
       }
     },
     {
@@ -2307,8 +2474,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07241.04 \nFragment din zidul primei incinte a orașului medieval  \nStr. Petroșeni 21-23 \nsec. XIII"
+        "categorie": "A. Cetatea",
+        "descriere": "Fragment din zidul primei incinte a orașului medieval  \nStr. Petroșeni 21-23 \nsec. XIII",
+        "cod": "CJ-II-m-A-07241.04"
       }
     },
     {
@@ -2321,8 +2489,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07270 \nCasă \nStr. Piața Ștefan cel Mare 14, Str. Baba Novac nr. 27 și Str. I.C. Brătianu nr. 55 \n1830-1840"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Piața Ștefan cel Mare 14, Str. Baba Novac nr. 27 și Str. I.C. Brătianu nr. 55 \n1830-1840",
+        "cod": "CJ-II-m-B-07270"
       }
     },
     {
@@ -2335,8 +2504,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07242.05 \nFragment din zidul celei de a doua incinte a orașului medieval Str. Potaissa 1-3 \nsec. XV"
+        "categorie": "A. Cetatea",
+        "descriere": "Fragment din zidul celei de a doua incinte a orașului medieval Str. Potaissa 1-3 \nsec. XV",
+        "cod": "CJ-II-m-A-07242.05"
       }
     },
     {
@@ -2349,8 +2519,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07453 \nCasă \nStr. Republicii 7 \nsec. XX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Republicii 7 \nsec. XX",
+        "cod": "CJ-II-m-B-07453"
       }
     },
     {
@@ -2363,8 +2534,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07454 \nCasă \nStr. Republicii 41 \nsec. XX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Republicii 41 \nsec. XX",
+        "cod": "CJ-II-m-B-07454"
       }
     },
     {
@@ -2377,8 +2549,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-a-B-07455 \nGrădina Botanică Str. Republicii 42 \n1920"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Grădina Botanică Str. Republicii 42 \n1920",
+        "cod": "CJ-II-a-B-07455"
       }
     },
     {
@@ -2391,8 +2564,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07456 \nCasă  \nStr. Republicii 68 \n1930"
+        "categorie": "B. Case",
+        "descriere": "Casă  \nStr. Republicii 68 \n1930",
+        "cod": "CJ-II-m-B-07456"
       }
     },
     {
@@ -2405,8 +2579,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07457Casă Str. Roosevelt F. D. 2 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Roosevelt F. D. 2 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07457"
       }
     },
     {
@@ -2419,8 +2594,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Case\n",
-        "descriere": "CJ-II-m-A-07458 \nCasa Tătaru \nStr. Rosetti 17 \n1929"
+        "categorie": "A. Case",
+        "descriere": "Casa Tătaru \nStr. Rosetti 17 \n1929",
+        "cod": "CJ-II-m-A-07458"
       }
     },
     {
@@ -2433,8 +2609,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07459 \nCasă \nStr. Șincai Gheorghe 17 \n1907"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Șincai Gheorghe 17 \n1907",
+        "cod": "CJ-II-m-B-07459"
       }
     },
     {
@@ -2447,8 +2624,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07460 \nCazarma „Sf. Gheorghe”  \nPiața Ștefan cel Mare 3 \n1834-1837"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Cazarma „Sf. Gheorghe”  \nPiața Ștefan cel Mare 3 \n1834-1837",
+        "cod": "CJ-II-m-B-07460"
       }
     },
     {
@@ -2462,7 +2640,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-a-B-07461 \nSecția în aer liber a Muzeului Etnografic al Transilvaniei \nStr. Tăietura Turcului Dealul Hoia"
+        "descriere": "Secția în aer liber a Muzeului Etnografic al Transilvaniei \nStr. Tăietura Turcului Dealul Hoia",
+        "cod": "CJ-II-a-B-07461"
       }
     },
     {
@@ -2475,8 +2654,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07462 \nTeatrul Maghiar Aleea Tineretului \n1912-1913 \nGeza Markus, Frigyes Spiegel"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Teatrul Maghiar Aleea Tineretului \n1912-1913 \nGeza Markus, Frigyes Spiegel",
+        "cod": "CJ-II-m-B-07462"
       }
     },
     {
@@ -2489,8 +2669,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-s-B-07463 \nParcul municipal Aleea Tineretului \n1838"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Parcul municipal Aleea Tineretului \n1838",
+        "cod": "CJ-II-s-B-07463"
       }
     },
     {
@@ -2504,7 +2685,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-s-B-07464 \nParcul Iuliu Hațieganu  \nAleea Tineretului 7 \nsec. XX"
+        "descriere": "Parcul Iuliu Hațieganu  \nAleea Tineretului 7 \nsec. XX",
+        "cod": "CJ-II-s-B-07464"
       }
     },
     {
@@ -2517,8 +2699,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07242.03(Cod RAN: 54984.181) \nTurnul Pompierilor Str. Tipografiei 17 \n, 1405, partea superioară sec. XIX"
+        "categorie": "A. Cetatea",
+        "descriere": "(Cod RAN: 54984.181) \nTurnul Pompierilor Str. Tipografiei 17 \n, 1405, partea superioară sec. XIX",
+        "cod": "CJ-II-m-A-07242.03"
       }
     },
     {
@@ -2531,8 +2714,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07465 \nCasă Str. Tomis 1 \nsec. XV - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Tomis 1 \nsec. XV - XIX",
+        "cod": "CJ-II-m-B-07465"
       }
     },
     {
@@ -2545,8 +2729,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07466 \nCasă \nStr. Toplița 1-3 \n1820"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Toplița 1-3 \n1820",
+        "cod": "CJ-II-m-B-07466"
       }
     },
     {
@@ -2559,8 +2744,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07467Casă \nStr. Toplița 5 \n1796"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Toplița 5 \n1796",
+        "cod": "CJ-II-m-B-07467"
       }
     },
     {
@@ -2573,8 +2759,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07468 \nCasă \nStr. Toplița 10 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nStr. Toplița 10 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07468"
       }
     },
     {
@@ -2587,8 +2774,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Biserici\n",
-        "descriere": "CJ-II-m-A-07469 Biserica romano-catolică „Sf. Mihail”  \nPiața Unirii 0 \n1349-1480"
+        "categorie": "A. Biserici",
+        "descriere": "Biserica romano-catolică „Sf. Mihail”  \nPiața Unirii 0 \n1349-1480",
+        "cod": "CJ-II-m-A-07469"
       }
     },
     {
@@ -2601,8 +2789,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07470 \nPrimăria veche Piața Unirii 1 \n1843-1846"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Primăria veche Piața Unirii 1 \n1843-1846",
+        "cod": "CJ-II-m-B-07470"
       }
     },
     {
@@ -2615,8 +2804,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07471Casă \nPiața Unirii 2 \nsec. XVI - XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 2 \nsec. XVI - XVIII",
+        "cod": "CJ-II-m-B-07471"
       }
     },
     {
@@ -2629,8 +2819,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07472 Casă Piața Unirii 3 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă Piața Unirii 3 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07472"
       }
     },
     {
@@ -2643,8 +2834,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07473\nCasă \nPiața Unirii 4 \nsec. XVI"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 4 \nsec. XVI",
+        "cod": "CJ-II-m-B-07473"
       }
     },
     {
@@ -2657,8 +2849,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07474Casă \nPiața Unirii 5 \nsec. XVI"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 5 \nsec. XVI",
+        "cod": "CJ-II-m-B-07474"
       }
     },
     {
@@ -2671,8 +2864,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07475Casă \nPiața Unirii 6 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 6 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07475"
       }
     },
     {
@@ -2685,8 +2879,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07476 \nBanca Națională Piața Unirii 7 \nsec. XX"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Banca Națională Piața Unirii 7 \nsec. XX",
+        "cod": "CJ-II-m-B-07476"
       }
     },
     {
@@ -2699,8 +2894,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Palate\n",
-        "descriere": "CJ-II-m-B-07477 \nPalatul Sebestyen \nPiața Unirii 8 și str. Universității, nr. 1-3 \n1912-1913 \n"
+        "categorie": "B. Palate",
+        "descriere": "Palatul Sebestyen \nPiața Unirii 8 și str. Universității, nr. 1-3 \n1912-1913",
+        "cod": "CJ-II-m-B-07477"
       }
     },
     {
@@ -2713,8 +2909,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Palate\n",
-        "descriere": "CJ-II-m-B-07478 \nPalatul Bornemisza, fost și sediu al Societății teatrale maghiare din Ardeal \nPiața Unirii 9 și str. Napoca nr. 2-4 \nsec. XVIII - XIX"
+        "categorie": "B. Palate",
+        "descriere": "Palatul Bornemisza, fost și sediu al Societății teatrale maghiare din Ardeal \nPiața Unirii 9 și str. Napoca nr. 2-4 \nsec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07478"
       }
     },
     {
@@ -2727,8 +2924,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07479 \nCasa Teleki \nPiața Unirii 10 \n1827"
+        "categorie": "B. Case",
+        "descriere": "Casa Teleki \nPiața Unirii 10 \n1827",
+        "cod": "CJ-II-m-B-07479"
       }
     },
     {
@@ -2741,8 +2939,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07480 Casa în care a locuit Bőlőni Farcas Sandor Piața Unirii 11 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casa în care a locuit Bőlőni Farcas Sandor Piața Unirii 11 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07480"
       }
     },
     {
@@ -2755,8 +2954,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07481 Casă \nPiața Unirii 12 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 12 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07481"
       }
     },
     {
@@ -2769,8 +2969,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07482Casă \nPiața Unirii 13 \nsec. XVI - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 13 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-B-07482"
       }
     },
     {
@@ -2783,8 +2984,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07483 Casă \nPiața Unirii 14 \nsec. XV - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 14 \nsec. XV - XIX",
+        "cod": "CJ-II-m-B-07483"
       }
     },
     {
@@ -2797,8 +2999,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07484 Casa parohială a bisericii romano-catolice Piața Unirii 15 \nsec. XV - XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casa parohială a bisericii romano-catolice Piața Unirii 15 \nsec. XV - XVIII",
+        "cod": "CJ-II-m-B-07484"
       }
     },
     {
@@ -2811,8 +3014,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07485Casă \nPiața Unirii 16 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 16 \nsec. XIX",
+        "cod": "CJ-II-m-B-07485"
       }
     },
     {
@@ -2825,8 +3029,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07486 Casă Piața Unirii 18 \nsec. XVI"
+        "categorie": "B. Case",
+        "descriere": "Casă Piața Unirii 18 \nsec. XVI",
+        "cod": "CJ-II-m-B-07486"
       }
     },
     {
@@ -2839,8 +3044,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07487 Casă Piața Unirii 19 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă Piața Unirii 19 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07487"
       }
     },
     {
@@ -2853,8 +3059,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07495 Muzeul Farmaciei \nPiața Unirii 28 și str. Doja Gheorghe nr. 1 \nsec. XV - XVIII"
+        "categorie": "B. Case",
+        "descriere": "Muzeul Farmaciei \nPiața Unirii 28 și str. Doja Gheorghe nr. 1 \nsec. XV - XVIII",
+        "cod": "CJ-II-m-B-07495"
       }
     },
     {
@@ -2867,8 +3074,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07494 Casă \nPiața Unirii 27 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 27 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07494"
       }
     },
     {
@@ -2881,8 +3089,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07493 Casă Piața Unirii 26 \nsec. XVIII - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Piața Unirii 26 \nsec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07493"
       }
     },
     {
@@ -2895,8 +3104,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07241.01 \nTurn și fragment din zidul primei incinte a orașului medieval Piața Unirii 25 și str. Toplița nr. 10 \n1376"
+        "categorie": "A. Cetatea",
+        "descriere": "Turn și fragment din zidul primei incinte a orașului medieval Piața Unirii 25 și str. Toplița nr. 10 \n1376",
+        "cod": "CJ-II-m-A-07241.01"
       }
     },
     {
@@ -2909,8 +3119,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07492 \nImobil administrativ Piața Unirii 24 \n1883"
+        "categorie": "B. Case",
+        "descriere": "Imobil administrativ Piața Unirii 24 \n1883",
+        "cod": "CJ-II-m-B-07492"
       }
     },
     {
@@ -2923,8 +3134,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07491 \nImobil administrativ  \nPiața Unirii 23 \n1883"
+        "categorie": "B. Case",
+        "descriere": "Imobil administrativ  \nPiața Unirii 23 \n1883",
+        "cod": "CJ-II-m-B-07491"
       }
     },
     {
@@ -2937,8 +3149,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07490Casă \nPiața Unirii 22 \nsec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 22 \nsec. XVIII",
+        "cod": "CJ-II-m-B-07490"
       }
     },
     {
@@ -2951,8 +3164,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07489Casă Piața Unirii 21 \nsec. XVI - XX"
+        "categorie": "B. Case",
+        "descriere": "Casă Piața Unirii 21 \nsec. XVI - XX",
+        "cod": "CJ-II-m-B-07489"
       }
     },
     {
@@ -2965,8 +3179,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07488 \nCasă \nPiața Unirii 20 \nsec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă \nPiața Unirii 20 \nsec. XIX",
+        "cod": "CJ-II-m-B-07488"
       }
     },
     {
@@ -2979,8 +3194,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Palate\n",
-        "descriere": "CJ-II-m-A-07497 Palatul Banffy, azi Muzeul de Artă  \nPiața Unirii 30 \n1774-1785 \nJohann Eberhard Blaumann (arhitect)"
+        "categorie": "A. Palate",
+        "descriere": "Palatul Banffy, azi Muzeul de Artă  \nPiața Unirii 30 \n1774-1785 \nJohann Eberhard Blaumann (arhitect)",
+        "cod": "CJ-II-m-A-07497"
       }
     },
     {
@@ -2993,8 +3209,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Case\n",
-        "descriere": "CJ-II-m-A-07498 Casa Wolphard Kakas, azi Universitatea de Arte Vizuale „Ion Andreescu” și banca „Société Générale” Piața Unirii 31 \nsec. XVI - XIX"
+        "categorie": "A. Case",
+        "descriere": "Casa Wolphard Kakas, azi Universitatea de Arte Vizuale „Ion Andreescu” și banca „Société Générale” Piața Unirii 31 \nsec. XVI - XIX",
+        "cod": "CJ-II-m-A-07498"
       }
     },
     {
@@ -3008,7 +3225,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-m-B-07243.01 - Ateliere pictură (fostă expoziție)1940"
+        "descriere": "- Ateliere pictură (fostă expoziție)1940",
+        "cod": "CJ-II-m-B-07243.01"
       }
     },
     {
@@ -3022,7 +3240,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-m-B-07243.03 Chioșc fanfară 1897"
+        "descriere": "Chioșc fanfară 1897",
+        "cod": "CJ-II-m-B-07243.03"
       }
     },
     {
@@ -3036,7 +3255,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-m-B-07243.04 Pavilionul de patinaj 1897"
+        "descriere": "Pavilionul de patinaj 1897",
+        "cod": "CJ-II-m-B-07243.04"
       }
     },
     {
@@ -3050,7 +3270,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-m-B-07243.05 Kiosk 1897\n"
+        "descriere": "Kiosk 1897",
+        "cod": "CJ-II-m-B-07243.05"
       }
     },
     {
@@ -3064,7 +3285,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-m-B-07243.02 Fântână arteziană1897"
+        "descriere": "Fântână arteziană1897",
+        "cod": "CJ-II-m-B-07243.02"
       }
     },
     {
@@ -3078,7 +3300,8 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "CJ-II-m-B-07306 Biserica și casa parohială Evanghelică Bdul 21 Decembrie 1 1816-1822"
+        "descriere": "Biserica și casa parohială Evanghelică Bdul 21 Decembrie 1 1816-1822",
+        "cod": "CJ-II-m-B-07306"
       }
     },
     {
@@ -3091,8 +3314,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07246 Hotel Melody Bd. 21 Decembrie 1989 2 și Piața Unirii nr. 29 sec. XVI - XIX"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Hotel Melody Bd. 21 Decembrie 1989 2 și Piața Unirii nr. 29 sec. XVI - XIX",
+        "cod": "CJ-II-m-B-07246"
       }
     },
     {
@@ -3106,7 +3330,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07247 Casă Bd. 21 Decembrie 1989 3 sec. XV - XVI \n"
+        "descriere": "Casă Bd. 21 Decembrie 1989 3 sec. XV - XVI",
+        "cod": "CJ-II-m-B-07247"
       }
     },
     {
@@ -3120,7 +3345,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07248 Casa Bd. 21 Decembrie 1989 4 sec. XVI - XIX \n"
+        "descriere": "Casa Bd. 21 Decembrie 1989 4 sec. XVI - XIX",
+        "cod": "CJ-II-m-B-07248"
       }
     },
     {
@@ -3133,8 +3359,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07249 Liceul \"Brassai\" Bd. 21 Decembrie 1989 7 sec. XVIII - XIX \n"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Liceul \"Brassai\" Bd. 21 Decembrie 1989 7 sec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07249"
       }
     },
     {
@@ -3147,8 +3374,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07250 Colegiul unitarian „Janos Zsigmond” Bd. 21 Decembrie 1989 9 sec. XIX"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Colegiul unitarian „Janos Zsigmond” Bd. 21 Decembrie 1989 9 sec. XIX",
+        "cod": "CJ-II-m-B-07250"
       }
     },
     {
@@ -3161,8 +3389,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Biserici\n",
-        "descriere": "CJ-II-m-B-07251 Biserica unitariană Bd. 21 Decembrie 1989 9 sec. XVIII\nAnton Türk (arhitect)"
+        "categorie": "B. Biserici",
+        "descriere": "Biserica unitariană Bd. 21 Decembrie 1989 9 sec. XVIII\nAnton Türk (arhitect)",
+        "cod": "CJ-II-m-B-07251"
       }
     },
     {
@@ -3176,7 +3405,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07252 Casa profesorilor unitarieni Bd. 21 Decembrie 1989 10 și str. Bolyai Janos nr. 10sec. XVIII - XIX"
+        "descriere": "Casa profesorilor unitarieni Bd. 21 Decembrie 1989 10 și str. Bolyai Janos nr. 10sec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07252"
       }
     },
     {
@@ -3189,8 +3419,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07253 Casă Bd. 21 Decembrie 1989 12 sec. XVIII - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Bd. 21 Decembrie 1989 12 sec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07253"
       }
     },
     {
@@ -3204,7 +3435,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07254 Reședința episcopului unitarian Bd. 21 Decembrie 1989 14 sec. XV - XIX \n"
+        "descriere": "Reședința episcopului unitarian Bd. 21 Decembrie 1989 14 sec. XV - XIX",
+        "cod": "CJ-II-m-B-07254"
       }
     },
     {
@@ -3217,8 +3449,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07255 Casa parohială a bisericii unitariene Bd. 21 Decembrie 1989 16-18 sec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casa parohială a bisericii unitariene Bd. 21 Decembrie 1989 16-18 sec. XVIII",
+        "cod": "CJ-II-m-B-07255"
       }
     },
     {
@@ -3231,8 +3464,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07256 Sediul P.S.D. Bd. 21 Decembrie 1989 19 sec. XVIII - XIX \n"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Sediul P.S.D. Bd. 21 Decembrie 1989 19 sec. XVIII - XIX",
+        "cod": "CJ-II-m-B-07256"
       }
     },
     {
@@ -3246,7 +3480,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07257 Casă Bd. 21 Decembrie 1989 20 sec. XIX \n"
+        "descriere": "Casă Bd. 21 Decembrie 1989 20 sec. XIX",
+        "cod": "CJ-II-m-B-07257"
       }
     },
     {
@@ -3259,8 +3494,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07258 Sediul Redacției revistei \"Korunk\" în perioada interbelică Bd. 21 Decembrie 1989 20 sec. XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Sediul Redacției revistei \"Korunk\" în perioada interbelică Bd. 21 Decembrie 1989 20 sec. XIX",
+        "cod": "CJ-II-m-B-07258"
       }
     },
     {
@@ -3274,7 +3510,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07259 Casă Bd. 21 Decembrie 1989 24 sec. XIX \n"
+        "descriere": "Casă Bd. 21 Decembrie 1989 24 sec. XIX",
+        "cod": "CJ-II-m-B-07259"
       }
     },
     {
@@ -3287,8 +3524,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07260 Casă Bd. 21 Decembrie 1989 28 sec. XVII - XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă Bd. 21 Decembrie 1989 28 sec. XVII - XVIII",
+        "cod": "CJ-II-m-B-07260"
       }
     },
     {
@@ -3302,7 +3540,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07261 Casă cu portal Bd. 21 Decembrie 1989 32 1559 \n"
+        "descriere": "Casă cu portal Bd. 21 Decembrie 1989 32 1559",
+        "cod": "CJ-II-m-B-07261"
       }
     },
     {
@@ -3316,7 +3555,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07262  Casă Bd. 21 Decembrie 1989 34 1920 \n"
+        "descriere": "Casă Bd. 21 Decembrie 1989 34 1920",
+        "cod": "CJ-II-m-B-07262"
       }
     },
     {
@@ -3329,8 +3569,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07263 Casă Bd. 21 Decembrie 1989 36 sec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Bd. 21 Decembrie 1989 36 sec. XIX",
+        "cod": "CJ-II-m-B-07263"
       }
     },
     {
@@ -3343,8 +3584,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Biserici\n",
-        "descriere": "CJ-II-m-B-07264 Biserica reformată Bd. 21 Decembrie 1989 41 1821-1859 Georg Winkler (arhitect)"
+        "categorie": "B. Biserici",
+        "descriere": "Biserica reformată Bd. 21 Decembrie 1989 41 1821-1859 Georg Winkler (arhitect)",
+        "cod": "CJ-II-m-B-07264"
       }
     },
     {
@@ -3357,8 +3599,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07265 Casă Bd. 21 Decembrie 1989 44 sec. XVI - XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă Bd. 21 Decembrie 1989 44 sec. XVI - XVIII",
+        "cod": "CJ-II-m-B-07265"
       }
     },
     {
@@ -3371,8 +3614,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07265 Casă Bd. 21 Decembrie 1989 44 sec. XVI - XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă Bd. 21 Decembrie 1989 44 sec. XVI - XVIII",
+        "cod": "CJ-II-m-B-07265"
       }
     },
     {
@@ -3385,8 +3629,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07267 Prefectura Cluj-Napoca Bd. 21 Decembrie 1989 58 și Piața Avram Iancu nr. 12 1910 Josef Huber (arhitect)"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Prefectura Cluj-Napoca Bd. 21 Decembrie 1989 58 și Piața Avram Iancu nr. 12 1910 Josef Huber (arhitect)",
+        "cod": "CJ-II-m-B-07267"
       }
     },
     {
@@ -3399,8 +3644,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07268 Cazarmă, azi unitate militară Bd. 21 Decembrie 1989 106 sec. XIX"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Cazarmă, azi unitate militară Bd. 21 Decembrie 1989 106 sec. XIX",
+        "cod": "CJ-II-m-B-07268"
       }
     },
     {
@@ -3413,8 +3659,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Biserici\n",
-        "descriere": "CJ-II-m-B-07245 Biserica romano-catolică \"Sf. Petru\" Bd. 21 Decembrie 1989 136- 138 sec. XIV - XIX"
+        "categorie": "B. Biserici",
+        "descriere": "Biserica romano-catolică \"Sf. Petru\" Bd. 21 Decembrie 1989 136- 138 sec. XIV - XIX",
+        "cod": "CJ-II-m-B-07245"
       }
     },
     {
@@ -3428,7 +3675,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07269 Str. Baba Novac 8 Bd. Eroilor nr. 51 sec. XVIII"
+        "descriere": "Str. Baba Novac 8 Bd. Eroilor nr. 51 sec. XVIII",
+        "cod": "CJ-II-m-B-07269"
       }
     },
     {
@@ -3441,8 +3689,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A Fragment din zidul celei de a doua incinte a orașului medieval Str. Baba Novac 15 1406"
+        "categorie": "A. Cetatea",
+        "descriere": "Fragment din zidul celei de a doua incinte a orașului medieval Str. Baba Novac 15 1406",
+        "cod": "CJ-II-m-A-07242.06"
       }
     },
     {
@@ -3455,8 +3704,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Cetatea\n",
-        "descriere": "CJ-II-m-A-07271 Bastionul Bethlen (fost Turnul Croitorilor) Str. Baba Novac 35 sec. XV - XVII, ref.sec. XIX"
+        "categorie": "A. Cetatea",
+        "descriere": "Bastionul Bethlen (fost Turnul Croitorilor) Str. Baba Novac 35 sec. XV - XVII, ref.sec. XIX",
+        "cod": "CJ-II-m-A-07271"
       }
     },
     {
@@ -3470,7 +3720,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-m-B-07272 Clinicile de neurologie și neuro-psihiatrie infantilă Str. Babeș Victor 43 1900"
+        "descriere": "Clinicile de neurologie și neuro-psihiatrie infantilă Str. Babeș Victor 43 1900",
+        "cod": "CJ-II-m-B-07272"
       }
     },
     {
@@ -3483,8 +3734,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Clădiri publice\n",
-        "descriere": "CJ-II-m-B-07274 Institutul Politehnic Str. Barițiu George 25 1894 \n"
+        "categorie": "B. Clădiri publice",
+        "descriere": "Institutul Politehnic Str. Barițiu George 25 1894",
+        "cod": "CJ-II-m-B-07274"
       }
     },
     {
@@ -3498,7 +3750,8 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "CJ-II-m-B-07275 Institutul Politehnic Str. Barițiu George 28 1895"
+        "descriere": "Institutul Politehnic Str. Barițiu George 28 1895",
+        "cod": "CJ-II-m-B-07275"
       }
     },
     {
@@ -3511,8 +3764,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Biserici\n",
-        "descriere": "CJ-II-m-B-07276 Biserica \"Sf. Treime\", din deal Str. Bisericii Ortodoxe 10 sec. XVIII"
+        "categorie": "B. Biserici",
+        "descriere": "Biserica \"Sf. Treime\", din deal Str. Bisericii Ortodoxe 10 sec. XVIII",
+        "cod": "CJ-II-m-B-07276"
       }
     },
     {
@@ -3525,8 +3779,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Biserici\n",
-        "descriere": "CJ-II-m-B-07277 Biserica \"Învierea Domnului\", Bob Str. Bob 5 1800-1803 Iosif Leder "
+        "categorie": "B. Biserici",
+        "descriere": "Biserica \"Învierea Domnului\", Bob Str. Bob 5 1800-1803 Iosif Leder",
+        "cod": "CJ-II-m-B-07277"
       }
     },
     {
@@ -3539,8 +3794,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case \n",
-        "descriere": "CJ-II-m-B-07278 Casa în s-a născut Bolyai Janos Str. Bolyai Janos 1 și Bd. Eroilor nr. 9 sec. XV - XIX"
+        "categorie": "B. Case ",
+        "descriere": "Casa în s-a născut Bolyai Janos Str. Bolyai Janos 1 și Bd. Eroilor nr. 9 sec. XV - XIX",
+        "cod": "CJ-II-m-B-07278"
       }
     },
     {
@@ -3553,8 +3809,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07279 Casă Str. Bolyai Janos 2 și str. Eroilor nr. 11 sec. XV - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Bolyai Janos 2 și str. Eroilor nr. 11 sec. XV - XIX",
+        "cod": "CJ-II-m-B-07279"
       }
     },
     {
@@ -3567,8 +3824,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07280 Casă Str. Bolyai Janos 2-4 sec. XV - XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Bolyai Janos 2-4 sec. XV - XIX",
+        "cod": "CJ-II-m-B-07280"
       }
     },
     {
@@ -3581,8 +3839,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07282 Casă stil baroc Str. Brătianu I.C. 6 sec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă stil baroc Str. Brătianu I.C. 6 sec. XVIII",
+        "cod": "CJ-II-m-B-07282"
       }
     },
     {
@@ -3595,8 +3854,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07283 Casă stil baroc Str. Brătianu I.C. 8 sec. XVIII  "
+        "categorie": "B. Case",
+        "descriere": "Casă stil baroc Str. Brătianu I.C. 8 sec. XVIII",
+        "cod": "CJ-II-m-B-07283"
       }
     },
     {
@@ -3609,8 +3869,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07284 Casă Str. Brătianu I.C. 10 sec. XIX \n"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Brătianu I.C. 10 sec. XIX",
+        "cod": "CJ-II-m-B-07284"
       }
     },
     {
@@ -3623,8 +3884,9 @@
         ]
       },
       "properties": {
-        "categorie": "A. Palate\n",
-        "descriere": "CJ-II-m-A-07285 Palatul Tholdalagy-Korda, azi Universitatea \"Babeș-Bolyai\" - administrația tehnică Str. Brătianu I.C. 14 \nCarlo Justi "
+        "categorie": "A. Palate",
+        "descriere": "Palatul Tholdalagy-Korda, azi Universitatea \"Babeș-Bolyai\" - administrația tehnică Str. Brătianu I.C. 14 \nCarlo Justi",
+        "cod": "CJ-II-m-A-07285"
       }
     },
     {
@@ -3638,7 +3900,8 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "CJ-II-m-B-07286 Casă Str. Brătianu I.C. 16 sec. XVIII"
+        "descriere": "Casă Str. Brătianu I.C. 16 sec. XVIII",
+        "cod": "CJ-II-m-B-07286"
       }
     },
     {
@@ -3651,8 +3914,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07287 Casă Str. Brătianu I.C. 18 sec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Brătianu I.C. 18 sec. XVIII",
+        "cod": "CJ-II-m-B-07287"
       }
     },
     {
@@ -3665,8 +3929,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07288 \"Casa Beldi\", azi clădire administrativă Str. Brătianu I.C. 22 sec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "\"Casa Beldi\", azi clădire administrativă Str. Brătianu I.C. 22 sec. XVIII",
+        "cod": "CJ-II-m-B-07288"
       }
     },
     {
@@ -3679,8 +3944,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07289 Casă Str. Brătianu I.C. 24 sec. XVIII"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Brătianu I.C. 24 sec. XVIII",
+        "cod": "CJ-II-m-B-07289"
       }
     },
     {
@@ -3694,7 +3960,8 @@
       },
       "properties": {
         "categorie": "A. Case",
-        "descriere": "CJ-II-m-A-07290 Casa Aurarului Str. Brătianu I.C. 27 sec. XVIII \n"
+        "descriere": "Casa Aurarului Str. Brătianu I.C. 27 sec. XVIII",
+        "cod": "CJ-II-m-A-07290"
       }
     },
     {
@@ -3707,8 +3974,9 @@
         ]
       },
       "properties": {
-        "categorie": "B. Case\n",
-        "descriere": "CJ-II-m-B-07291 Casă Str. Brătianu I.C. 34 sec. XIX"
+        "categorie": "B. Case",
+        "descriere": "Casă Str. Brătianu I.C. 34 sec. XIX",
+        "cod": "CJ-II-m-B-07291"
       }
     }
   ]
