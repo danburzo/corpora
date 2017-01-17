@@ -5394,99 +5394,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.587491, 46.772469
         ]
       },
       "properties": {
         "rlu": 1,
         "lmi": 1,
         "lmi2004": "CJ-I-s-B-06921",
-        "denumire": "Situl arheologic de la Cluj-Napoca, punct „Str.Deleu și Caragiale",
+        "denumire": "Situl arheologic de la Cluj-Napoca, punct „Str.Deleu și Caragiale”",
         "adresa": "Parcul arh. Deleu și Parcul Caragiale",
         "valoare": 1,
         "denumire_wiki": "Orașul antic și medieval",
         "ran": "54984.16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23,
-          46
-        ]
-      },
-      "properties": {
-        "rlu": 2,
-        "lmi": 2,
-        "lmi2004": "CJ-I-m-B-06921.01",
-        "denumire": "Ruine edificii - orașul antic și medieval",
-        "adresa": "Parcul arh. Deleu și Parcul Caragiale",
-        "datare": "Epoca medievală",
-        "valoare": 1,
-        "ran": "54984.16.02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23,
-          46
-        ]
-      },
-      "properties": {
-        "rlu": 3,
-        "lmi": 3,
-        "lmi2004": "CJ-I-m-B-06921.02",
-        "denumire": "Zid de incintă - orașul antic și medieval",
-        "adresa": "Parcul arh. Deleu și Parcul Caragiale",
-        "datare": "Epoca medievală",
-        "valoare": 1,
-        "ran": "54984.16.03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23,
-          46
-        ]
-      },
-      "properties": {
-        "rlu": 4,
-        "lmi": 4,
-        "lmi2004": "CJ-I-m-B-06921.03",
-        "denumire": "Zid de incintă - orașul antic și medieval",
-        "adresa": "Parcul arh. Deleu și Parcul Caragiale",
-        "datare": "sec. II-III p. Chr. Epoca romană",
-        "valoare": 1,
-        "ran": "54984.16.04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23,
-          46
-        ]
-      },
-      "properties": {
-        "rlu": 5,
-        "lmi": 5,
-        "lmi2004": "CJ-I-m-B-06921.04",
-        "denumire": "Ruine edificii urbane - orașul antic și medieval",
-        "adresa": "Parcul arh. Deleu și Parcul Caragiale",
-        "datare": "sec. II-III p. Chr. Epoca romană",
-        "valoare": 1,
-        "ran": "54984.16.01"
       }
     },
     {
@@ -5532,120 +5451,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.54692, 46.76128
-        ]
-      },
-      "properties": {
-        "rlu": 8,
-        "lmi": 8,
-        "lmi2004": "CJ-I-m-B-06923.01",
-        "denumire": "Așezare",
-        "adresa": "„La Stăvilar”",
-        "datare": "Epoca migrațiilor",
-        "valoare": 1,
-        "ran": "54984.09.06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.54692, 46.76128
-        ]
-      },
-      "properties": {
-        "rlu": 9,
-        "lmi": 9,
-        "lmi2004": "CJ-I-m-B-06923.02",
-        "denumire": "Așezare",
-        "adresa": "„La Stăvilar””",
-        "datare": "Epoca romană",
-        "valoare": 1,
-        "ran": "54984.09.05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.54692, 46.76128
-        ]
-      },
-      "properties": {
-        "rlu": 10,
-        "lmi": 10,
-        "lmi2004": "CJ-I-m-B-06923.03",
-        "denumire": "Așezare",
-        "adresa": "„La Stăvilar”",
-        "datare": "Hallstatt",
-        "valoare": 1,
-        "ran": "54984.09.04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.54692, 46.76128
-        ]
-      },
-      "properties": {
-        "rlu": 11,
-        "lmi": 11,
-        "lmi2004": "CJ-I-m-B-06923.04",
-        "denumire": "Așezare",
-        "adresa": "„La Stăvilar”",
-        "datare": "Perioada de tranziție la epoca bronzului, Cultura Coțofeni",
-        "valoare": 1,
-        "ran": "54984.09.03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.54692, 46.76128
-        ]
-      },
-      "properties": {
-        "rlu": 12,
-        "lmi": 12,
-        "lmi2004": "CJ-I-m-B-06923.05",
-        "denumire": "Așezare",
-        "adresa": "„La Stăvilar”",
-        "datare": "Epoca bronzului",
-        "valoare": 1,
-        "ran": "54984.09.02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.54692, 46.76128
-        ]
-      },
-      "properties": {
-        "rlu": 13,
-        "lmi": 13,
-        "lmi2004": "CJ-I-m-B-06923.06",
-        "denumire": "Așezare",
-        "adresa": "„La Stăvilar”",
-        "datare": "Neolitic",
-        "valoare": 1,
-        "ran": "54984.09.01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23,
           46
         ]
@@ -5659,46 +5464,6 @@
         "datare": "sec. IX-XI",
         "valoare": 1,
         "ran": "54984.10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23,
-          46
-        ]
-      },
-      "properties": {
-        "rlu": 15,
-        "lmi": 15,
-        "lmi2004": "CJ-I-m-B-06924.01",
-        "denumire": "Ruinele bisericii medievale",
-        "adresa": "„Calvaria”",
-        "datare": "sec. IX-XI, Epoca medievală",
-        "valoare": 1,
-        "ran": "54984.10.02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23,
-          46
-        ]
-      },
-      "properties": {
-        "rlu": 16,
-        "lmi": 16,
-        "lmi2004": "CJ-I-m-B-06924.02",
-        "denumire": "Așezare fortificată",
-        "adresa": "„Calvaria”",
-        "datare": "sec. IX-XI, Epoca medieval timpurie",
-        "valoare": 1,
-        "ran": "54984.10.01"
       }
     },
     {
@@ -5745,66 +5510,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.6504504,
-          46.7791138
-        ]
-      },
-      "properties": {
-        "rlu": 19,
-        "lmi": 19,
-        "lmi2004": "CJ-I-m-B-06926.01",
-        "denumire": "Așezare",
-        "adresa": "„Someșeni-Băi”",
-        "datare": "Epoca medievală timpurie",
-        "valoare": 1,
-        "ran": "54984.12.03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.6504504,
-          46.7791138
-        ]
-      },
-      "properties": {
-        "rlu": 20,
-        "lmi": 20,
-        "lmi2004": "CJ-I-m-B-06926.02",
-        "denumire": "Așezare",
-        "adresa": "„Someșeni-Băi”",
-        "datare": "sec. II-III p. Chr. Epoca romană",
-        "valoare": 1,
-        "ran": "54984.12.02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.6504504,
-          46.7791138
-        ]
-      },
-      "properties": {
-        "rlu": 21,
-        "lmi": 21,
-        "lmi2004": "CJ-I-m-B-06926.03",
-        "denumire": "Așezare",
-        "adresa": "„Someșeni-Băi”",
-        "datare": "Latène",
-        "valoare": 1,
-        "ran": "54984.12.01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23.6861801,
           46.781317
         ]
@@ -5817,46 +5522,6 @@
         "adresa": "„Someșeni-Aeroport”",
         "valoare": 1,
         "ran": "54984.13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.6861801,
-          46.781317
-        ]
-      },
-      "properties": {
-        "rlu": 23,
-        "lmi": 23,
-        "lmi2004": "CJ-I-m-B-06927.01",
-        "denumire": "Așezare",
-        "adresa": "„Someșeni-Aeroport”",
-        "datare": "sec. IV-V Epoca migrațiilor",
-        "valoare": 1,
-        "ran": "54984.13.01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.6861801,
-          46.781317
-        ]
-      },
-      "properties": {
-        "rlu": 24,
-        "lmi": 24,
-        "lmi2004": "CJ-I-m-B-06927.02",
-        "denumire": "Necropolă",
-        "adresa": "„Someșeni-Aeroport”",
-        "datare": "sec. VIII-IX, Epoca migrațiilor",
-        "valoare": 1,
-        "ran": "54984.13.02"
       }
     },
     {
@@ -6209,8 +5874,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.593133, 46.772107
         ]
       },
       "properties": {
@@ -6432,8 +6096,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23,
-          46
+          23.595857, 46.771714
         ]
       },
       "properties": {
@@ -8140,7 +7803,7 @@
         "lmi": 787,
         "lmi2004": "CJ-II-m-B-07324.02",
         "denumire": "Claustrul mănăstirii minoriților",
-        "adresa": "Bd. Eroilor 8 și str.I.C.Brătianu nr.25",
+        "adresa": "Bd. Eroilor 8 și str. I.C. Brătianu nr.25",
         "datare": "sec. XV-XIX",
         "valoare": 1
       }
