@@ -15,15 +15,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa Kos Karoly Str. Breaza 14 - 1900",
         "lmi2004": "CJ-II-m-B-07292",
         "rlu": 179,
-        "denumire": "Casa Kos Karoly",
+        "denumire": "Casa Kós Károly",
         "adresa": "Str. Breaza 14",
         "lmi": 752,
         "datare": 1900,
-        "valoare": 1,
-        "denumire_wiki": "Casa Kós Károly"
+        "valoare": 1
       }
     },
     {
@@ -37,7 +35,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Clemenceau Georges 1 sec. XVII - XVIII",
         "lmi2004": "CJ-II-m-B-07294",
         "rlu": 186,
         "denumire": "Casă",
@@ -59,15 +56,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă cu elemente de Renaștere Str. Clemenceau Georges 3 sec. XVI",
         "lmi2004": "CJ-II-m-B-07295",
         "rlu": 188,
-        "denumire": "Casă",
+        "denumire": "Casă cu elemente de Renaștere",
         "adresa": "Str. Clemenceau Georges 3",
         "lmi": 755,
         "datare": "sec. XVI",
         "valoare": 1,
-        "denumire_wiki": "Casă cu elemente de Renaștere",
         "ran": "54984.68"
       }
     },
@@ -82,15 +77,13 @@
       },
       "properties": {
         "categorie": "A. Clădiri publice",
-        "descriere": "Ansamblul clinicilor universitare Str. Clinicilor 15 1900-1904",
         "lmi2004": "CJ-II-a-A-07297",
         "rlu": 194,
         "denumire": "Ansamblul clinicilor universitare",
-        "adresa": "Str. Clinicilor 3",
+        "adresa": "Str. Clinicilor 15",
         "lmi": 757,
         "datare": "1900-1904",
-        "valoare": 1,
-        "adresa_wiki": "Str. Clinicilor 15"
+        "valoare": 1
       }
     },
     {
@@ -104,7 +97,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Biblioteca Centrală Universitară Str. Clinicilor 2 1906-1908 Kálmán Giergl (arhitect)",
         "lmi2004": "CJ-II-m-B-07296",
         "rlu": 193,
         "denumire": "Biblioteca Centrală Universitară",
@@ -126,7 +118,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Coșbuc George 2 sec. XVIII",
         "lmi2004": "CJ-II-m-B-07298",
         "rlu": 195,
         "denumire": "Casă",
@@ -148,15 +139,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Curie Frederic Joliot 3 sec. XX",
         "lmi2004": "CJ-II-m-B-07299",
         "rlu": 398,
         "denumire": "Casă",
-        "adresa": "Str. Joliot-Curie Frédéric 3",
+        "adresa": "Str. Joliot-Curie Frédéric nr. 3",
         "lmi": 759,
         "datare": "sec. XX",
-        "valoare": 1,
-        "adresa_wiki": "Str. Curie Frederic Joliot 3"
+        "valoare": 1
       }
     },
     {
@@ -170,7 +159,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa Kovary Laszlo Str. Daicoviciu Constantin 1 sec. XIX",
         "lmi2004": "CJ-II-m-B-07300",
         "rlu": 201,
         "denumire": "Casa Kovary Laszlo",
@@ -191,7 +179,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Daicoviciu Constantin 3 sec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07301",
         "rlu": 203,
         "denumire": "Casă",
@@ -213,11 +200,10 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Daicoviciu Constantin 5 sec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07302",
         "rlu": 204,
         "denumire": "Casă",
-        "adresa": "Str. Daicoviciu Constantin 5",
+        "adresa": "Str. Daicoviciu Constantin nr. 5",
         "lmi": 762,
         "datare": "sec. XVIII-XIX",
         "valoare": 1,
@@ -235,7 +221,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Institutul Politehnic Str. Daicoviciu Constantin 15 sec. XIX",
         "lmi2004": "CJ-II-m-B-07303",
         "rlu": 207,
         "denumire": "Institutul Politehnic",
@@ -256,15 +241,13 @@
       },
       "properties": {
         "categorie": "A. Biserici",
-        "descriere": "Biserica „Nașterea Maicii Domnului” Str. Dârjan Traian 8- 1750",
         "lmi2004": "CJ-II-m-A-07304",
         "rlu": 208,
         "denumire": "Biserica „Nașterea Maicii Domnului”",
-        "adresa": "Str. Dârjan Traian 89",
+        "adresa": "Str. Dârjan Traian 8",
         "lmi": 764,
         "datare": 1750,
         "valoare": 1,
-        "adresa_wiki": "Str. Dârjan Traian 8",
         "ran": "54984.27"
       }
     },
@@ -293,7 +276,6 @@
       },
       "properties": {
         "categorie": "A. Biserici",
-        "descriere": "Mănăstirea Franciscanilor Str. Deleu 2-4 sec. XV - XVIII",
         "lmi2004": "CJ-II-a-A-07305",
         "rlu": 211,
         "denumire": "Mănăstirea Franciscanilor",
@@ -315,7 +297,6 @@
       },
       "properties": {
         "categorie": "A. Biserici",
-        "descriere": "Biserica franciscană Str. Deleu 2-4 sec. XV - XVIII",
         "lmi2004": "CJ-II-m-A-07305.01",
         "rlu": 212,
         "denumire": "Biserica franciscană",
@@ -336,7 +317,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa barocă Str. Doja Gheorghe 4 sec. XVI - XVIII",
         "lmi2004": "CJ-II-m-B-07307",
         "rlu": 216,
         "denumire": "Casa barocă",
@@ -344,7 +324,6 @@
         "lmi": 769,
         "datare": "sec. XVI-XVIII",
         "valoare": 1,
-        "adresa_wiki": "Str. Regele Ferdinand (fostă Doja Gheorghe) 4[2]",
         "ran": "54984"
       }
     },
@@ -359,7 +338,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă cu elemente renascentiste Str. Doja Gheorghe 5 sec. XVI - XVIII",
         "lmi2004": "CJ-II-m-B-07308",
         "rlu": 217,
         "denumire": "Casă cu elemente renascentiste",
@@ -367,7 +345,6 @@
         "lmi": 770,
         "datare": "sec. XVI-XVIII",
         "valoare": 1,
-        "adresa_wiki": "Str. Regele Ferdinand (fostă Doja Gheorghe) 5[2]",
         "ran": "54984.56"
       }
     },
@@ -382,15 +359,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Hotel „Pannonia” Str. Doja Gheorghe 17 sec. XVII - XIX",
         "lmi2004": "CJ-II-m-B-07310",
         "rlu": 230,
         "denumire": "Hotel „Pannonia”",
-        "adresa": "Str. Regele Ferdinand 19",
+        "adresa": "Str. Regele Ferdinand 17",
         "lmi": 772,
         "datare": "sec. XVII-XIX",
         "valoare": 1,
-        "adresa_wiki": "Str. Regele Ferdinand (fostă Doja Gheorghe) 17[2]",
         "ran": "54984.58"
       }
     },
@@ -405,15 +380,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Doja Gheorghe 19 \nsf. sec. XIX",
         "lmi2004": "CJ-II-m-B-07309",
         "rlu": 229,
         "denumire": "Casă",
-        "adresa": "Str. Regele Ferdinand 19",
+        "adresa": "Str. Regele Ferdinand nr. 19",
         "lmi": 771,
         "datare": "sf. sec. XIX",
-        "valoare": 1,
-        "adresa_wiki": "Str. Regele Ferdinand (fostă Doja Gheorghe) 19[2]"
+        "valoare": 1
       }
     },
     {
@@ -427,15 +400,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Doja Gheorghe 25 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07311",
         "rlu": 233,
         "denumire": "Casă",
-        "adresa": "Str. Regele Ferdinand 25",
+        "adresa": "Str. Regele Ferdinand nr. 25",
         "lmi": 773,
         "datare": "sec. XVIII",
         "valoare": 1,
-        "adresa_wiki": "Str. Regele Ferdinand (fostă Doja Gheorghe) 25[2]",
         "ran": "54984.35"
       }
     },
@@ -450,15 +421,13 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Poștă Str. Doja Gheorghe 33 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07312",
         "rlu": 239,
         "denumire": "Poștă",
         "adresa": "Str. Regele Ferdinand 33",
         "lmi": 774,
         "datare": "sec. XIX",
-        "valoare": 1,
-        "adresa_wiki": "Str. Regele Ferdinand (fostă Doja Gheorghe) 33[2]"
+        "valoare": 1
       }
     },
     {
@@ -472,15 +441,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa cu stema familiei Bathory Str. Doja Gheorghe 34 \nsf. sec. XIX",
         "lmi2004": "CJ-II-m-B-07313",
         "rlu": 240,
         "denumire": "Casa cu stema familiei Bathory",
         "adresa": "Str. Regele Ferdinand 34",
         "lmi": 775,
         "datare": "sf. sec. XIX",
-        "valoare": 1,
-        "adresa_wiki": "Str. Regele Ferdinand (fostă Doja Gheorghe) 34[2]"
+        "valoare": 1
       }
     },
     {
@@ -494,15 +461,13 @@
       },
       "properties": {
         "categorie": "A. Cetatea",
-        "descriere": "Fragment din zidul roman suprapus de zidul primei incinte Str. Barițiu George 25 sec. XIII - XVI",
         "lmi2004": "CJ-II-m-A-07241.02",
         "rlu": 107,
-        "denumire": "Fragment din zidul primei incinte a orașului medieval",
+        "denumire": "Fragment din zidul roman suprapus de zidul primei incinte medievale",
         "adresa": "Str. Barițiu George 25",
         "lmi": 733,
         "datare": "sec. XIII-XVI",
-        "valoare": 1,
-        "denumire_wiki": "Fragment din zidul roman suprapus de zidul primei incinte medievale"
+        "valoare": 1
       }
     },
     {
@@ -516,15 +481,13 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Tribunalul și Curtea de Apel Calea Dorobanților 24 și Piața Stefan cel Mare nr. 1 1902 \nGyula Wagner (arhitect)",
         "lmi2004": "CJ-II-m-B-07316",
         "rlu": 244,
         "denumire": "Tribunalul și Curtea de Apel",
-        "adresa": "Calea Dorobanților 2 și Piața Stefan cel Mare nr.1",
+        "adresa": "Calea Dorobanților 2-4 și Piața Ștefan cel Mare nr.1",
         "lmi": 778,
         "datare": 1902,
         "valoare": 1,
-        "adresa_wiki": "Calea Dorobanților 24 și Piața Ștefan cel Mare 1",
         "creatori": "Gyula Wagner (arhitect)"
       }
     },
@@ -539,7 +502,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa Teleki Bd. Eroilor 1 și Piața Unirii nr. 32 sec. XV - XVIII",
         "lmi2004": "CJ-II-m-B-07317",
         "rlu": 245,
         "denumire": "Casa Teleki",
@@ -561,7 +523,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Bd. Eroilor 3 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07319",
         "rlu": 247,
         "denumire": "Casă",
@@ -583,7 +544,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Bd. Eroilor 5 \n \nsec. XV - XVIII",
         "lmi2004": "CJ-II-m-B-07321",
         "rlu": 249,
         "denumire": "Casă",
@@ -605,7 +565,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Bd. Eroilor 7 sec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07323",
         "rlu": 251,
         "denumire": "Casă",
@@ -627,7 +586,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 13 \nsec. XV - XVI",
         "lmi2004": "CJ-II-m-B-07326",
         "rlu": 258,
         "denumire": "Casă",
@@ -649,7 +607,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 15 \nsec. XV - XIX",
         "lmi2004": "CJ-II-m-B-07327",
         "rlu": 260,
         "denumire": "Casă",
@@ -671,7 +628,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 17 sec. XV - XIX",
         "lmi2004": "CJ-II-m-B-07329",
         "rlu": 262,
         "denumire": "Casă",
@@ -693,7 +649,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 19 înc. sec. XIX",
         "lmi2004": "CJ-II-m-B-07331",
         "rlu": 264,
         "denumire": "Casă",
@@ -715,7 +670,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 21 sec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07333",
         "rlu": 266,
         "denumire": "Casă",
@@ -737,7 +691,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Fosta casă a breslei cizmarilor Bd. Eroilor 23-25 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07334",
         "rlu": 268,
         "denumire": "Fosta casă a breslei cizmarilor",
@@ -759,7 +712,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 27 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07335",
         "rlu": 269,
         "denumire": "Casă",
@@ -781,7 +733,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 29 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07336",
         "rlu": 271,
         "denumire": "Casă",
@@ -803,7 +754,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 31 \nsec. XVI - XX",
         "lmi2004": "CJ-II-m-B-07337",
         "rlu": 273,
         "denumire": "Casă",
@@ -825,7 +775,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 33 \nsec. XVI - XX",
         "lmi2004": "CJ-II-m-B-07339",
         "rlu": 275,
         "denumire": "Casă",
@@ -847,7 +796,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 37 \nsec. XV - XIX",
         "lmi2004": "CJ-II-m-B-07340",
         "rlu": 279,
         "denumire": "Casă",
@@ -869,7 +817,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 2 \n1830-1840",
         "lmi2004": "CJ-II-m-B-07318",
         "rlu": 246,
         "denumire": "Casă",
@@ -890,14 +837,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 4 și str.. I. C. Brătianu nr. 19 \nsec. XV - XVIII",
         "lmi2004": "CJ-II-m-B-07320",
         "rlu": 150,
         "denumire": "Casă",
-        "adresa": "Str. Brătianu I.C. 19și Bd. Eroilor 4",
+        "adresa": "Bd. Eroilor 4 și str. Brătianu I.C. 19",
         "datare": "sec. XV-XVIII",
         "valoare": 1,
-        "adresa_wiki": "Bd. Eroilor 4 și str. Brătianu I.C. 19",
         "ran": "54984.65"
       }
     },
@@ -912,16 +857,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 6-8 și str. I.C. Brătianu nr. 21-23 \nsec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07322",
         "rlu": 152,
-        "denumire": "Imobil cu apartamente șicasă",
-        "adresa": "Str . Brătianu I.C.21-23 și Bd. Eroilor 6-8",
+        "denumire": "Imobil cu apartamente și casă",
+        "adresa": "Str. Brătianu I.C. 21-23 și Bd. Eroilor 6-8",
         "datare": "sec. XX și sec.XVIII-XIX",
         "valoare": "1A (Str. Brătianu I.C. 21-23) și 1 (Bd. Eroilor 6-8)",
-        "datare_wiki": "sec. XVIII-XIX",
-        "denumire_wiki": "Casă",
-        "adresa_wiki": "Bd. Eroilor 6-8 și str. Brătianu I.C. 21-23",
         "ran": "54984.63"
       }
     },
@@ -936,7 +877,6 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "Mănăstirea minoriților Bd. Eroilor 8-10 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-a-B-07324",
         "rlu": 252,
         "denumire": "Mănăstirea minoriților",
@@ -957,7 +897,6 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "Biserica mănăstirii minorite, azi catedrala greco-catolică Bd. Eroilor 10 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07324.01",
         "rlu": 255,
         "denumire": "Biserica mănăstirii minorite, azi catedrala greco-catolică",
@@ -978,16 +917,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă barocă cu elemente gotice Bd. Eroilor 12 și str. Tomis nr. 1 \nsec. XV - XIX",
         "lmi2004": "CJ-II-m-B-07325",
         "rlu": 257,
-        "denumire": "Casă",
-        "adresa": "Bd. Eroilor 12 și str.Tomis nr.1",
+        "denumire": "Casă barocă cu elemente gotice",
+        "adresa": "Bd. Eroilor 12 și str. Tomis nr. 1",
         "lmi": 789,
         "datare": "sec. XV-XIX",
         "valoare": 1,
-        "denumire_wiki": "Casă barocă cu elemente gotice",
-        "adresa_wiki": "Bd. Eroilor 12 și str. Tomis 1",
         "ran": "54984.46"
       }
     },
@@ -1002,7 +938,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa Tricesimei Bd. Eroilor 16 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07328",
         "rlu": 261,
         "denumire": "Casa Tricesimei",
@@ -1024,7 +959,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 18 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07330",
         "rlu": 263,
         "denumire": "Casă",
@@ -1045,7 +979,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa Katona Bd. Eroilor 20 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07332",
         "rlu": 265,
         "denumire": "Casa Katona",
@@ -1066,7 +999,6 @@
       },
       "properties": {
         "categorie": "A. Case",
-        "descriere": "Casa mică Banffy Bd. Eroilor 32 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-A-07338",
         "rlu": 274,
         "denumire": "Casa mică Banffy",
@@ -1088,7 +1020,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 38 \n1920",
         "lmi2004": "CJ-II-m-B-07341",
         "rlu": 280,
         "denumire": "Casă",
@@ -1109,7 +1040,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Bd. Eroilor 42 \nsec. XX",
         "lmi2004": "CJ-II-m-B-07342",
         "rlu": 282,
         "denumire": "Casă",
@@ -1130,7 +1060,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Str. Fortăreței 8 \nsec. XVI",
         "lmi2004": "CJ-II-m-B-07344",
         "rlu": 309,
         "denumire": "Casă",
@@ -1152,7 +1081,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Gara Cluj-Napoca Piața Gării 1 \n1870",
         "lmi2004": "CJ-II-m-B-07345",
         "rlu": 312,
         "denumire": "Gara Cluj-Napoca",
@@ -1173,15 +1101,13 @@
       },
       "properties": {
         "categorie": "B. Palate",
-        "descriere": "Palatul Berde Str. Horea 1 \n1889-1900",
         "lmi2004": "CJ-II-m-B-07346",
         "rlu": 314,
         "denumire": "Palatul Berde",
         "adresa": "Str. Horea 1",
         "lmi": 810,
-        "datare": "sf. sec. XIX",
-        "valoare": 1,
-        "datare_wiki": "1889-1900"
+        "datare": "1889-1900",
+        "valoare": 1
       }
     },
     {
@@ -1195,7 +1121,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Casa de Comerț și Industrie Str. Horea 3 \n1903",
         "lmi2004": "CJ-II-m-B-07348",
         "rlu": 316,
         "denumire": "Casa de Comerț și Industrie",
@@ -1216,7 +1141,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Facultatea de Filologie \nmunicipiul Cluj-Napoca \nStr. Horea 31 \n1905",
         "lmi2004": "CJ-II-m-B-07352",
         "rlu": 320,
         "denumire": "Facultatea de Filologie",
@@ -1237,15 +1161,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nmunicipiul Cluj-Napoca \nStr. Horea 35 \n1900",
         "lmi2004": "CJ-II-m-B-07353",
         "rlu": 321,
         "denumire": "Casă",
-        "adresa": "Str. Horea 37",
+        "adresa": "Str. Horea 35",
         "lmi": 817,
         "datare": 1900,
-        "valoare": 1,
-        "adresa_wiki": "Str. Horea 35"
+        "valoare": 1
       }
     },
     {
@@ -1273,15 +1195,13 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "Catedrala Arhiepiscopiei ortodoxe \nmunicipiul Cluj-Napoca \nPiața Iancu Avram \n1923-1936",
         "lmi2004": "CJ-II-m-B-07354",
         "rlu": 322,
-        "denumire": "Catedrala Arhiepiscopiei ortodoxe",
+        "denumire": "Catedrala Arhiepiscopiei Ortodoxe",
         "adresa": "Piața Iancu Avram 0",
         "lmi": 818,
         "datare": "1923-1936",
         "valoare": 1,
-        "adresa_wiki": "Piața Iancu Avram",
         "creatori": "George Cristinel, Constantin Pomponiu (arhitect)"
       }
     },
@@ -1296,7 +1216,6 @@
       },
       "properties": {
         "categorie": "A. Clădiri publice",
-        "descriere": "Teatrul Național Piața Iancu Avram 2 \n1904-1906 \nFerdinand Fellner Junior, Hermann Helmer (arhitect)",
         "lmi2004": "CJ-II-m-A-07355",
         "rlu": 323,
         "denumire": "Teatrul Național",
@@ -1318,7 +1237,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Sediul Direcției regionale CFR \nPiața Iancu Avram 16 \nsf. sec. XIX",
         "lmi2004": "CJ-II-m-B-07358",
         "rlu": 334,
         "denumire": "Sediul Direcției regionale CFR",
@@ -1339,7 +1257,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nmunicipiul Cluj-Napoca \nPiața Iancu Avram 14 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07357",
         "rlu": 332,
         "denumire": "Casă",
@@ -1360,7 +1277,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Arhiepiscopia ortodoxă a Vadului, Feleacului și Clujului, Piața Iancu Avram 18 A, \nsec. XIX, \nBalázs Debreczeni (arhitect)",
         "lmi2004": "CJ-II-m-B-07359",
         "rlu": 336,
         "denumire": "Arhiepiscopia ortodoxă a Vadului, Feleacului și Clujului",
@@ -1368,7 +1284,6 @@
         "lmi": 822,
         "datare": "sec. XIX",
         "valoare": 1,
-        "adresa_wiki": "Piața Iancu Avram 18 A",
         "creatori": "Balázs Debreczeni (arhitect)"
       }
     },
@@ -1383,15 +1298,13 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Administrația Financiară, Piața Iancu Avram 19 și str. Dorobanților nr. 1, \nsec. XIX \nFriedrich Mätz (arhitect)",
         "lmi2004": "CJ-II-m-B-07360",
         "rlu": 337,
         "denumire": "Administrația Financiară",
-        "adresa": "Piața Iancu Avram 19 și str.Dorobanților nr.1",
+        "adresa": "Piața Iancu Avram 19 și Str. Dorobanților nr. 1",
         "lmi": 823,
         "datare": "sec. XIX",
         "valoare": 1,
-        "adresa_wiki": "Piața Iancu Avram 19 și str. Dorobanților 1",
         "creatori": "Friedrich Mätz (arhitect)"
       }
     },
@@ -1406,7 +1319,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa Bogdanffy Str. Iancu Avram 1 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07356",
         "rlu": 338,
         "denumire": "Casa Bogdanffy",
@@ -1428,7 +1340,6 @@
       },
       "properties": {
         "categorie": "A. Cetatea",
-        "descriere": "Bastionul Postăvarilor \nmunicipiul Cluj-Napoca \nStr. Iancu Avram 9 \nsec. XV",
         "lmi2004": "CJ-II-m-A-07242.01",
         "rlu": 345,
         "denumire": "Bastionul Postăvarilor",
@@ -1450,15 +1361,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă, Str. Iancu Avram 10-12 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07361",
         "rlu": 346,
         "denumire": "Casă",
-        "adresa": "Str. Iancu Avram 10",
+        "adresa": "Str. Iancu Avram 10-12",
         "lmi": 826,
         "datare": "sec. XIX",
-        "valoare": 1,
-        "adresa_wiki": "Str. Iancu Avram 10-12"
+        "valoare": 1
       }
     },
     {
@@ -1472,7 +1381,6 @@
       },
       "properties": {
         "categorie": "A. Cetatea",
-        "descriere": "Bastionul Cizmarilor, Str. Iancu Avram 13 \nsec. XV",
         "lmi2004": "CJ-II-m-A-07242.02",
         "rlu": 348,
         "denumire": "Bastionul Cizmarilor",
@@ -1494,15 +1402,13 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Tipografia Liceului Reformat (zid de incintă medievală pe limita de parcelă), Str. Iancu Avram 13-15 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07362",
         "rlu": 350,
-        "denumire": "Tipografia Liceului reformat (zid de incintă medievală pe limita de parcelă)",
+        "denumire": "Tipografia Liceului Reformat (zid de incintă medievală pe limita de parcelă)",
         "adresa": "Str. Iancu Avram 13-15",
         "lmi": 828,
         "datare": "sec. XIX",
-        "valoare": 1,
-        "denumire_wiki": "Tipografia Liceului Reformat (zid de incintă medievală pe limita de parcelă)"
+        "valoare": 1
       }
     },
     {
@@ -1516,15 +1422,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nmunicipiul Cluj-Napoca \nStr. Iancu Avram 16-18 \n1938",
         "lmi2004": "CJ-II-m-B-07363",
         "rlu": 353,
         "denumire": "Casă",
         "adresa": "Str. Iancu Avram 16-18",
         "lmi": 829,
-        "datare": "sec. XX",
-        "valoare": 1,
-        "datare_wiki": "1938"
+        "datare": "1938",
+        "valoare": 1
       }
     },
     {
@@ -1538,7 +1442,6 @@
       },
       "properties": {
         "categorie": "A. Cetatea",
-        "descriere": "Turnul Zidarilor și fragment din zidul celei de a doua incinte a orașului medieval, \nStr. Iancu Avram 17 \nsec. XV",
         "lmi2004": "CJ-II-m-A-07242.04",
         "rlu": 354,
         "denumire": "Turnul Zidarilor și fragment din zidul celei de a doua incinte a orașului medieval",
@@ -1559,7 +1462,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Casă, fost hotel Biazini, \nStr. Iancu Avram 20 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07365",
         "rlu": 356,
         "denumire": "Casă, fost hotel Biazini",
@@ -1580,7 +1482,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă,  \nStr. Iancu Avram 21 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07366",
         "rlu": 357,
         "denumire": "Casă",
@@ -1602,7 +1503,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Str. Iancu Avram 23 \nînc. sec. XIX",
         "lmi2004": "CJ-II-m-B-07367",
         "rlu": 358,
         "denumire": "Casă",
@@ -1624,15 +1524,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă (zid de incintă medievală pe limita de parcelă)  \nStr. Iancu Avram 27-29, Calea Dorobanților nr. 19, Str. Kogălniceanu Mihail \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07364",
         "rlu": 355,
-        "denumire": "Casă (zid de incintă medievală pe limita de parcelă )",
+        "denumire": "Casă (zid de incintă medievală pe limita de parcelă)",
         "adresa": "Str. Iancu Avram 19 și Calea Dorobanților nr.19",
         "lmi": 831,
         "datare": "sec. XIX",
         "valoare": 1,
-        "denumire_wiki": "Casă (zid de incintă medievală pe limita de parcelă)",
         "adresa_wiki": "Str. Iancu Avram 27-29, Calea Dorobanților 19, Str. Kogălniceanu Mihail"
       }
     },
@@ -1647,7 +1545,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": ", \nStr. Isac Emil 4 \nsec. XX",
         "lmi2004": "CJ-II-m-B-07368",
         "rlu": 376,
         "denumire": "Casă",
@@ -1703,15 +1600,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă, \nStr. Iuliu Maniu 40, Str. Baba Novac nr. 4 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07343",
         "rlu": 85,
         "denumire": "Casă – imobil cu apartamente",
-        "adresa": "Str.Baba Novac 4 și Str. Maniu Iuliu 40",
+        "adresa": "Str. Baba Novac 4 și Str. Maniu Iuliu 40",
         "datare": "sec. XIX",
-        "valoare": 1,
-        "denumire_wiki": "Casă",
-        "adresa_wiki": "Str. Iuliu Maniu 40, Str. Baba Novac 4"
+        "valoare": 1
       }
     },
     {
@@ -1725,15 +1619,12 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Universitatea „Babeș Bolyai” \nStr. Kogălniceanu Mihail 1 \n1893-1903",
         "lmi2004": "CJ-II-m-B-07370",
         "rlu": 137,
-        "denumire": "Universitatea „BabeșBolyai”, fostă Universitatea„Ferenc József”,fostă Universitatea DacieiSuperioare „RegeleFerdinand I”",
-        "adresa": "Str. Brătianu I.C. 2,Str. KogălniceanuMihail 1 șiStr. Universitătii 5",
+        "denumire": "Universitatea „Babeș Bolyai”, fostă Universitatea „Ferenc József”, fostă Universitatea Daciei Superioare „Regele Ferdinand I”",
+        "adresa": "Str. Brătianu I.C. 2, Str. Kogălniceanu Mihail 1 și Str. Universității 5",
         "datare": "1893-1903",
-        "valoare": 1,
-        "denumire_wiki": "Universitatea „Babeș Bolyai”",
-        "adresa_wiki": "Str. Kogălniceanu Mihail 1"
+        "valoare": 1
       }
     },
     {
@@ -1747,16 +1638,13 @@
       },
       "properties": {
         "categorie": "A. Clădiri publice",
-        "descriere": "Liceul „Bathory”, fost liceu al Piariștilor \n, Str. Kogălniceanu Mihail 2 și str. Universității nr. 7-9 \n1817-1821",
         "lmi2004": "CJ-II-m-A-07371",
         "rlu": 402,
         "denumire": "Liceul „Bathory”, fost liceu al Piariștilor",
-        "adresa": "Str. Kogălniceanu Mihail 2 și str.Universității nr.7-9",
+        "adresa": "Str. Kogălniceanu Mihail 2 și str. Universității nr.7-9",
         "lmi": 839,
-        "datare": "1734-1735Covictus nobilium; 1817-1821 corpul neoclasic",
+        "datare": "1734-1735 Covictus nobilium; 1817-1821 corpul neoclasic",
         "valoare": 1,
-        "datare_wiki": "1817-1821",
-        "adresa_wiki": "Str. Kogălniceanu Mihail 2 și str. Universității 7-9",
         "ran": "54984.81"
       }
     },
@@ -1771,15 +1659,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă (zid incinta medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 4 \n1789-1800",
         "lmi2004": "CJ-II-m-B-07372",
         "rlu": 404,
         "denumire": "Casă (zid incinta medievală pe limita de parcelă)",
         "adresa": "Str. Kogălniceanu Mihail 4",
         "lmi": 840,
-        "datare": "sf. sec. XVIII",
+        "datare": "1789-1800",
         "valoare": 1,
-        "datare_wiki": "1789-1800",
         "ran": "54984.80"
       }
     },
@@ -1794,15 +1680,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Str. Kogălniceanu Mihail 5",
         "lmi2004": "CJ-II-m-B-07373",
         "rlu": 405,
         "denumire": "Casă",
         "adresa": "Str. Kogălniceanu Mihail 5",
         "lmi": 841,
-        "datare": "sf. sec. XVIII",
+        "datare": "1789-1800",
         "valoare": 1,
-        "datare_wiki": "1789-1800",
         "ran": "54984.79"
       }
     },
@@ -1817,7 +1701,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă (zid de incintă medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 6 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07374",
         "rlu": 406,
         "denumire": "Casă (zid de incintă medievală pe limita de parcelă)",
@@ -1838,7 +1721,6 @@
       },
       "properties": {
         "categorie": "A. Palate",
-        "descriere": "Palatul Teleki \nStr. Kogălniceanu Mihail 7 \n1790-1795 \nJoseph Leder (arhitect)",
         "lmi2004": "CJ-II-m-A-07375",
         "rlu": 407,
         "denumire": "Palatul Teleki",
@@ -1861,7 +1743,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Liceul „Emil Racoviță” \nStr. Kogălniceanu Mihail 9-11 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07376",
         "rlu": 409,
         "denumire": "Liceul „Emil Racoviță”",
@@ -1883,16 +1764,13 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Arhivele Statului Cluj-Napoca (zid de incintă medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 10 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07377",
         "rlu": 410,
-        "denumire": "Arhivele Statului Cluj-Napoca . (zid de incintă medievală pe limita de parcelă)",
+        "denumire": "Arhivele Statului Cluj-Napoca (zid de incintă medievală pe limita de parcelă)",
         "adresa": "Str. Kogălniceanu Mihail 10",
         "lmi": 845,
         "datare": "sec. XVIII (corpul vechi) și 1968 (clădirea nouă)",
-        "valoare": "1(cor pul vechi) și4(clă dire a nou ă)",
-        "datare_wiki": "sec. XVIII",
-        "denumire_wiki": "Arhivele Statului Cluj-Napoca (zid de incintă medievală pe limita de parcelă)",
+        "valoare": "1 (corpul vechi) și 4 (clădirea nouă)",
         "ran": "54984.118"
       }
     },
@@ -1907,15 +1785,13 @@
       },
       "properties": {
         "categorie": "A. Case",
-        "descriere": "Casele Profesorilor reformați  \nStr. Kogălniceanu Mihail 13, 15, 17, 19 \nsec. XVIII",
         "lmi2004": "CJ-II-a-A-07378",
         "rlu": 411,
         "denumire": "Casele Profesorilor reformați",
-        "adresa": "Str. Kogălniceanu Mihail 13, 15, 17,19",
+        "adresa": "Str. Kogălniceanu Mihail 13, 15, 17, 19",
         "lmi": 846,
         "datare": "sec. XVIII",
         "valoare": 1,
-        "adresa_wiki": "Str. Kogălniceanu Mihail 13, 15, 17, 19",
         "ran": "54984.104"
       }
     },
@@ -1930,7 +1806,6 @@
       },
       "properties": {
         "categorie": "A. Case",
-        "descriere": "Casă  \nStr. Kogălniceanu Mihail 13 \n1790-1802",
         "lmi2004": "CJ-II-m-A-07378.01",
         "rlu": 412,
         "denumire": "Casă",
@@ -1951,10 +1826,9 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Colegiul Reformat \nStr. Kogălniceanu Mihail 14 \nsec. XVII",
         "lmi2004": "CJ-II-m-B-07379",
         "rlu": 413,
-        "denumire": "Colegiul reformat, azi Liceul Ady Șincai NU MAI E VALABIL",
+        "denumire": "Colegiul reformat, azi Liceul Ady Șincai - NU MAI E VALABIL",
         "adresa": "Str. Kogălniceanu Mihail 14",
         "lmi": 848,
         "datare": "sec. XVII",
@@ -1974,7 +1848,6 @@
       },
       "properties": {
         "categorie": "A. Case",
-        "descriere": "Casă \nStr. Kogălniceanu Mihail 15 \n1790-1802",
         "lmi2004": "CJ-II-m-A-07378.02",
         "rlu": 414,
         "denumire": "Casă",
@@ -1995,15 +1868,13 @@
       },
       "properties": {
         "categorie": "A. Biserici",
-        "descriere": "Biserica reformată Matia \nStr. Kogălniceanu Mihail 16 \n1486-1494, ref. 1644",
         "lmi2004": "CJ-II-m-A-07380",
         "rlu": 416,
         "denumire": "Biserica reformată Matia",
         "adresa": "Str. Kogălniceanu Mihail 16",
         "lmi": 850,
-        "datare": "1486-1494, ref.1644",
-        "valoare": 1,
-        "datare_wiki": "1486-1494, ref. 1644"
+        "datare": "1486-1494, ref. 1644",
+        "valoare": 1
       }
     },
     {
@@ -2017,7 +1888,6 @@
       },
       "properties": {
         "categorie": "A. Case",
-        "descriere": "CasăStr. Kogălniceanu Mihail 17 \n1790-1802",
         "lmi2004": "CJ-II-m-A-07378.03",
         "rlu": 417,
         "denumire": "Casă",
@@ -2038,15 +1908,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Tipografia Colegiului Reformat \nStr. Kogălniceanu Mihail 18 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07381",
         "rlu": 100,
-        "denumire": "Casă-Tipografia Colegiului reformat",
+        "denumire": "Casă-Tipografia Colegiului Reformat",
         "adresa": "Str. Baba Novac 36 și Str. Kogălniceanu Mihail 18",
         "datare": "sec. XVIII",
         "valoare": 1,
-        "denumire_wiki": "Tipografia Colegiului Reformat",
-        "adresa_wiki": "Str. Kogălniceanu Mihail 18",
         "ran": "54984.106"
       }
     },
@@ -2061,7 +1928,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă, Str. Kogălniceanu Mihail 19 \n1790-1802",
         "lmi2004": "CJ-II-m-B-07378.04",
         "rlu": 419,
         "denumire": "Casă",
@@ -2082,7 +1948,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa parohială a bisericii reformate  \nStr. Kogălniceanu Mihail 23 \n1751",
         "lmi2004": "CJ-II-m-B-07382",
         "rlu": 420,
         "denumire": "Casa parohială a bisericii reformate",
@@ -2104,7 +1969,6 @@
       },
       "properties": {
         "categorie": "A. Palate",
-        "descriere": "Palatele „Status-ului romano-catolic” \nStr. Maniu Iuliu 1-6 \n1902",
         "lmi2004": "CJ-II-a-A-07383",
         "rlu": 428,
         "denumire": "Palatele „Status-ului romano-catolic”",
@@ -2125,14 +1989,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Str. Maniu Iuliu 8 și str. Bolyai Janos nr. 6, sec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07384",
         "rlu": 130,
         "denumire": "Casă",
-        "adresa": "Str. Bolyai Janos 6și Str. Maniu iuliu 8",
+        "adresa": "Str. Maniu Iuliu 8 și str. Bolyai Janos nr. 6",
         "datare": "sec. XVIII-XIX",
         "valoare": 1,
-        "adresa_wiki": "Str. Maniu Iuliu 8 și str. Bolyai Janos nr. 6",
         "ran": "54984.108"
       }
     },
@@ -2147,7 +2009,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă,  \nStr. Maniu Iuliu 9 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07385",
         "rlu": 433,
         "denumire": "Casă",
@@ -2169,7 +2030,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa în care s-a născut Carol Popp de Szathmary  \nStr. Maniu Iuliu 17 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07386",
         "rlu": 440,
         "denumire": "Casa în care s-a născut Carol Popp de Szathmary",
@@ -2191,7 +2051,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă  \nStr. Maniu Iuliu 34 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07387",
         "rlu": 457,
         "denumire": "Casă",
@@ -2213,15 +2072,12 @@
       },
       "properties": {
         "categorie": "A. Clădiri publice",
-        "descriere": "Casa universitarilor, azi Colegiul academic \nStr. Martonne, Em. de 1 și str. I.C. Brătianu nr. 4 \n1928-1936",
         "lmi2004": "CJ-II-m-A-07388",
         "rlu": 139,
-        "denumire": "Colegiul Academic",
-        "adresa": "Str .I.C. Brătianu 4, Str. Kogălniceanu Mihail 3 și Str.Martonne, Em. de 1",
+        "denumire": "Casa universitarilor, azi Colegiul Academic",
+        "adresa": "Str .I.C. Brătianu 4, Str. Kogălniceanu Mihail 3 și Str. Martonne, Em. de 1",
         "datare": "1928-1936",
-        "valoare": 1,
-        "denumire_wiki": "Casa universitarilor, azi Colegiul academic",
-        "adresa_wiki": "Str. „Emmanuel de Martonne” 1 și str. Brătianu I.C. 4"
+        "valoare": 1
       }
     },
     {
@@ -2235,15 +2091,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă  \nStr. Matei Corvin 1 și str. Memorandumului nr. 2 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07389",
         "rlu": 469,
         "denumire": "Casă",
-        "adresa": "Str. Matei Corvin 1și Str. Memorandumului 2",
         "lmi": 863,
         "datare": "sec. XVIII",
         "valoare": 1,
-        "adresa_wiki": "Str. Matei Corvin 1 și str. Memorandumului 2",
+        "adresa": "Str. Matei Corvin 1 și str. Memorandumului 2",
         "ran": "54984.119"
       }
     },
@@ -2258,15 +2112,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Matei Corvin 2 și Piața Unirii nr. 18 \nsec. XVI - XX",
         "lmi2004": "CJ-II-m-B-07390",
         "rlu": 470,
         "denumire": "Casă",
-        "adresa": "Str. Matei Corvin 2și Piața Unirii 18",
+        "adresa": "Str. Matei Corvin 2 și Piața Unirii 18",
         "lmi": 864,
         "datare": "sec. XVI-XX",
         "valoare": 1,
-        "adresa_wiki": "Str. Matei Corvin 2 și Piața Unirii 18",
         "ran": "54984.85"
       }
     },
@@ -2281,7 +2133,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Matei Corvin 3 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07391",
         "rlu": 471,
         "denumire": "Casă",
@@ -2303,15 +2154,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa principelui Transilvaniei Ștefan Bocskay, azi Universitatea „Sapientia” (fragmente din zidul incintei medieval în subsol) \nStr. Matei Corvin 4 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07392",
         "rlu": 472,
-        "denumire": "Casa principelui Transilvaniei Stefan Bocskay,azi Universitatea„Sapientia” .(fragmente din zidul incintei medieval în subsol)",
+        "denumire": "Casa principelui Transilvaniei Ștefan Bocskay, azi Universitatea „Sapientia” (fragmente din zidul incintei medieval în subsol)",
         "adresa": "Str. Matei Corvin 4",
         "lmi": 866,
         "datare": "sec. XVI-XIX",
         "valoare": 1,
-        "denumire_wiki": "Casa principelui Transilvaniei Ștefan Bocskay, azi Universitatea „Sapientia” (fragmente din zidul incintei medieval în subsol)",
         "ran": "54984.127"
       }
     },
@@ -2326,7 +2175,6 @@
       },
       "properties": {
         "categorie": "A. Case",
-        "descriere": "Casa Matei, aparținând de Academia de Arte Vizuale „Ion Andreescu” \nStr. Matei Corvin 6 \nsec. XV - XVIII",
         "lmi2004": "CJ-II-m-A-07393",
         "rlu": 473,
         "denumire": "Casa Matia, azi Academia de Arte Vizuale „Ion Andreescu”",
@@ -2334,7 +2182,6 @@
         "lmi": 867,
         "datare": "sec. XV-XVIII",
         "valoare": 1,
-        "denumire_wiki": "Casa Matei, azi Academia de Arte Vizuale „Ion Andreescu”",
         "ran": "54984.75"
       }
     },
@@ -2349,7 +2196,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Vama veche \nStr. Mănășturului 1 \n1748",
         "lmi2004": "CJ-II-m-B-07394",
         "rlu": 474,
         "denumire": "Vama veche",
@@ -2371,7 +2217,6 @@
       },
       "properties": {
         "categorie": "A. Biserici",
-        "descriere": "Biserica Mănăștur-Calvaria \nStr. Mănășturului 12 \nsec. XIII-XIX",
         "lmi2004": "CJ-II-m-A-07396",
         "rlu": 476,
         "denumire": "Biserica Mănăștur-Calvaria",
@@ -2393,7 +2238,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Banca „Alpha” \nStr. Memorandumului 1 \n1893",
         "lmi2004": "CJ-II-m-B-07397",
         "rlu": 477,
         "denumire": "Banca „Alpha”",
@@ -2415,7 +2259,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Memorandumului 6 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07399",
         "rlu": 482,
         "denumire": "Casă",
@@ -2436,7 +2279,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă\nStr. Memorandumului 7 \nsec. XVIII - XX",
         "lmi2004": "CJ-II-m-B-07400",
         "rlu": 483,
         "denumire": "Casă",
@@ -2458,7 +2300,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Memorandumului 8 \n1846",
         "lmi2004": "CJ-II-m-B-07401",
         "rlu": 484,
         "denumire": "Casă",
@@ -2479,15 +2320,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă\nStr. Memorandumului 11-13 și str. Rațiu Ion nr. 2 str. Memorandumului 11 - 13 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07402",
         "rlu": 487,
         "denumire": "Casă",
-        "adresa": "Str. Memorandumului 11-13 și Str. RațiuIon 2",
+        "adresa": "Str. Memorandumului 11-13 și Str. Rațiu Ion 2",
         "lmi": 875,
         "datare": "sec. XVI-XIX",
         "valoare": 1,
-        "adresa_wiki": "Str. Memorandumului 11-13 și str. Rațiu Ion 2, str. Memorandumului 11-13",
         "ran": "54984.202"
       }
     },
@@ -2502,7 +2341,6 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "Mănăstirea iezuită Str. Mănășturului 9 \nsec. XVI",
         "lmi2004": "CJ-II-m-B-07395",
         "rlu": 475,
         "denumire": "Mănăstirea iezuită",
@@ -2524,7 +2362,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Sediul fostei Casine române, azi locuință \nStr. Memorandumului 12 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07403",
         "rlu": 488,
         "denumire": "Sediul fostei Casine române, azi locuință",
@@ -2546,7 +2383,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Memorandumului 15 \nsec. XVI - XVII",
         "lmi2004": "CJ-II-m-B-07404",
         "rlu": 490,
         "denumire": "Casă",
@@ -2568,7 +2404,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Memorandumului 17 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07405",
         "rlu": 492,
         "denumire": "Casă",
@@ -2589,7 +2424,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Memorandumului 17 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07405",
         "rlu": 492,
         "denumire": "Casă",
@@ -2610,7 +2444,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Casa în care s-a judecat procesul memorandiștilor, azi Muzeul Etnografic al Transilvaniei („Reduta”) \nStr. Memorandumului 21 \n1810-1812",
         "lmi2004": "CJ-II-m-B-07407",
         "rlu": 496,
         "denumire": "Casa în care s-a judecat procesul memorandiștilor, azi Muzeul Etnografic al Transilvaniei („Reduta”)",
@@ -2618,7 +2451,6 @@
         "lmi": 880,
         "datare": "1810-1812",
         "valoare": 1,
-        "denumire_wiki": "Casa în care s-a judecat procesul memorandiștilor, azi Muzeul Etnografic al Transilvaniei („' Reduta”)",
         "ran": "54984.29"
       }
     },
@@ -2633,7 +2465,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă, \nStr. Memorandumului 22 \n1788",
         "lmi2004": "CJ-II-m-B-07408",
         "rlu": 497,
         "denumire": "Casă, azi Liceul economic",
@@ -2654,7 +2485,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă  \nStr. Memorandumului 23 \n1740",
         "lmi2004": "CJ-II-m-B-07409",
         "rlu": 498,
         "denumire": "Casă",
@@ -2676,7 +2506,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Micu Klein I. 6 \nsf. sec. XVIII",
         "lmi2004": "CJ-II-m-B-07410",
         "rlu": 503,
         "denumire": "Casă",
@@ -2698,7 +2527,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Micu Klein I. 12 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07411",
         "rlu": 506,
         "denumire": "Casă",
@@ -2720,7 +2548,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Micu Klein I. 15 \nsec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07412",
         "rlu": 508,
         "denumire": "Casă, azi locuințe și cafenea Cafe Bulgakov",
@@ -2728,7 +2555,6 @@
         "lmi": 885,
         "datare": "sec. XVIII-XIX",
         "valoare": 1,
-        "denumire_wiki": "Casă",
         "ran": "54984.88"
       }
     },
@@ -2743,15 +2569,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nmunicipiul Cluj-Napoca \nStr. Micu Klein I. 17 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07413",
         "rlu": 510,
         "denumire": "Casă, azi Cafe Bulgakov",
         "adresa": "Str. Micu Klein I. 17",
         "lmi": 886,
         "datare": "sec. XIX",
-        "valoare": 1,
-        "denumire_wiki": "Casă"
+        "valoare": 1
       }
     },
     {
@@ -2765,14 +2589,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Micu Klein Samuil 8 \nsec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07414",
         "rlu": 520,
         "denumire": "Casă",
         "adresa": "Str. Micu Klein Samuil 8 și Str. Șincai Gheorghe 13",
         "datare": "sec. XVIII-XIX",
         "valoare": 1,
-        "adresa_wiki": "Str. Micu Samuil 8",
         "ran": "54984.133"
       }
     },
@@ -2791,10 +2613,9 @@
         "lmi2004": "CJ-II-m-B-07416",
         "rlu": 422,
         "denumire": "Prefectura județului Cluj",
-        "adresa": "Str. Maior Petru 2-4și Calea Moților 1-3",
+        "adresa": "Str. Maior Petru 2-4 și Calea Moților 1-3",
         "datare": "sec. XIX",
         "valoare": 1,
-        "adresa_wiki": "Calea Moților 1-3",
         "creatori": "Ignác Alpár (arhitect)"
       }
     },
@@ -2809,7 +2630,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nCalea Moților 4 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07417",
         "rlu": 523,
         "denumire": "Casă",
@@ -2831,7 +2651,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nCalea Moților 8 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07418",
         "rlu": 524,
         "denumire": "Casă",
@@ -2852,7 +2671,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nCalea Moților 24 \n1832",
         "lmi2004": "CJ-II-m-B-07419",
         "rlu": 525,
         "denumire": "Casă",
@@ -2873,7 +2691,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nCalea Moților 27 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07420",
         "rlu": 526,
         "denumire": "Casă",
@@ -2894,7 +2711,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nCalea Moților 29 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07421",
         "rlu": 527,
         "denumire": "Casă",
@@ -2915,7 +2731,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa în care a locuit Ilie Măcelaru \nCalea Moților 32 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07422",
         "rlu": 528,
         "denumire": "Casa în care a locuit Ilie Măcelaru",
@@ -2936,7 +2751,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nCalea Moților 54 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07423",
         "rlu": 529,
         "denumire": "Casă",
@@ -2957,7 +2771,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Calea Moților 69 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07424",
         "rlu": 530,
         "denumire": "Casă",
@@ -2979,7 +2792,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nCalea Moților 70 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07425",
         "rlu": 531,
         "denumire": "Casă",
@@ -3000,7 +2812,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Liceu \nCalea Moților 82 \n1900",
         "lmi2004": "CJ-II-m-B-07426",
         "rlu": 532,
         "denumire": "Liceu",
@@ -3021,7 +2832,6 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "Biserica reformată Calea Moților 84 \n1913 \nKároly Kós (arhitect)",
         "lmi2004": "CJ-II-m-B-07427",
         "rlu": 533,
         "denumire": "Biserica reformată",
@@ -3043,7 +2853,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nCalea Moților 94 \nsec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07428",
         "rlu": 534,
         "denumire": "Casă",
@@ -3065,7 +2874,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nmunicipiul Cluj-Napoca \nCalea Moților 104 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07429",
         "rlu": 535,
         "denumire": "Casă",
@@ -3087,7 +2895,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nCalea Moților 137 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07430",
         "rlu": 536,
         "denumire": "Casă",
@@ -3109,7 +2916,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Mureșanu Andrei 15 \nsec. XX",
         "lmi2004": "CJ-II-m-B-07431",
         "rlu": 537,
         "denumire": "Casă",
@@ -3130,7 +2936,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Mureșanu Andrei 16 \n1911",
         "lmi2004": "CJ-II-m-B-07432",
         "rlu": 538,
         "denumire": "Casă",
@@ -3151,7 +2956,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Mureșanu Andrei 20 \n1906",
         "lmi2004": "CJ-II-m-B-07433",
         "rlu": 539,
         "denumire": "Casă",
@@ -3172,7 +2976,6 @@
       },
       "properties": {
         "categorie": "B. Palate",
-        "descriere": "Palatul Mikes Piața Muzeului 4 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07434",
         "rlu": 544,
         "denumire": "Palatul Mikes",
@@ -3194,7 +2997,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Muzeului 5 \nsec. XVII - XX",
         "lmi2004": "CJ-II-m-B-07435",
         "rlu": 545,
         "denumire": "Casă",
@@ -3216,15 +3018,13 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Hotel „Continental” \nStr. Napoca 1 \n1895",
         "lmi2004": "CJ-II-m-B-07436",
         "rlu": 546,
-        "denumire": "Hotel „New York”, fost„Național”, azi fost Hotel„Continental",
+        "denumire": "Hotel „New York”, fost „Național”, azi fost Hotel „Continental",
         "adresa": "Str. Napoca 1",
         "lmi": 908,
         "datare": 1895,
-        "valoare": 1,
-        "denumire_wiki": "Hotel „Continental”"
+        "valoare": 1
       }
     },
     {
@@ -3252,7 +3052,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nmunicipiul Cluj-Napoca \nStr. Napoca 3 \nsec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07438",
         "rlu": 548,
         "denumire": "Casă",
@@ -3274,7 +3073,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Napoca 5 \nsec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07439",
         "rlu": 549,
         "denumire": "Casă",
@@ -3296,7 +3094,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Napoca 6[2] \nsec. XVIIII",
         "lmi2004": "CJ-II-m-B-07440",
         "rlu": 550,
         "denumire": "Casă",
@@ -3304,8 +3101,6 @@
         "lmi": 912,
         "datare": "sec. XVI-XIX",
         "valoare": 1,
-        "datare_wiki": "sec. XVIIII",
-        "adresa_wiki": "Str. Napoca 6[3]",
         "ran": "54984.180"
       }
     },
@@ -3320,7 +3115,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Napoca 7 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07441",
         "rlu": 551,
         "denumire": "Casă",
@@ -3361,7 +3155,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Napoca 10 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07443",
         "rlu": 554,
         "denumire": "Casă",
@@ -3382,7 +3175,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Institutul de Istorie Națională \nStr. Napoca 11 \nsec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07444",
         "rlu": 555,
         "denumire": "Institutul de Istorie Națională",
@@ -3403,7 +3195,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Napoca 12 \n1905",
         "lmi2004": "CJ-II-m-B-07445",
         "rlu": 556,
         "denumire": "Casă",
@@ -3424,7 +3215,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Napoca 14 \nsec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07446",
         "rlu": 558,
         "denumire": "Casă",
@@ -3446,15 +3236,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Napoca 15 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07447",
         "rlu": 559,
-        "denumire": "Casă, azi Restaurant„Napoca 15”",
+        "denumire": "Casă, azi Restaurant „Napoca 15”",
         "adresa": "Str. Napoca 15",
         "lmi": 919,
         "datare": "sec. XVIII",
         "valoare": 1,
-        "denumire_wiki": "Casă",
         "ran": "54984.185"
       }
     },
@@ -3469,14 +3257,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Napoca 18 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07448",
         "rlu": 521,
         "denumire": "Casă",
         "adresa": "Str. Micu Klein Samuil 12 și Str. Napoca 18",
         "datare": "sec. XVIII",
         "valoare": 1,
-        "adresa_wiki": "Str. Napoca 18",
         "ran": "54984.116"
       }
     },
@@ -3491,7 +3277,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Clinica medicală  \nStr. Pasteur 1 \n1900",
         "lmi2004": "CJ-II-m-B-07450",
         "rlu": 569,
         "denumire": "Clinica medicală",
@@ -3512,7 +3297,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Institutul de Igienă Str. Pasteur 6 \n1900",
         "lmi2004": "CJ-II-m-B-07451",
         "rlu": 570,
         "denumire": "Institutul de Igienă",
@@ -3533,15 +3317,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Petroșani 2 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07452",
         "rlu": 572,
         "denumire": "Casă",
-        "adresa": "Str. Fulicea Virgil 2 (fostă Str. Petroșeni 2)",
+        "adresa": "Str. Fulicea Virgil 2 (fostă Str. Petroșani 2)",
         "lmi": 924,
         "datare": "sec. XVI-XIX",
         "valoare": 1,
-        "adresa_wiki": "Str. Petroșani 2",
         "ran": "54984.203"
       }
     },
@@ -3570,15 +3352,13 @@
       },
       "properties": {
         "categorie": "A. Cetatea",
-        "descriere": "Fragment din zidul primei incinte a orașului medieval  \nStr. Petroșeni 21-23 \nsec. XIII",
         "lmi2004": "CJ-II-m-A-07241.04",
         "rlu": 579,
         "denumire": "Fragment din zidul primei incinte a orașului medieval",
         "adresa": "Str. Petroșeni 21-23",
         "lmi": 926,
         "datare": "sec. XIII",
-        "valoare": 1,
-        "adresa_wiki": "Str. Petroșani 21-23"
+        "valoare": 1
       }
     },
     {
@@ -3592,16 +3372,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Piața Ștefan cel Mare 14, Str. Baba Novac nr. 27 și Str. I.C. Brătianu nr. 55 \n1830-1840",
         "lmi2004": "CJ-II-m-B-07270",
         "rlu": 97,
         "denumire": "Casa Sombori",
         "adresa": "Str. Baba Novac 27, Piata Ștefan cel Mare 14 și Str.Brătianu I.C. 55",
         "datare": "1838-1840",
-        "valoare": 1,
-        "datare_wiki": "1830-1840",
-        "denumire_wiki": "Casă",
-        "adresa_wiki": "Str. Piața Ștefan cel Mare 14, Str. Baba Novac 27 și Str. I.C.Brătianu 55"
+        "valoare": 1
       }
     },
     {
@@ -3615,7 +3391,6 @@
       },
       "properties": {
         "categorie": "A. Cetatea",
-        "descriere": "Fragment din zidul celei de a doua incinte a orașului medieval Str. Potaissa 1-3 \nsec. XV",
         "lmi2004": "CJ-II-m-A-07242.05",
         "rlu": 591,
         "denumire": "Fragment din zidul celei de a doua incinte a orașului medieval",
@@ -3636,7 +3411,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Republicii 7 \nsec. XX",
         "lmi2004": "CJ-II-m-B-07453",
         "rlu": 604,
         "denumire": "Casă",
@@ -3657,7 +3431,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Republicii 41 \nsec. XX",
         "lmi2004": "CJ-II-m-B-07454",
         "rlu": 605,
         "denumire": "Casă",
@@ -3678,7 +3451,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Grădina Botanică Str. Republicii 42 \n1920",
         "lmi2004": "CJ-II-a-B-07455",
         "rlu": 606,
         "denumire": "Grădina Botanică",
@@ -3699,7 +3471,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă  \nStr. Republicii 68 \n1930",
         "lmi2004": "CJ-II-m-B-07456",
         "rlu": 607,
         "denumire": "Casă",
@@ -3720,7 +3491,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Roosevelt F. D. 2 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07457",
         "rlu": 609,
         "denumire": "Casă",
@@ -3728,7 +3498,6 @@
         "lmi": 932,
         "datare": "sec. XVI-XIX",
         "valoare": 1,
-        "adresa_wiki": "Str. Roosevelt F. D. 2",
         "ran": "54984.199"
       }
     },
@@ -3743,7 +3512,6 @@
       },
       "properties": {
         "categorie": "A. Case",
-        "descriere": "Casa Tătaru \nStr. Rosetti 17 \n1929",
         "lmi2004": "CJ-II-m-A-07458",
         "rlu": 612,
         "denumire": "Casa Tătaru",
@@ -3764,7 +3532,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Șincai Gheorghe 17 \n1907",
         "lmi2004": "CJ-II-m-B-07459",
         "rlu": 622,
         "denumire": "Casă",
@@ -3785,7 +3552,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Cazarma „Sf. Gheorghe”  \nPiața Ștefan cel Mare 3 \n1834-1837",
         "lmi2004": "CJ-II-m-B-07460",
         "rlu": 625,
         "denumire": "Cazarma „Sf. Gheorghe”",
@@ -3806,14 +3572,12 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Secția în aer liber a Muzeului Etnografic al Transilvaniei \nStr. Tăietura Turcului Dealul Hoia",
         "lmi2004": "CJ-II-a-B-07461",
         "rlu": 633,
         "denumire": "Secția în aer liber a Muzeului Etnografic al Transilvaniei",
-        "adresa": "Str. Tăietura Turcului Dealul Hoia",
+        "adresa": "Str. Tăietura Turcului, Dealul Hoia",
         "lmi": 937,
-        "valoare": 1,
-        "adresa_wiki": "Str. Tăietura Turcului, Dealul Hoia"
+        "valoare": 1
       }
     },
     {
@@ -3827,15 +3591,13 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Teatrul Maghiar Aleea Tineretului \n1912-1913 \nGeza Markus, Frigyes Spiegel",
         "lmi2004": "CJ-II-m-B-07462",
         "rlu": 634,
         "denumire": "Teatrul Maghiar",
         "adresa": "Aleea Tineretului",
         "lmi": 938,
-        "datare": "1912-1913, rest.1960",
+        "datare": "1912-1913, rest. 1960",
         "valoare": 1,
-        "datare_wiki": "1912-1913",
         "creatori": "Geza Markus, Frigyes Spiegel"
       }
     },
@@ -3850,7 +3612,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Parcul municipal Aleea Tineretului \n1838",
         "lmi2004": "CJ-II-s-B-07463",
         "rlu": 635,
         "denumire": "Parcul municipal",
@@ -3871,7 +3632,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Parcul Iuliu Hațieganu  \nAleea Tineretului 7 \nsec. XX",
         "lmi2004": "CJ-II-s-B-07464",
         "rlu": 636,
         "denumire": "Parcul Iuliu Hațieganu",
@@ -3913,7 +3673,9 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Tomis 1 \nsec. XV - XIX"
+        "denumire": "Casă",
+        "adresa": "Str. Tomis 1",
+        "datare": "sec. XV - XIX"
       }
     },
     {
@@ -3927,15 +3689,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Toplița 1-3 \n1820",
         "lmi2004": "CJ-II-m-B-07466",
         "rlu": 642,
         "denumire": "Casă",
         "adresa": "Str. Pușcariu Sextil 1-3 (fostă Str.Toplița 1-3)",
         "lmi": 943,
         "datare": 1820,
-        "valoare": 1,
-        "adresa_wiki": "Str. Toplița 1-3"
+        "valoare": 1
       }
     },
     {
@@ -3949,7 +3709,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Toplița 5 \n1796",
         "lmi2004": "CJ-II-m-B-07467",
         "rlu": 645,
         "denumire": "Casă",
@@ -3957,7 +3716,6 @@
         "lmi": 944,
         "datare": 1796,
         "valoare": 1,
-        "adresa_wiki": "Str. Toplița 5",
         "ran": "54984.160"
       }
     },
@@ -3972,15 +3730,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nStr. Toplița 10 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07468",
         "rlu": 650,
         "denumire": "Casă",
         "adresa": "Str. Pușcariu Sextil 10 (fostă Str. Toplița 10)",
         "lmi": 945,
         "datare": "sec. XVIII",
-        "valoare": 1,
-        "adresa_wiki": "Str. Toplița 10"
+        "valoare": 1
       }
     },
     {
@@ -3994,15 +3750,13 @@
       },
       "properties": {
         "categorie": "A. Biserici",
-        "descriere": "Biserica romano-catolică „Sf. Mihail”  \nPiața Unirii 0 \n1349-1480",
         "lmi2004": "CJ-II-m-A-07469",
         "rlu": 673,
-        "denumire": "Biserica romano-catolică„Sf. Mihail",
+        "denumire": "Biserica romano-catolică „Sf. Mihail”l",
         "adresa": "Piața Unirii 0",
         "lmi": 946,
         "datare": "1349-1480",
         "valoare": 1,
-        "denumire_wiki": "Biserica romano-catolică „Sf. Mihail”",
         "ran": "54984.159.01, 54984.159.02"
       }
     },
@@ -4017,7 +3771,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Primăria veche Piața Unirii 1 \n1843-1846",
         "lmi2004": "CJ-II-m-B-07470",
         "rlu": 674,
         "denumire": "Primăria veche",
@@ -4038,7 +3791,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 2 \nsec. XVI - XVIII",
         "lmi2004": "CJ-II-m-B-07471",
         "rlu": 675,
         "denumire": "Casă",
@@ -4060,7 +3812,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Piața Unirii 3 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07472",
         "rlu": 676,
         "denumire": "Casă",
@@ -4082,7 +3833,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 4 \nsec. XVI",
         "lmi2004": "CJ-II-m-B-07473",
         "rlu": 677,
         "denumire": "Casă",
@@ -4104,7 +3854,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 5 \nsec. XVI",
         "lmi2004": "CJ-II-m-B-07474",
         "rlu": 678,
         "denumire": "Casă",
@@ -4126,7 +3875,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 6 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07475",
         "rlu": 679,
         "denumire": "Casă",
@@ -4148,15 +3896,12 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Banca Națională Piața Unirii 7 \nsec. XX",
         "lmi2004": "CJ-II-m-B-07476",
         "rlu": 138,
-        "denumire": "Casă (locuințe) și BancaNațională",
-        "adresa": "Brătianu I.C. 3 șiPiața Unirii 7",
+        "denumire": "Casă (locuințe) și Banca Națională",
+        "adresa": "Brătianu I.C. 3 și Piața Unirii 7",
         "datare": "sec. XX",
-        "valoare": "2(casa) și1(BancaNațională)",
-        "denumire_wiki": "Banca Națională",
-        "adresa_wiki": "Piața Unirii 7"
+        "valoare": "2 (casa) și 1 (Banca Națională)"
       }
     },
     {
@@ -4170,15 +3915,12 @@
       },
       "properties": {
         "categorie": "B. Palate",
-        "descriere": "Palatul Sebestyen \nPiața Unirii 8 și str. Universității, nr. 1-3 \n1912-1913",
         "lmi2004": "CJ-II-m-B-07477",
         "rlu": 136,
-        "denumire": "Palatul Sebestyen – Imobilde raport cu spațiicomerciale la parter,servicii la mezaninCinema Arta și LibrăriaUniversitățiiSediul primei Societățimaghiare de asiguraregenerală",
-        "adresa": "Str. Brătianu I.C. 1,Piața Unirii 8 și Str.Universității 1-3",
+        "denumire": "Palatul Sebestyen – Imobil de raport cu spații comerciale la parter, servicii la mezanin Cinema Arta și Librăria Universității Sediul primei Societăți maghiare de asigurare generală",
+        "adresa": "Str. Brătianu I.C. 1, Piața Unirii nr. 8 și Str.Universității 1-3",
         "datare": "1912-1913",
-        "valoare": 1,
-        "denumire_wiki": "Palatul Sebestyen",
-        "adresa_wiki": "Piața Unirii 8 și str. Universității, 1-3"
+        "valoare": 1
       }
     },
     {
@@ -4192,15 +3934,13 @@
       },
       "properties": {
         "categorie": "B. Palate",
-        "descriere": "Palatul Bornemisza, fost și sediu al Societății teatrale maghiare din Ardeal \nPiața Unirii 9 și str. Napoca nr. 2-4 \nsec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07478",
         "rlu": 682,
         "denumire": "Palatul Bornemisza, fost și sediu al Societății teatrale maghiare din Ardeal",
         "adresa": "Piața Unirii 9 și Str. Napoca 2-4",
         "lmi": 955,
         "datare": "sec. XVIII-XIX",
-        "valoare": 1,
-        "adresa_wiki": "Piața Unirii 9 și str. Napoca 2-4"
+        "valoare": 1
       }
     },
     {
@@ -4214,15 +3954,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa Teleki \nPiața Unirii 10 \n1827",
         "lmi2004": "CJ-II-m-B-07479",
         "rlu": 602,
-        "denumire": "Palatul Jósika",
+        "denumire": "Palatul Jósika / Casa Teleki",
         "adresa": "Str. Rațiu Ion 9 și Piața Unirii 10",
         "datare": 1827,
-        "valoare": 1,
-        "denumire_wiki": "Casa Teleki",
-        "adresa_wiki": "Piața Unirii 10"
+        "valoare": 1
       }
     },
     {
@@ -4236,16 +3973,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa în care a locuit Bőlőni Farcas Sandor Piața Unirii 11 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07480",
         "rlu": 600,
-        "denumire": "Casa Wass Otillia. Fostă proprietate a Societătii Muzeului Ardelean.Casa în care a locuit Bőlőni Farcas SandorA fost locuința și a adăpostit colecția Prof. Dr. Ion Chiricuță.",
+        "denumire": "Casa Wass Otillia. Fostă proprietate a Societătii Muzeului Ardelean. Casa în care a locuit Bőlőni Farcas Sandor. A fost locuința și a adăpostit colecția Prof. Dr. Ion Chiricuță.",
         "adresa": "Str. Rațiu Ion 7 și Piața Unirii 11",
         "datare": "sec. XVIII și XIX",
         "valoare": 1,
-        "datare_wiki": "sec. XVIII",
-        "denumire_wiki": "Casa în care a locuit Bőlőni Farcas Sandor",
-        "adresa_wiki": "Piața Unirii 11",
         "ran": "54984.154"
       }
     },
@@ -4260,7 +3993,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 12 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07481",
         "rlu": 685,
         "denumire": "Casă",
@@ -4282,7 +4014,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 13 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07482",
         "rlu": 686,
         "denumire": "Casă",
@@ -4304,14 +4035,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 14 \nsec. XV - XIX",
         "lmi2004": "CJ-II-m-B-07483",
         "rlu": 599,
         "denumire": "Casă",
         "adresa": "Str. Rațiu Ion 5 și Piața Unirii 14",
         "datare": "sec. XV-XIX",
         "valoare": 1,
-        "adresa_wiki": "Piața Unirii 14",
         "ran": "54984.151"
       }
     },
@@ -4326,7 +4055,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa parohială a bisericii romano-catolice Piața Unirii 15 \nsec. XV - XVIII",
         "lmi2004": "CJ-II-m-B-07484",
         "rlu": 688,
         "denumire": "Casa parohială a bisericii romano-catolice",
@@ -4348,7 +4076,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 16 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07485",
         "rlu": 689,
         "denumire": "Casă",
@@ -4370,7 +4097,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Piața Unirii 18 \nsec. XVI",
         "lmi2004": "CJ-II-m-B-07486",
         "rlu": 690,
         "denumire": "Casă",
@@ -4392,7 +4118,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Piața Unirii 19 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07487",
         "rlu": 691,
         "denumire": "Casă",
@@ -4414,15 +4139,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Muzeul Farmaciei \nPiața Unirii 28 și str. Doja Gheorghe nr. 1 \nsec. XV - XVIII",
         "lmi2004": "CJ-II-m-B-07495",
         "rlu": 213,
         "denumire": "Casa Mauksch-Hintz, azi Muzeul Național de Istorie a Transilvaniei, Colec ia de Istorie a Farmaciei",
-        "adresa": "Str. Regele Ferdinand 1 (fostă Str. Doja Gheorghe1) și Piața Unirii 28",
+        "adresa": "Str. Regele Ferdinand 1 (fostă Str. Doja Gheorghe 1) și Piața Unirii 28",
         "datare": "sec. XV-XVIII",
         "valoare": 1,
-        "denumire_wiki": "Muzeul Farmaciei",
-        "adresa_wiki": "Piața Unirii 28 și str. Regele Ferdinand (fostă Doja Gheorghe) 1[2]",
         "ran": "54984.121"
       }
     },
@@ -4437,7 +4159,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 27 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07494",
         "rlu": 699,
         "denumire": "Casă",
@@ -4459,7 +4180,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Piața Unirii 26 \nsec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07493",
         "rlu": 698,
         "denumire": "Casă",
@@ -4481,15 +4201,12 @@
       },
       "properties": {
         "categorie": "A. Cetatea",
-        "descriere": "Turn și fragment din zidul primei incinte a orașului medieval Piața Unirii 25 și str. Toplița nr. 10 \n1376",
         "lmi2004": "CJ-II-m-A-07241.01",
         "rlu": 649,
         "denumire": "Turn și fragment din zidul primei incinte a orașului medieval, azi Muzeul de Speologie „Emil Racoviță”",
         "adresa": "Str. Pușcariu Sextil 10 și Piața Unirii 25",
         "datare": 1376,
-        "valoare": 1,
-        "denumire_wiki": "Turn și fragment din zidul primei incinte a orașului medieval",
-        "adresa_wiki": "Piața Unirii 25 și str. Toplița 10"
+        "valoare": 1
       }
     },
     {
@@ -4503,16 +4220,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Imobil administrativ Piața Unirii 24 \n1883",
         "lmi2004": "CJ-II-m-B-07492",
         "rlu": 647,
         "denumire": "Casă și Imobil administrativ",
         "adresa": "Str. Pușcariu Sextil 8 și Piața Unirii 24",
         "datare": "sec. XIX și 1883",
-        "valoare": 1,
-        "datare_wiki": "1883",
-        "denumire_wiki": "Imobil administrativ",
-        "adresa_wiki": "Piața Unirii 24"
+        "valoare": 1
       }
     },
     {
@@ -4526,16 +4239,12 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Imobil administrativ  \nPiața Unirii 23 \n1883",
         "lmi2004": "CJ-II-m-B-07491",
         "rlu": 644,
         "denumire": "Imobil administrativ, curte, aripi secundare, case",
-        "adresa": "Str. Pușcariu Sextil 4-6 Piața Unirii 23",
+        "adresa": "Str. Pușcariu Sextil 4-6 Piața, Unirii 23",
         "datare": "sec. XIX și 1883",
-        "valoare": 1,
-        "datare_wiki": "1883",
-        "denumire_wiki": "Imobil administrativ",
-        "adresa_wiki": "Piața Unirii 23"
+        "valoare": 1
       }
     },
     {
@@ -4549,7 +4258,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 22 \nsec. XVIII",
         "lmi2004": "CJ-II-m-B-07490",
         "rlu": 694,
         "denumire": "Casă",
@@ -4571,7 +4279,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Piața Unirii 21 \nsec. XVI - XX",
         "lmi2004": "CJ-II-m-B-07489",
         "rlu": 693,
         "denumire": "Casă",
@@ -4593,7 +4300,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă \nPiața Unirii 20 \nsec. XIX",
         "lmi2004": "CJ-II-m-B-07488",
         "rlu": 692,
         "denumire": "Casă",
@@ -4614,7 +4320,6 @@
       },
       "properties": {
         "categorie": "A. Palate",
-        "descriere": "Palatul Banffy, azi Muzeul de Artă  \nPiața Unirii 30 \n1774-1785 \nJohann Eberhard Blaumann (arhitect)",
         "lmi2004": "CJ-II-m-A-07497",
         "rlu": 702,
         "denumire": "Palatul Banffy, azi Muzeul de Artă",
@@ -4637,15 +4342,13 @@
       },
       "properties": {
         "categorie": "A. Case",
-        "descriere": "Casa Wolphard Kakas, azi Universitatea de Arte Vizuale „Ion Andreescu” și banca „Société Générale” Piața Unirii 31 \nsec. XVI - XIX",
         "lmi2004": "CJ-II-m-A-07498",
         "rlu": 703,
-        "denumire": "Casa Wolphard-Kakas, azi Universitatea de Arte Vizuale „Ion Andreescu” și banca „Société Générale ",
+        "denumire": "Casa Wolphard-Kakas, azi Universitatea de Arte Vizuale „Ion Andreescu” și banca „Société Générale”",
         "adresa": "Piața Unirii 31",
         "lmi": 975,
         "datare": "sec. XVI-XIX",
         "valoare": 1,
-        "denumire_wiki": "Casa Wolphard Kakas, azi Universitatea de Arte Vizuale „Ion Andreescu” și banca „Société Générale”",
         "ran": "54984.163"
       }
     },
@@ -4660,7 +4363,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "- Ateliere pictură (fostă expoziție)1940",
         "lmi2004": "CJ-II-m-B-07243.01",
         "rlu": 39,
         "denumire": "Ateliere pictură (fostă expoziție)",
@@ -4681,7 +4383,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Chioșc fanfară 1897",
         "lmi2004": "CJ-II-m-B-07243.03",
         "rlu": 41,
         "denumire": "Chioșc fanfară",
@@ -4702,7 +4403,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Pavilionul de patinaj 1897",
         "lmi2004": "CJ-II-m-B-07243.04",
         "rlu": 42,
         "denumire": "Restaurant",
@@ -4724,7 +4424,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Kiosk 1897",
         "lmi2004": "CJ-II-m-B-07243.05",
         "rlu": 43,
         "denumire": "Restaurant Casino",
@@ -4732,8 +4431,7 @@
         "lmi": 701,
         "datare": 1897,
         "valoare": 1,
-        "denumire_wiki": "Kiosk",
-        "adresa_wiki": "Parcul Central"
+        "denumire_wiki": "Kiosk"
       }
     },
     {
@@ -4747,7 +4445,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Fântână arteziană1897",
         "lmi2004": "CJ-II-m-B-07243.02",
         "rlu": 40,
         "denumire": "Fântână arteziană",
@@ -4782,7 +4479,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Hotel Melody Bd. 21 Decembrie 1989 nr. 2 și Piața Unirii nr. 29 sec. XVI - XIX",
         "lmi2004": "CJ-II-m-B-07246",
         "rlu": 48,
         "denumire": "Hotel Melody",
@@ -4804,7 +4500,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Bd. 21 Decembrie 1989 3 sec. XV - XVI",
         "lmi2004": "CJ-II-m-B-07247",
         "rlu": 49,
         "denumire": "Casa parohiala a bisericii evangelice",
@@ -4812,7 +4507,6 @@
         "lmi": 706,
         "datare": "sec. XV-XVI",
         "valoare": 1,
-        "denumire_wiki": "Casă",
         "ran": "54984.70"
       }
     },
@@ -4829,12 +4523,11 @@
         "categorie": "B. Case",
         "lmi2004": "CJ-II-m-B-07248",
         "rlu": 50,
-        "denumire": "Casa",
+        "denumire": "Casă",
         "adresa": "Bd. 21 Decembrie 1989 nr. 4",
         "lmi": 707,
         "datare": "sec. XVI-XIX",
         "valoare": 1,
-        "denumire_wiki": "Casă",
         "ran": "54984.94"
       }
     },
@@ -4892,7 +4585,6 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "Biserica unitariană Bd. 21 Decembrie 1989 9 sec. XVIII\nAnton Türk (arhitect)",
         "lmi2004": "CJ-II-m-B-07251",
         "rlu": 55,
         "denumire": "Biserica unitariană",
@@ -4915,7 +4607,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa profesorilor unitarieni Bd. 21 Decembrie 1989 10 și str. Bolyai Janos nr. 10sec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07252",
         "rlu": 56,
         "denumire": "Casa profesorilor unitarieni",
@@ -4937,7 +4628,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Bd. 21 Decembrie 1989 12 sec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07253",
         "rlu": 58,
         "denumire": "Casă",
@@ -4959,7 +4649,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Reședința episcopului unitarian Bd. 21 Decembrie 1989 14 sec. XV - XIX",
         "lmi2004": "CJ-II-m-B-07254",
         "rlu": 59,
         "denumire": "Reședința episcopului unitarian",
@@ -4981,16 +4670,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casa parohială a bisericii unitariene Bd. 21 Decembrie 1989 16-18 sec. XVIII",
         "lmi2004": "CJ-II-m-B-07255",
         "rlu": 60,
-        "denumire": "Casa",
+        "denumire": "Casa parohială a bisericii unitariene",
         "adresa": "Bd. 21 Decembrie 1989 nr. 16-18",
         "lmi": 714,
         "datare": "sec. XVIII",
         "valoare": 1,
-        "denumire_wiki": "Casa parohială a bisericii unitariene",
-        "adresa_wiki": "Bd. 21 Decembrie 1989 nr. 16-18",
         "ran": "54984.39"
       }
     },
@@ -5005,15 +4691,13 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Sediul P.S.D. Bd. 21 Decembrie 1989 19 sec. XVIII - XIX",
         "lmi2004": "CJ-II-m-B-07256",
         "rlu": 62,
-        "denumire": "Sediul P.S.D.",
+        "denumire": "Sediul PSD",
         "adresa": "Bd. 21 Decembrie 1989 nr. 19",
         "lmi": 715,
         "datare": "sec. XVIII-XIX",
-        "valoare": 1,
-        "adresa_wiki": "Bd. 21 Decembrie 1989 nr. 19"
+        "valoare": 1
       }
     },
     {
@@ -5033,8 +4717,7 @@
         "adresa": "Bd. 21 Decembrie 1989 nr. 20",
         "lmi": 716,
         "datare": "sec. XIX",
-        "valoare": 1,
-        "adresa_wiki": "Bd. 21 Decembrie 1989 nr. 20"
+        "valoare": 1
       }
     },
     {
@@ -5136,8 +4819,7 @@
         "adresa": "Bd. 21 Decembrie 1989 nr. 34",
         "lmi": 721,
         "datare": "cca. 1920",
-        "valoare": 1,
-        "datare_wiki": "1920"
+        "valoare": 1
       }
     },
     {
@@ -5296,15 +4978,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Str. Baba Novac 8 Bd. Eroilor nr. 51 sec. XVIII",
         "lmi2004": "CJ-II-m-B-07269",
         "rlu": 87,
         "denumire": "Casă",
-        "adresa": "Str. Baba Novac 8",
+        "adresa": "Str. Baba Novac 8, Bd. Eroilor nr. 51",
         "lmi": 728,
         "datare": "sec. XVIII",
         "valoare": 1,
-        "adresa_wiki": "Str. Baba Novac 8, Bd. Eroilor nr. 51",
         "ran": "54984.95"
       }
     },
@@ -5319,7 +4999,6 @@
       },
       "properties": {
         "categorie": "A. Cetatea",
-        "descriere": "Fragment din zidul celei de a doua incinte a orașului medieval Str. Baba Novac 15 1406",
         "lmi2004": "CJ-II-m-A-07242.06",
         "rlu": 90,
         "denumire": "Fragment din zidul celei de a doua incinte a orașului medieval",
@@ -5340,15 +5019,13 @@
       },
       "properties": {
         "categorie": "A. Cetatea",
-        "descriere": "Bastionul Bethlen (fost Turnul Croitorilor) Str. Baba Novac 35 sec. XV - XVII, ref.sec. XIX",
         "lmi2004": "CJ-II-m-A-07271",
         "rlu": 99,
         "denumire": "Bastionul Bethlen (fost Turnul Croitorilor)",
         "adresa": "Str. Baba Novac 35",
         "lmi": 730,
-        "datare": "sec. XV-XVII ,ref. sec. XIX",
+        "datare": "sec. XV-XVII , ref. sec. XIX",
         "valoare": 1,
-        "datare_wiki": "sec. XV-XVII, ref.sec. XIX",
         "ran": "54984.96"
       }
     },
@@ -5363,15 +5040,13 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Clinicile de neurologie și neuro-psihiatrie infantilă Str. Babeș Victor 43 1900",
         "lmi2004": "CJ-II-m-B-07272",
         "rlu": 102,
-        "denumire": "Clinica de neuro-psihiatrie infantilă",
+        "denumire": "linicile de neurologie și neuro-psihiatrie infantilă",
         "adresa": "Str. Babeș Victor 43",
         "lmi": 731,
         "datare": 1900,
-        "valoare": 1,
-        "denumire_wiki": "Clinicile de neurologie și neuro-psihiatrie infantilă"
+        "valoare": 1
       }
     },
     {
@@ -5385,7 +5060,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Institutul Politehnic Str. Barițiu George 25 1894",
         "lmi2004": "CJ-II-m-B-07274",
         "rlu": 108,
         "denumire": "Institutul Politehnic",
@@ -5406,7 +5080,6 @@
       },
       "properties": {
         "categorie": "B. Clădiri publice",
-        "descriere": "Institutul Politehnic Str. Barițiu George 28 1895",
         "lmi2004": "CJ-II-m-B-07275",
         "rlu": 111,
         "denumire": "Institutul Politehnic",
@@ -5427,7 +5100,6 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "Biserica „Sf. Treime”, din deal Str. Bisericii Ortodoxe 10 sec. XVIII",
         "lmi2004": "CJ-II-m-B-07276",
         "rlu": 115,
         "denumire": "Biserica „Sf. Treime”, din deal",
@@ -5449,7 +5121,6 @@
       },
       "properties": {
         "categorie": "B. Biserici",
-        "descriere": "Biserica „Învierea Domnului”, Bob Str. Bob 5 1800-1803 Iosif Leder",
         "lmi2004": "CJ-II-m-B-07277",
         "rlu": 119,
         "denumire": "Biserica „Învierea Domnului”, Bob",
@@ -5472,16 +5143,13 @@
       },
       "properties": {
         "categorie": "B. Case ",
-        "descriere": "Casa în s-a născut Bolyai Janos Str. Bolyai Janos 1 și Bd. Eroilor nr. 9 sec. XV - XIX",
         "lmi2004": "CJ-II-m-B-07278",
         "rlu": 127,
-        "denumire": "Casa în care s-a născut Bolyai Janos",
-        "adresa": "Str. Bolyai Janos 1și Bd. Eroilor 9",
+        "denumire": "Casa în care s-a născut Bolyai János",
+        "adresa": "Str. Bolyai János 1 și Bd. Eroilor nr. 9",
         "lmi": 738,
         "datare": "sec. XV-XIX",
-        "valoare": 1,
-        "denumire_wiki": "Casa în care s-a născut Bolyai János",
-        "adresa_wiki": "Str. Bolyai János 1 și Bd.Eroilor nr. 9"
+        "valoare": 1
       }
     },
     {
@@ -5495,15 +5163,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Bolyai Janos 2 și str. Eroilor nr. 11 sec. XV - XIX",
         "lmi2004": "CJ-II-m-B-07279",
         "rlu": 128,
         "denumire": "Casă",
-        "adresa": "Str. Bolyai Janos 2și Bd. Eroilor nr.11",
+        "adresa": "Str. Bolyai János 2 și str. Eroilor nr. 11",
         "lmi": 739,
         "datare": "sec. XV-XIX",
         "valoare": 1,
-        "adresa_wiki": "Str. Bolyai János 2 și str. Eroilor nr. 11",
         "ran": "54984.141"
       }
     },
@@ -5518,15 +5184,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Bolyai Janos 2-4 sec. XV - XIX",
         "lmi2004": "CJ-II-m-B-07280",
         "rlu": 129,
         "denumire": "Casă",
-        "adresa": "Str. Bolyai Janos 2-4",
+        "adresa": "Str. Bolyai János 2-4",
         "lmi": 740,
         "datare": "sec. XV-XIX",
-        "valoare": 1,
-        "adresa_wiki": "Str. Bolyai János 2-4"
+        "valoare": 1
       }
     },
     {
@@ -5540,7 +5204,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă stil baroc Str. Brătianu I.C. 6 sec. XVIII",
         "lmi2004": "CJ-II-m-B-07282",
         "rlu": 141,
         "denumire": "Casă stil baroc",
@@ -5562,7 +5225,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă stil baroc Str. Brătianu I.C. 8 sec. XVIII",
         "lmi2004": "CJ-II-m-B-07283",
         "rlu": 143,
         "denumire": "Casă stil baroc",
@@ -5584,7 +5246,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Brătianu I.C. 10 sec. XIX",
         "lmi2004": "CJ-II-m-B-07284",
         "rlu": 145,
         "denumire": "Casă",
@@ -5605,15 +5266,13 @@
       },
       "properties": {
         "categorie": "A. Palate",
-        "descriere": "Palatul Tholdalagy-Korda, azi Universitatea „Babeș-Bolyai” - administrația tehnică Str. Brătianu I.C. 14 \nCarlo Justi",
         "lmi2004": "CJ-II-m-A-07285",
         "rlu": 147,
-        "denumire": "Palatul Tholdalagy-Korda , azi Universitatea „Babeș-Bolyai” - administrația tehnică",
+        "denumire": "Palatul Tholdalagy-Korda, azi Universitatea „Babeș-Bolyai”-administrația tehnică",
         "adresa": "Str. Brătianu I.C. 14",
         "lmi": 745,
         "datare": "sec. XIX",
         "valoare": 1,
-        "denumire_wiki": "Palatul Tholdalagy-Korda, azi Universitatea „Babeș-Bolyai”-administrația tehnică",
         "creatori": "Carlo Justi (arhitect)"
       }
     },
@@ -5628,7 +5287,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Brătianu I.C. 16 sec. XVIII",
         "lmi2004": "CJ-II-m-B-07286",
         "rlu": 148,
         "denumire": "Casă",
@@ -5650,7 +5308,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Brătianu I.C. 18 sec. XVIII",
         "lmi2004": "CJ-II-m-B-07287",
         "rlu": 149,
         "denumire": "Casă",
@@ -5695,7 +5352,6 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Brătianu I.C. 24 sec. XVIII",
         "lmi2004": "CJ-II-m-B-07289",
         "rlu": 154,
         "denumire": "Casă",
@@ -5717,7 +5373,6 @@
       },
       "properties": {
         "categorie": "A. Case",
-        "descriere": "Casa Aurarului Str. Brătianu I.C. 27 sec. XVIII",
         "lmi2004": "CJ-II-m-A-07290",
         "rlu": 156,
         "denumire": "Casa Aurarului",
@@ -5725,7 +5380,6 @@
         "lmi": 750,
         "datare": "sec. XVIII (cca. 1727)",
         "valoare": 1,
-        "datare_wiki": "sec. XVIII",
         "ran": "54984.134"
       }
     },
@@ -5740,15 +5394,13 @@
       },
       "properties": {
         "categorie": "B. Case",
-        "descriere": "Casă Str. Brătianu I.C. 34 sec. XIX",
         "lmi2004": "CJ-II-m-B-07291",
         "rlu": 162,
         "denumire": "Casă",
         "adresa": "Str. Brătianu I.C. 34",
         "lmi": 751,
         "datare": "sec. XVIII-XIX",
-        "valoare": 1,
-        "datare_wiki": "sec. XIX"
+        "valoare": 1
       }
     },
     {
@@ -5765,10 +5417,9 @@
         "lmi": 1,
         "lmi2004": "CJ-I-s-B-06921",
         "denumire": "Situl arheologic de la Cluj-Napoca, punct „Str.Deleu și Caragiale",
-        "adresa": "Parcul arh.Deleu și Parcul Caragiale",
+        "adresa": "Parcul arh. Deleu și Parcul Caragiale",
         "valoare": 1,
         "denumire_wiki": "Orașul antic și medieval",
-        "adresa_wiki": "Parcul arh. Deleu și Parcul Caragiale",
         "ran": "54984.16"
       }
     },
@@ -5785,12 +5436,10 @@
         "rlu": 2,
         "lmi": 2,
         "lmi2004": "CJ-I-m-B-06921.01",
-        "denumire": "Ruine edificii",
-        "adresa": "Parcul arh.Deleu și Parcul Caragiale",
+        "denumire": "Ruine edificii - orașul antic și medieval",
+        "adresa": "Parcul arh. Deleu și Parcul Caragiale",
         "datare": "Epoca medievală",
         "valoare": 1,
-        "denumire_wiki": "Ruine edificii-orașul antic și medieval",
-        "adresa_wiki": "Parcul arh. Deleu și Parcul Caragiale",
         "ran": "54984.16.02"
       }
     },
@@ -5807,12 +5456,10 @@
         "rlu": 3,
         "lmi": 3,
         "lmi2004": "CJ-I-m-B-06921.02",
-        "denumire": "Zid de incintă",
-        "adresa": "Parcul arh.Deleu și Parcul Caragiale",
+        "denumire": "Zid de incintă - orașul antic și medieval",
+        "adresa": "Parcul arh. Deleu și Parcul Caragiale",
         "datare": "Epoca medievală",
         "valoare": 1,
-        "denumire_wiki": "Zid de incintă-orașul antic și medieval",
-        "adresa_wiki": "Parcul arh. Deleu și Parcul Caragiale",
         "ran": "54984.16.03"
       }
     },
@@ -5829,13 +5476,10 @@
         "rlu": 4,
         "lmi": 4,
         "lmi2004": "CJ-I-m-B-06921.03",
-        "denumire": "Zid de incintă",
-        "adresa": "Parcul arh.Deleu și Parcul Caragiale",
+        "denumire": "Zid de incintă - orașul antic și medieval",
+        "adresa": "Parcul arh. Deleu și Parcul Caragiale",
         "datare": "sec. II-III p. Chr. Epoca romană",
         "valoare": 1,
-        "datare_wiki": "sec. II-III p. Chr.",
-        "denumire_wiki": "Zid de incintă-orașul antic și medieval",
-        "adresa_wiki": "Parcul arh. Deleu și Parcul Caragiale",
         "ran": "54984.16.04"
       }
     },
@@ -5852,13 +5496,10 @@
         "rlu": 5,
         "lmi": 5,
         "lmi2004": "CJ-I-m-B-06921.04",
-        "denumire": "Ruine edificii urbane",
-        "adresa": "Parcul arh.Deleu și Parcul Caragiale",
+        "denumire": "Ruine edificii urbane - orașul antic și medieval",
+        "adresa": "Parcul arh. Deleu și Parcul Caragiale",
         "datare": "sec. II-III p. Chr. Epoca romană",
         "valoare": 1,
-        "datare_wiki": "sec. II-III p. Chr.",
-        "denumire_wiki": "Ruine edificii urbane-orașul antic și medieval",
-        "adresa_wiki": "Parcul arh. Deleu și Parcul Caragiale",
         "ran": "54984.16.01"
       }
     },
@@ -5876,11 +5517,9 @@
         "lmi": 6,
         "lmi2004": "CJ-I-s-B-06922",
         "denumire": "Necropolă",
-        "adresa": "La Cărămidărie”",
+        "adresa": "„La Cărămidărie”",
         "datare": "sec. VI Epoca migrațiilor",
         "valoare": 1,
-        "datare_wiki": "sec. VI",
-        "adresa_wiki": "„La Cărămidărie”",
         "ran": "54984.08.01"
       }
     },
@@ -5898,9 +5537,8 @@
         "lmi": 7,
         "lmi2004": "CJ-I-s-B-06923",
         "denumire": "Situl arheologic de la Cluj-Napoca, punct „La Stăvilar”",
-        "adresa": "La Stăvilar”",
+        "adresa": "„La Stăvilar”",
         "valoare": 1,
-        "adresa_wiki": "„La Stăvilar”",
         "ran": "54984.09"
       }
     },
@@ -5918,10 +5556,9 @@
         "lmi": 8,
         "lmi2004": "CJ-I-m-B-06923.01",
         "denumire": "Așezare",
-        "adresa": "La Stăvilar”",
+        "adresa": "„La Stăvilar”",
         "datare": "Epoca migrațiilor",
         "valoare": 1,
-        "adresa_wiki": "„La Stăvilar”",
         "ran": "54984.09.06"
       }
     },
@@ -5939,10 +5576,9 @@
         "lmi": 9,
         "lmi2004": "CJ-I-m-B-06923.02",
         "denumire": "Așezare",
-        "adresa": "La Stăvilar”",
+        "adresa": "„La Stăvilar””",
         "datare": "Epoca romană",
         "valoare": 1,
-        "adresa_wiki": "„La Stăvilar”",
         "ran": "54984.09.05"
       }
     },
@@ -5960,10 +5596,9 @@
         "lmi": 10,
         "lmi2004": "CJ-I-m-B-06923.03",
         "denumire": "Așezare",
-        "adresa": "La Stăvilar”",
+        "adresa": "„La Stăvilar”",
         "datare": "Hallstatt",
         "valoare": 1,
-        "adresa_wiki": "„La Stăvilar”",
         "ran": "54984.09.04"
       }
     },
@@ -5981,11 +5616,9 @@
         "lmi": 11,
         "lmi2004": "CJ-I-m-B-06923.04",
         "denumire": "Așezare",
-        "adresa": "La Stăvilar”",
-        "datare": "Perioada de tranziție la epoca bronzului, cultura Coțofeni",
+        "adresa": "„La Stăvilar”",
+        "datare": "Perioada de tranziție la epoca bronzului, Cultura Coțofeni",
         "valoare": 1,
-        "datare_wiki": "Perioada de tranziție la epoca bronzului, Cultura Coțofeni",
-        "adresa_wiki": "„La Stăvilar”",
         "ran": "54984.09.03"
       }
     },
@@ -6003,10 +5636,9 @@
         "lmi": 12,
         "lmi2004": "CJ-I-m-B-06923.05",
         "denumire": "Așezare",
-        "adresa": "La Stăvilar”",
+        "adresa": "„La Stăvilar”",
         "datare": "Epoca bronzului",
         "valoare": 1,
-        "adresa_wiki": "„La Stăvilar”",
         "ran": "54984.09.02"
       }
     },
@@ -6024,10 +5656,9 @@
         "lmi": 13,
         "lmi2004": "CJ-I-m-B-06923.06",
         "denumire": "Așezare",
-        "adresa": "La Stăvilar”",
+        "adresa": "„La Stăvilar””",
         "datare": "Neolitic",
         "valoare": 1,
-        "adresa_wiki": "„La Stăvilar”",
         "ran": "54984.09.01"
       }
     },
@@ -6045,10 +5676,9 @@
         "lmi": 14,
         "lmi2004": "CJ-I-s-B-06924",
         "denumire": "Situl arheologic de la Cluj-Napoca, punct „Calvaria”",
-        "adresa": "Calvaria”",
+        "adresa": "„Calvaria”",
         "datare": "sec. IX-XI",
         "valoare": 1,
-        "adresa_wiki": "„Calvaria”",
         "ran": "54984.10"
       }
     },
@@ -6066,11 +5696,9 @@
         "lmi": 15,
         "lmi2004": "CJ-I-m-B-06924.01",
         "denumire": "Ruinele bisericii medievale",
-        "adresa": "Calvaria”",
-        "datare": "sec. IX-XI Epoca medievală",
+        "adresa": "„Calvaria”",
+        "datare": "sec. IX-XI, Epoca medievală",
         "valoare": 1,
-        "datare_wiki": "sec. IX-XI, Epoca medievală",
-        "adresa_wiki": "„Calvaria”",
         "ran": "54984.10.02"
       }
     },
@@ -6088,11 +5716,9 @@
         "lmi": 16,
         "lmi2004": "CJ-I-m-B-06924.02",
         "denumire": "Așezare fortificată",
-        "adresa": "Calvaria”",
-        "datare": "sec. IX-XI Epoca medieval timpurie",
+        "adresa": "„Calvaria”",
+        "datare": "sec. IX-XI, Epoca medieval timpurie",
         "valoare": 1,
-        "datare_wiki": "sec. IX-XI, Epoca medieval timpurie",
-        "adresa_wiki": "„Calvaria”",
         "ran": "54984.10.01"
       }
     },
@@ -6130,10 +5756,8 @@
         "lmi": 18,
         "lmi2004": "CJ-I-s-B-06926",
         "denumire": "Situl arheologic de la Cluj-Napoca, punct  „Someșeni-Băi”",
-        "adresa": "Someșeni-Băi”",
+        "adresa": "„Someșeni-Băi”",
         "valoare": 1,
-        "denumire_wiki": "Situl arheologic de la Cluj-Napoca, punct „Someșeni-Băi”",
-        "adresa_wiki": "„Someșeni-Băi”",
         "ran": "54984.12"
       }
     },
@@ -6151,11 +5775,9 @@
         "lmi": 19,
         "lmi2004": "CJ-I-m-B-06926.01",
         "denumire": "Așezare",
-        "adresa": "Someșeni-Băi”",
-        "datare": "Epoca medieval timpurie",
+        "adresa": "„Someșeni-Băi”",
+        "datare": "Epoca medievală timpurie",
         "valoare": 1,
-        "datare_wiki": "Epoca medievală timpurie",
-        "adresa_wiki": "„Someșeni-Băi”",
         "ran": "54984.12.03"
       }
     },
@@ -6173,11 +5795,9 @@
         "lmi": 20,
         "lmi2004": "CJ-I-m-B-06926.02",
         "denumire": "Așezare",
-        "adresa": "Someșeni-Băi”",
+        "adresa": "„Someșeni-Băi”",
         "datare": "sec. II-III p. Chr. Epoca romană",
         "valoare": 1,
-        "datare_wiki": "sec. II-III p. Chr.",
-        "adresa_wiki": "„Someșeni-Băi”",
         "ran": "54984.12.02"
       }
     },
@@ -6195,11 +5815,9 @@
         "lmi": 21,
         "lmi2004": "CJ-I-m-B-06926.03",
         "denumire": "Așezare",
-        "adresa": "Someșeni-Băi”",
-        "datare": "Latčne",
+        "adresa": "„Someșeni-Băi”",
+        "datare": "Latène",
         "valoare": 1,
-        "datare_wiki": "Latène",
-        "adresa_wiki": "„Someșeni-Băi”",
         "ran": "54984.12.01"
       }
     },
@@ -6217,9 +5835,8 @@
         "lmi": 22,
         "lmi2004": "CJ-I-s-B-06927",
         "denumire": "Situl arheologic de la Cluj-Napoca, punct „Someșeni-Aeroport”",
-        "adresa": "Someșeni-Aeroport”",
+        "adresa": "„Someșeni-Aeroport”",
         "valoare": 1,
-        "adresa_wiki": "„Someșeni-Aeroport”",
         "ran": "54984.13"
       }
     },
@@ -6237,11 +5854,9 @@
         "lmi": 23,
         "lmi2004": "CJ-I-m-B-06927.01",
         "denumire": "Așezare",
-        "adresa": "Someșeni-Aeroport”",
+        "adresa": "„Someșeni-Aeroport”",
         "datare": "sec. IV-V Epoca migrațiilor",
         "valoare": 1,
-        "datare_wiki": "sec. IV-V",
-        "adresa_wiki": "„Someșeni-Aeroport”",
         "ran": "54984.13.01"
       }
     },
@@ -6259,11 +5874,9 @@
         "lmi": 24,
         "lmi2004": "CJ-I-m-B-06927.02",
         "denumire": "Necropolă",
-        "adresa": "Someșeni-Aeroport”",
-        "datare": "sec. VIII-IXEpoca migrațiilor",
+        "adresa": "„Someșeni-Aeroport”",
+        "datare": "sec. VIII-IX, Epoca migrațiilor",
         "valoare": 1,
-        "datare_wiki": "sec. VIII-IX",
-        "adresa_wiki": "„Someșeni-Aeroport”",
         "ran": "54984.13.02"
       }
     },
@@ -6284,7 +5897,6 @@
         "adresa": "Piața Cipariu",
         "datare": "sec. II-IV p. Chr. Epoca romană",
         "valoare": 1,
-        "datare_wiki": "sec. II-IV p. Chr.",
         "ran": "54984.01.01"
       }
     },
@@ -6302,11 +5914,9 @@
         "lmi": 26,
         "lmi2004": "CJ-I-m-B-06929.01",
         "denumire": "Necropolă",
-        "adresa": "Str.Coposu Corneliu",
+        "adresa": "Str. Coposu Corneliu",
         "datare": "sec. V-VI Epoca migrațiilor",
         "valoare": 1,
-        "datare_wiki": "sec. V-VI",
-        "adresa_wiki": "Str. Corneliu Coposu",
         "ran": "54984.06.01"
       }
     },
@@ -6324,10 +5934,9 @@
         "lmi": 27,
         "lmi2004": "CJ-I-m-B-06929.02",
         "denumire": "Necropolă",
-        "adresa": "Str.Coposu Corneliu",
+        "adresa": "Str. Coposu Corneliu",
         "datare": "Epoca bronzului",
         "valoare": 1,
-        "adresa_wiki": "Str. Corneliu Coposu",
         "ran": "54984.41.01"
       }
     },
@@ -6345,10 +5954,9 @@
         "lmi": 28,
         "lmi2004": "CJ-I-s-B-06930",
         "denumire": "Așezare",
-        "adresa": "Str.Fântânele",
+        "adresa": "Str. Fântânele",
         "datare": "Neolitic",
         "valoare": 1,
-        "adresa_wiki": "Str. Fântânele",
         "ran": "54984.05.01"
       }
     },
@@ -6422,11 +6030,9 @@
         "lmi": 32,
         "lmi2004": "CJ-I-s-B-06932",
         "denumire": "Necropolă",
-        "adresa": "Colțul str. Titulescu-str.",
-        "datare": "sec. IV p. Chr. Epoca post romană",
+        "adresa": "Colțul str. Titulescu - str. Brâncuși",
+        "datare": "sec. IV p. Chr. Epoca post-romană",
         "valoare": 1,
-        "datare_wiki": "sec. IV p. Chr.",
-        "adresa_wiki": "Colțul str. Titulescu- str. Brâncuși",
         "ran": "54984.03.01"
       }
     },
@@ -6463,10 +6069,8 @@
         "lmi": 34,
         "lmi2004": "CJ-I-s-B-06929",
         "denumire": "Situl arheologic de la Cluj-Napoca, punct „Str.Corneliu Coposu”",
-        "adresa": "Str. Coposu CorneliuStr.Coposu Corneliu",
+        "adresa": "Str. Coposu Corneliu",
         "valoare": 1,
-        "denumire_wiki": "Situl arheologic de la Cluj-Napoca, punct „Str. Corneliu Coposu”",
-        "adresa_wiki": "Str. Coposu Corneliu",
         "ran": "54984.41"
       }
     },
@@ -6484,10 +6088,9 @@
         "lmi": 693,
         "lmi2004": "CJ-II-a-A-07240",
         "denumire": "Cetățuia Cluj-Napoca",
-        "adresa": "Zona delimitată de: limita estică a parcelei din str.Dragalina nr.70, str. Șerpuitoare nr.1-27 fundul de parcelă , str. Șerpuitoare și str. Augustin Bunea, str. Călărașilor frontul nordic, str.Cetății frontul estic nordic, str. Cetății frontul estic nordic, str. Cetății frontul estic de la nr.25 la nr. 55, limita vestică a parcelei din str. Galilei nr.18, Aleea scărilor, str.Dragalina frontul nordic de la Aleea scărilor la nr. 70",
+        "adresa": "Zona delimitată de: limita estică a parcelei din str. Dragalina nr.70, str. Șerpuitoare nr.1-27 fundul de parcelă, str. Șerpuitoare și str. Augustin Bunea, str. Călărașilor frontul nordic, str.Cetății frontul estic nordic, str. Cetății frontul estic nordic, str. Cetății frontul estic de la nr.25 la nr. 55, limita vestică a parcelei din str. Galilei nr.18, Aleea scărilor, str.Dragalina frontul nordic de la Aleea scărilor la nr. 70",
         "datare": 1716,
         "valoare": 1,
-        "adresa_wiki": "Zona delimitată de: limita estică a parcelei din str. Dragalina nr. 70, str. Șerpuitoare nr. 1-27 fundul de parcelă, str. Șerpuitoare șist r. Augustin Bunea, str. Călărașilor frontul nordic, str. Cetății frontul estic de la nr. 25 la nr. 55, limita vestică a parcelei din str. Galilei nr. 18, Aleea scărilor, str. Dragalina frontul nordic de la Aleea scărilor la nr. 70",
         "creatori": "Giovanni Murando Visconti",
         "ran": "54984.144.01"
       }
@@ -6509,7 +6112,6 @@
         "adresa": "Străzile : Deleu, nr. 2-4, Doja Gheorghe, nr. 7 și 23-25 ,Toplița, nr.8-10 , Piața Unirii nr. 25, Matei Corvin nr.4 (subsol), Petroșani nr. 1,3,21, 23, Pavel Chinezu nr.5, Isac Emil nr.10, Barițiu George, nr.25",
         "datare": 1316,
         "valoare": 1,
-        "adresa_wiki": "Străzile: Deleu, nr. 2-4, Doja Gheorghe, nr. 7 și 23-25, Toplița, nr. 8-10, Piața Unirii nr. 25, Matei Corvin nr. 4 (subsol), Petroșani nr. 1,3, 21, 23, Pavel Chinezu nr. 5, Isac Emil nr. 10, Barițiu George, nr. 25",
         "ran": "54984.102, 54984.143, 54984.182, 54984.200"
       }
     },
@@ -6530,7 +6132,6 @@
         "adresa": "Străzile : Potaissa nr.1-3, Iancu Avram, nr.1-27, Republicii nr.3-7 , Universității, nr .7-9 , Kogălniceanu M., nr.2-10 , Baba Novac (extrema sudică și nr.15), Tipografiei nr.17",
         "datare": 1406,
         "valoare": 1,
-        "adresa_wiki": "Străzile: Potaissa nr. 1-3, Iancu Avram, nr. 1-27, Str. Republicii nr. 3-7, Universității, nr. 7-9, Kogălniceanu M., nr. 2-10, Baba Novac (extrema sudică și nr. 15), Tipografiei nr. 17",
         "ran": "54984.186, 54984.77"
       }
     },
@@ -6814,7 +6415,6 @@
         "adresa": "Bd. 21 Decembrie 1989 nr. 48",
         "datare": "sec. XVIII",
         "valoare": 1,
-        "adresa_wiki": "Bd. 21 Decembrie 1989 nr. 48",
         "ran": "54984"
       }
     },
@@ -7430,9 +7030,8 @@
         "lmi2004": "CJ-II-m-B-07281",
         "denumire": "Casă",
         "adresa": "Str. Borzești 1",
-        "datare": "sec. XX",
-        "valoare": 1,
-        "datare_wiki": "1901"
+        "datare": "1901",
+        "valoare": 1
       }
     },
     {
@@ -8376,8 +7975,6 @@
         "adresa": "Str. Regele Ferdinand 15 și Str. Zola Émile 1",
         "datare": "sec. XX",
         "valoare": 1,
-        "denumire_wiki": "Casă",
-        "adresa_wiki": "Str. Zola Emile 1 și str. Regele Ferdinand (fostă Gh. Doja) 15[2]"
       }
     },
     {
@@ -8512,11 +8109,9 @@
         "rlu": 237,
         "lmi2004": "CJ-IV-m-B-07850",
         "denumire": "Sediul băncii „Economu”",
-        "adresa": "Str. Regele Ferdinand 31 și Str. Petrovici Octavian 1(fostă Poștei 1)",
-        "datare": "sec. XIX",
-        "valoare": 1,
-        "datare_wiki": "1880",
-        "adresa_wiki": "Str. Poștei 1"
+        "adresa": "Str. Regele Ferdinand 31 și Str. Petrovici Octavian 1 (fostă Poștei 1)",
+        "datare": "1880",
+        "valoare": 1
       }
     },
     {
@@ -8570,7 +8165,6 @@
         "adresa": "Str. Regele Ferdinand 37",
         "datare": 1893,
         "valoare": 1,
-        "adresa_wiki": "Str. Regele Ferdinand (fostă Doja Gheorghe) 37[2]",
         "creatori": "Samu Pecz (arhitect)"
       }
     },
@@ -8589,10 +8183,8 @@
         "lmi2004": "CJ-II-m-B-07315",
         "denumire": "Palatul Babos",
         "adresa": "Str. Regele Ferdinand 38 și Piața Mihai Viteazu nr.1",
-        "datare": "sf. sec. XIX",
-        "valoare": 1,
-        "datare_wiki": "1889-1900",
-        "adresa_wiki": "Str. Regele Ferdinand (fostă Doja Gheorghe) 38 și Piața Mihai Viteazu 1[2]"
+        "datare": "1889-1900",
+        "valoare": 1
       }
     },
     {
@@ -8611,8 +8203,7 @@
         "denumire": "Claustrul mănăstirii minoriților",
         "adresa": "Bd. Eroilor 8 și str.I.C.Brătianu nr.25",
         "datare": "sec. XV-XIX",
-        "valoare": 1,
-        "adresa_wiki": "Bd. Eroilor 8 și str. Brătianu I.C. 25"
+        "valoare": 1
       }
     },
     {
@@ -9679,7 +9270,6 @@
         "datare": "sec. XVI-XXI",
         "valoare": 1,
         "datare_wiki": "sec. XIX",
-        "denumire_wiki": "Cimitirul Central",
         "adresa_wiki": "Str. Iancu Avram 26-28"
       }
     },
@@ -10142,9 +9732,8 @@
         "lmi2004": "CJ-IV-m-B-07842",
         "denumire": "Casa în care au locuit frații Isac",
         "adresa": "Str. Isac Emil 23",
-        "datare": "sec. XIX",
-        "valoare": 1,
-        "datare_wiki": "1880"
+        "datare": "1880",
+        "valoare": 1
       }
     },
     {
@@ -10178,9 +9767,8 @@
         "lmi2004": "CJ-IV-m-B-07843",
         "denumire": "Casa în care a locuit Iuliu Coroianu",
         "adresa": "Str. Isac Emil 25",
-        "datare": "sec. XIX",
-        "valoare": 1,
-        "datare_wiki": "1890"
+        "datare": "1890",
+        "valoare": 1
       }
     },
     {
@@ -10269,7 +9857,6 @@
         "adresa": "Str. Kogălniceanu Mihail 0",
         "datare": 1373,
         "valoare": 1,
-        "adresa_wiki": "Str. Kogălniceanu Mihail",
         "creatori": "Copie după opera meșterilor Martin, Gheorghe (artist)"
       }
     },
@@ -10406,10 +9993,9 @@
         "lmi": 856,
         "lmi2004": "CJ-II-a-A-07383.01",
         "denumire": "Palatele „Status-ului romano-catolic”",
-        "adresa": "Str. Maniu Iuliu 1, 3și 5",
+        "adresa": "Str. Maniu Iuliu 1, 3 și 5",
         "datare": 1902,
-        "valoare": 1,
-        "adresa_wiki": "Str. Maniu Iuliu 1, 3 și 5"
+        "valoare": 1
       }
     },
     {
@@ -10426,10 +10012,9 @@
         "lmi": 857,
         "lmi2004": "CJ-II-a-A-07383.02",
         "denumire": "Palatele „Status-ului romano-catolic”",
-        "adresa": "Str. Maniu Iuliu 2, 4și 6",
+        "adresa": "Str. Maniu Iuliu 2, 4 și 6",
         "datare": 1902,
-        "valoare": 1,
-        "adresa_wiki": "Str. Maniu Iuliu 2, 4 și 6"
+        "valoare": 1
       }
     },
     {
@@ -11096,7 +10681,6 @@
         "adresa": "Str. Memorandumului 19",
         "datare": "sec. XVIII",
         "valoare": 1,
-        "denumire_wiki": "Casă",
         "ran": "54984.30"
       }
     },
@@ -11422,7 +11006,6 @@
         "adresa": "Piața Muzeului 0",
         "datare": "Inaugurat la 4 oct 1831; mutat aici în 1898",
         "datare_wiki": "1801",
-        "adresa_wiki": "Piața Muzeului",
         "creatori": "Mihály Schindler, Antal Schindler[6] (pietrari), Antal Csűrös, Josef Klieber[6] (sculptori)"
       }
     },
@@ -12112,8 +11695,7 @@
         "denumire": "Casa în care a locuit Ioan Piuariu Molnar",
         "adresa": "Str. Roosevelt F.D. 8",
         "datare": "înc. sec. XIX",
-        "valoare": "1A",
-        "adresa_wiki": "Str. Roosevelt F. D. 8"
+        "valoare": "1A"
       }
     },
     {
@@ -12199,8 +11781,7 @@
         "denumire": "Sediul mișcării de rezistență antihorthistă",
         "adresa": "Str. Șincai Gheorghe 12",
         "datare": "sec. XX ; 1940-1944",
-        "valoare": 1,
-        "datare_wiki": "1940-1944"
+        "valoare": 1
       }
     },
     {
@@ -12834,7 +12415,6 @@
         "adresa": "Piața Unirii 0",
         "datare": 1902,
         "valoare": 1,
-        "adresa_wiki": "Piața Unirii",
         "creatori": "János Fadrusz (artist)"
       }
     },
@@ -12885,11 +12465,10 @@
         "rlu": 710,
         "lmi": 976,
         "lmi2004": "CJ-II-m-A-07499",
-        "denumire": "Biserica Piariștilor, azi Biserica romano-catolică„Sf. Treime",
+        "denumire": "Biserica Piariștilor, azi Biserica romano-catolică „Sf. Treime",
         "adresa": "Str. Universității 5",
         "datare": "1718-1724",
         "valoare": 1,
-        "denumire_wiki": "Biserica Piariștilor, azi biserica romano-catolică „Sf. Treime”",
         "ran": "54984.171"
       }
     },
@@ -12927,10 +12506,9 @@
         "lmi": 978,
         "lmi2004": "CJ-II-m-B-07501",
         "denumire": "Claustrul mănăstirii Piariștilor și Convictus nobilium, azi internatul liceului Bathory . (zid de incintă medievală pe limita de parcelă)",
-        "adresa": "Str. Universității 7-9și Str. Kogălniceanu 2",
+        "adresa": "Str. Universității 7-9 și Str. Kogălniceanu 2",
         "datare": 1735,
         "valoare": 1,
-        "denumire_wiki": "Claustrul mănăstirii Piariștilor și Convictus nobilium, azi internatul liceului Bathory (zid de incintă medievală pe limita de parcelă)",
         "adresa_wiki": "Str. Universității 7-9 și str. Brătianu 2",
         "ran": "54984.169"
       }
@@ -13083,7 +12661,6 @@
         "adresa": "Str. Zola Émile 4",
         "datare": 1608,
         "valoare": 1,
-        "adresa_wiki": "Str. Zola Emile 4",
         "ran": "54984.165"
       }
     },
@@ -13155,9 +12732,8 @@
         "lmi2004": "CJ-IV-m-B-07826",
         "denumire": "Sediul Frontului Studențesc Democrat",
         "adresa": "Bd. 21 Decembrie 1989 nr. 36",
-        "datare": "sec. XX 1935",
-        "valoare": 1,
-        "datare_wiki": "1935"
+        "datare": "sec. XX, 1935",
+        "valoare": 1
       }
     },
     {
@@ -13271,8 +12847,7 @@
         "denumire": "Sediul Sindicatelor C.F.R. în perioada interbelică",
         "adresa": "Str. Craiovei 24",
         "datare": "sf. sec. XIX",
-        "valoare": 1,
-        "denumire_wiki": "Sediul Sindicatelor C. F. R. în perioada interbelică"
+        "valoare": 1
       }
     },
     {
@@ -13326,11 +12901,10 @@
         "rlu": 734,
         "lmi": 1351,
         "lmi2004": "CJ-IV-m-B-07835",
-        "denumire": "Casa în care s-a redactat Petiția drepturilor transilvănenilor de la 1848",
+        "denumire": "Casa în care s-a redactat „Petiția drepturilor transilvănenilor de la 1848”",
         "adresa": "Str. Govora 21",
         "datare": "sf. sec. XIX",
-        "valoare": 1,
-        "denumire_wiki": "Casa în care s-a redactat „Petiția drepturilor transilvănenilor de la 1848”"
+        "valoare": 1
       }
     },
     {
