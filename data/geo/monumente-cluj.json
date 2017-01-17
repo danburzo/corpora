@@ -1,0 +1,3712 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.79231790000001,
+        23.5862303
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07292 Casa Kos Karoly Str. Breaza 14 - 1900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7710854,
+        23.587010800000005
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07294 Casă Str. Clemenceau Georges 1 sec. XVII - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7710211,
+        23.586860600000005
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07295 Casă cu elemente de Renaștere Str. Clemenceau Georges 3 sec. XVI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7660883,
+        23.5835749
+      ]
+    },
+    "properties": {
+      "categorie": "A. Clădiri publice",
+      "descriere": "CJ-II-a-A-07297 Ansamblul clinicilor universitare Str. Clinicilor 15 1900-1904 "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7668948,
+        23.585313
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07296 Biblioteca Centrală Universitară Str. Clinicilor 2 1906-1908 Kálmán Giergl (arhitect) \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7653865,
+        23.5764295
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07298 Casă Str. Coșbuc George 2 sec. XVIII \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7726726,
+        23.5927373
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07299 Casă Str. Curie Frederic Joliot 3 sec. XX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7715226,
+        23.5864878
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07300 m-B-07300Casa Kovary Laszlo Str. Daicoviciu Constantin 1 sec. XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7714528,
+        23.5861981
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07301 Casă Str. Daicoviciu Constantin 3 sec. XVIII - XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7714418,
+        23.5860211
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07302 Casă Str. Daicoviciu Constantin 5 sec. XVIII - XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7711772,
+        23.5849589
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07303 Institutul Politehnic Str. Daicoviciu Constantin 15 sec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7855083,
+        23.652411100000002
+      ]
+    },
+    "properties": {
+      "categorie": "A. Biserici",
+      "descriere": "CJ-II-m-A-07304 Biserica „Nașterea Maicii Domnului” Str. Dârjan Traian 8- 1750"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7719874,
+        23.5886228
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea",
+      "descriere": "CJ-II-m-A-07241.06 Fragment din zidul primei incinte a orașului medieval Str. Deleu 2-4 Str. Doja Gheorghe nr. 17-25 sec. XIII-XV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7719727,
+        23.5877886
+      ]
+    },
+    "properties": {
+      "categorie": "A. Biserici",
+      "descriere": "CJ-II-a-A-07305 Mănăstirea Franciscanilor Str. Deleu 2-4 sec. XV - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.771879,
+        23.5878101
+      ]
+    },
+    "properties": {
+      "categorie": "A. Biserici\n",
+      "descriere": "CJ-II-m-A-07305.01 Biserica franciscană Str. Deleu 2-4 sec. XV - XVIII "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7714161,
+        23.5899881
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07307 Casa barocă Str. Doja Gheorghe 4 sec. XVI - XVIII \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7713389,
+        23.589744
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07308 Casă cu elemente renascentiste Str. Doja Gheorghe 5 sec. XVI - XVIII \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7721491,
+        23.5892853
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07310 Hotel „Pannonia” Str. Doja Gheorghe 17 sec. XVII - XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7722519,
+        23.5892317
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07309 Casă Str. Doja Gheorghe 19 \nsf. sec. XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7724467,
+        23.5890573
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07311 Casă Str. Doja Gheorghe 25 \nsec. XVIII \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77297020000001,
+        23.5885558
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07312 Poștă Str. Doja Gheorghe 33 \nsec. XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7734203,
+        23.5884109
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07313 Casa cu stema familiei Bathory Str. Doja Gheorghe 34 \nsf. sec. XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7718019,
+        23.5852352
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07241.02 Fragment din zidul roman suprapus de zidul primei incinte Str. Barițiu George 25 sec. XIII - XVI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7707474,
+        23.5982358
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07316 Tribunalul și Curtea de Apel Calea Dorobanților 24 și Piața Stefan cel Mare nr. 1 1902 \nGyula Wagner (arhitect)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7694246,
+        23.591069
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07317 Casa Teleki Bd. Eroilor 1 și Piața Unirii nr. 32 sec. XV - XVIII \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7695753,
+        23.5916752
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07319 Casă Bd. Eroilor 3 \nsec. XVI - XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7696285,
+        23.5918683
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07321  \nCasă Bd. Eroilor 5 \n \nsec. XV - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7696984,
+        23.592107
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07323 Casă Bd. Eroilor 7 sec. XVI - XIX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7698949,
+        23.592909
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07326 Bd. Eroilor 13 \nsec. XV - XVI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7699427,
+        23.5931289
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07327 Bd. Eroilor 15 \nsec. XV - XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7702073,
+        23.5936278
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07329 Bd. Eroilor 17 sec. XV - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7702119,
+        23.5938666
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07331 Bd. Eroilor 19 înc. sec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7702311,
+        23.5939819
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07333 Bd. Eroilor 21 sec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7702431,
+        23.594057
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07334 Fosta casă a breslei cizmarilor Bd. Eroilor 23-25 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7702569,
+        23.5941267
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07335 Bd. Eroilor 27 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.770267,
+        23.5941951
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07336 Bd. Eroilor 29 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7702798,
+        23.5942635
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07337 Bd. Eroilor 31 \nsec. XVI - XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7703184,
+        23.5944231
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07339 \nBd. Eroilor 33 \nsec. XVI - XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7703579,
+        23.5946659
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07340 Bd. Eroilor 37 \nsec. XV - XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7691886,
+        23.5914016
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07318 Bd. Eroilor 2 \n1830-1840"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7692538,
+        23.5916296
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07320 \nBd. Eroilor 4 și str.. I. C. Brătianu nr. 19 \nsec. XV - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7693052,
+        23.5918173
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07322 \nBd. Eroilor 6-8 și str. I.C. Brătianu nr. 21-23 \nsec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7694283,
+        23.5923296
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici",
+      "descriere": "CJ-II-a-B-07324 Mănăstirea minoriților Bd. Eroilor 8-10 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.769522,
+        23.5925764
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici",
+      "descriere": "CJ-II-m-B-07324.01 Biserica mănăstirii minorite, azi catedrala greco-catolică Bd. Eroilor 10 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7695808,
+        23.5927588
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07325 Casă barocă cu elemente gotice Bd. Eroilor 12 și str. Tomis nr. 1 \nsec. XV - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7696616,
+        23.5930967
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07328 Casa Tricesimei Bd. Eroilor 16 \nsec. XVI - XIX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7697296,
+        23.5933757
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07330  \nBd. Eroilor 18 \nsec. XIX "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7698288,
+        23.593837
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07332 \nCasa Katona Bd. Eroilor 20 \nsec. XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7700199,
+        23.5947758
+      ]
+    },
+    "properties": {
+      "categorie": "A. Case\n",
+      "descriere": "CJ-II-m-A-07338 Casa mică Banffy Bd. Eroilor 32 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7701301,
+        23.5954678
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07341 Bd. Eroilor 38 \n1920 \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7702302,
+        23.595612600000003
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07342 Bd. Eroilor 42 \nsec. XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7671612,
+        23.588655
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07344 Str. Fortăreței 8 \nsec. XVI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7842998,
+        23.5869759
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07345 \nGara Cluj-Napoca Piața Gării 1 \n1870 \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7744214,
+        23.5872039
+      ]
+    },
+    "properties": {
+      "categorie": "B. Palate\n",
+      "descriere": "CJ-II-m-B-07346 \nPalatul Berde Str. Horea 1 \n1889-1900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7746253,
+        23.5868767
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07348 \nCasa de Comerț și Industrie Str. Horea 3 \n1903"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7783359,
+        23.5869303
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07352 \nFacultatea de Filologie \nmunicipiul Cluj-Napoca \nStr. Horea 31 \n1905"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7793204,
+        23.5869786
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07353 \nCasă \nmunicipiul Cluj-Napoca \nStr. Horea 35 \n1900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7695992,
+        23.5832852
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-20937 \nCasă secesion \nmunicipiu CLUJ-NAPOCA \nStr. Hossu Iuliu, Cardinal 1 \n1902, extindere 1930"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.771857,
+        23.5964227
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici\n",
+      "descriere": "CJ-II-m-B-07354 \nCatedrala Arhiepiscopiei ortodoxe \nmunicipiul Cluj-Napoca \nPiața Iancu Avram \n1923-1936"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7704314,
+        23.5972917
+      ]
+    },
+    "properties": {
+      "categorie": "A. Clădiri publice\n",
+      "descriere": "CJ-II-m-A-07355 \nTeatrul Național Piața Iancu Avram 2 \n1904-1906 \nFerdinand Fellner Junior, Hermann Helmer (arhitect)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7726947,
+        23.5967982
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-m-B-07358 \nSediul Direcției regionale CFR \nPiața Iancu Avram 16 \nsf. sec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7729812,
+        23.5959614
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07357 \nCasă \nmunicipiul Cluj-Napoca \nPiața Iancu Avram 14 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7720554,
+        23.5972488
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07359 \nArhiepiscopia ortodoxă a Vadului, Feleacului și Clujului, Piața Iancu Avram 18 A, \nsec. XIX, \nBalázs Debreczeni (arhitect)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7712764,
+        23.597694
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-m-B-07360 \nAdministrația Financiară, Piața Iancu Avram 19 și str. Dorobanților nr. 1, \nsec. XIX \nFriedrich Mätz (arhitect)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7664668,
+        23.5875607
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07356 Casa Bogdanffy Str. Iancu Avram 1 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7664153,
+        23.588832000000004
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07242.01Bastionul Postăvarilor \nmunicipiul Cluj-Napoca \nStr. Iancu Avram 9 \nsec. XV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7662683,
+        23.5886818
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07361 \nCasă, Str. Iancu Avram 10-12 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7663969,
+        23.590543300000004
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07242.02 Bastionul Cizmarilor, Str. Iancu Avram 13 \nsec. XV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.766419,
+        23.5906774
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07362 \nTipografia Liceului Reformat (zid de incintă medievală pe limita de parcelă), Str. Iancu Avram 13-15 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7662316,
+        23.5891324
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07363 \nCasă \nmunicipiul Cluj-Napoca \nStr. Iancu Avram 16-18 \n1938"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7664851,
+        23.5913104
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07242.04 \nTurnul Zidarilor și fragment din zidul celei de a doua incinte a orașului medieval, \nStr. Iancu Avram 17 \nsec. XV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7661802,
+        23.5905486
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07365 \nCasă, fost hotel Biazini, \nStr. Iancu Avram 20 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7667166,
+        23.5925764
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07366  \nCasă,  \nStr. Iancu Avram 21 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7668305,
+        23.5929465
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07367Str. Iancu Avram 23 \nînc. sec. XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7671759,
+        23.5948402
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07364 \nCasă (zid de incintă medievală pe limita de parcelă)  \nStr. Iancu Avram 27-29, Calea Dorobanților nr. 19, Str. Kogălniceanu Mihail \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7694651,
+        23.5854256
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07368, \nStr. Isac Emil 4 \nsec. XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.770222,
+        23.58527
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07241.05 \nFragment din zidul primei incinte a orașului medieval Str. Isac Emil 10 și str. Pavel Chinezu nr. 5 în curtea Liceului G. Barițiu \nsec. XIII-XV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7714528,
+        23.5847765
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07369 \nCasă cu elemente de decorațiune interioară în stil Secession, Str. Isac Emil 14 \n1904"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77132420000001,
+        23.5954356
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07343 \nCasă, \nStr. Iuliu Maniu 40, Str. Baba Novac nr. 4 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.767547,
+        23.591305
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07370 \nUniversitatea „Babeș Bolyai” \nStr. Kogălniceanu Mihail 1 \n1893-1903"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.767256800000006,
+        23.5913801
+      ]
+    },
+    "properties": {
+      "categorie": "A. Clădiri publice",
+      "descriere": "CJ-II-m-A-07371 Liceul „Bathory”, fost liceu al Piariștilor \n, Str. Kogălniceanu Mihail 2 și str. Universității nr. 7-9 \n1817-1821"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7674258,
+        23.5925227
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07372Casă (zid incinta medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 4 \n1789-1800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76774910000001,
+        23.5929171
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07373Str. Kogălniceanu Mihail 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7675305,
+        23.5929358
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07374 \nCasă (zid de incintă medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 6 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7678942,
+        23.59366
+      ]
+    },
+    "properties": {
+      "categorie": "A. Palate",
+      "descriere": "CJ-II-m-A-07375 Palatul Teleki \nStr. Kogălniceanu Mihail 7 \n1790-1795 \nJoseph Leder (arhitect) \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7679292,
+        23.5939389
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07376\nLiceul „Emil Racoviță” \nStr. Kogălniceanu Mihail 9-11 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7676169,
+        23.5934615
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07377Arhivele Statului Cluj-Napoca (zid de incintă medievală pe limita de parcelă) \nStr. Kogălniceanu Mihail 10 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7681129,
+        23.5948562
+      ]
+    },
+    "properties": {
+      "categorie": "A. Case\n",
+      "descriere": "CJ-II-a-A-07378 \nCasele Profesorilor reformați  \nStr. Kogălniceanu Mihail 13, 15, 17, 19 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.768067,
+        23.5946819
+      ]
+    },
+    "properties": {
+      "categorie": "A. Case\n",
+      "descriere": "CJ-II-m-A-07378.01 \nCasă  \nStr. Kogălniceanu Mihail 13 \n1790-1802"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7679641,
+        23.5947758
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-m-B-07379Colegiul Reformat \nStr. Kogălniceanu Mihail 14 \nsec. XVII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.768101900000005,
+        23.594789200000005
+      ]
+    },
+    "properties": {
+      "categorie": "A. Case\n",
+      "descriere": "CJ-II-m-A-07378.02 \nCasă \nStr. Kogălniceanu Mihail 15 \n1790-1802"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7680872,
+        23.5954893
+      ]
+    },
+    "properties": {
+      "categorie": "A. Biserici\n",
+      "descriere": "CJ-II-m-A-07380 \nBiserica reformată Matia \nStr. Kogălniceanu Mihail 16 \n1486-1494, ref. 1644"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7681552,
+        23.5949904
+      ]
+    },
+    "properties": {
+      "categorie": "A. Case\n",
+      "descriere": "CJ-II-m-A-07378.03 \nCasăStr. Kogălniceanu Mihail 17 \n1790-1802"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7682783,
+        23.5964897
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07381  \nTipografia Colegiului Reformat \nStr. Kogălniceanu Mihail 18 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.768214,
+        23.5951674
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07378.04 \nCasă, Str. Kogălniceanu Mihail 19 \n1790-1802"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7684712,
+        23.5965031
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07382 \nCasa parohială a bisericii reformate  \nStr. Kogălniceanu Mihail 23 \n1751"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7701191,
+        23.5904226
+      ]
+    },
+    "properties": {
+      "categorie": "A. Palate\n",
+      "descriere": "CJ-II-a-A-07383 Palatele „Status-ului romano-catolic” \nStr. Maniu Iuliu 1-6 \n1902"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.770481,
+        23.5917959
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07384  \nStr. Maniu Iuliu 8 și str. Bolyai Janos nr. 6, sec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7706923,
+        23.5922465
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07385 \nCasă,  \nStr. Maniu Iuliu 9 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7709292,
+        23.5930753
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07386  \nCasa în care s-a născut Carol Popp de Szathmary  \nStr. Maniu Iuliu 17 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7711644,
+        23.5947087
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07387 Casă  \nStr. Maniu Iuliu 34 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7677124,
+        23.5924637
+      ]
+    },
+    "properties": {
+      "categorie": "A. Clădiri publice\n",
+      "descriere": "CJ-II-m-A-07388 \nCasa universitarilor, azi Colegiul academic \nStr. Martonne, Em. de 1 și str. I.C. Brătianu nr. 4 \n1928-1936"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7702771,
+        23.5882151
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07389Casă  \nStr. Matei Corvin 1 și str. Memorandumului nr. 2 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7704167,
+        23.5883868
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07390 Casă Str. Matei Corvin 2 și Piața Unirii nr. 18 \nsec. XVI - XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7707308,
+        23.5878128
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07391 \nCasă \nStr. Matei Corvin 3 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7708907,
+        23.5879469
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07392 Casa principelui Transilvaniei Ștefan Bocskay, azi Universitatea „Sapientia” (fragmente din zidul incintei medieval în subsol) \nStr. Matei Corvin 4 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7710707,
+        23.5876384
+      ]
+    },
+    "properties": {
+      "categorie": "A. Case\n",
+      "descriere": "CJ-II-m-A-07393\nCasa Matei, aparținând de Academia de Arte Vizuale „Ion Andreescu” \nStr. Matei Corvin 6 \nsec. XV - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.762884,
+        23.5723364
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07394Vama veche \nStr. Mănășturului 1 \n1748"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7612818,
+        23.5582495
+      ]
+    },
+    "properties": {
+      "categorie": "A. Biserici\n",
+      "descriere": "CJ-II-m-A-07396  \nBiserica Mănăștur-Calvaria \nStr. Mănășturului 12 \nsec. XIII-XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7699537,
+        23.5883117
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07397Banca „Alpha” \nStr. Memorandumului 1 \n1893"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7700676,
+        23.5875714
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07399 \nCasă Str. Memorandumului 6 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7698435,
+        23.5878664
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07400Casă\nStr. Memorandumului 7 \nsec. XVIII - XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7698949,
+        23.5871959
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07401 \nCasă Str. Memorandumului 8 \n1846"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7696451,
+        23.5873193
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07402 \nCasă\nStr. Memorandumului 11-13 și str. Rațiu Ion nr. 2 str. Memorandumului 11 - 13 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.762185800000005,
+        23.5708237
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici\n",
+      "descriere": "CJ-II-m-B-07395\nMănăstirea iezuită Str. Mănășturului 9 \nsec. XVI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7698215,
+        23.5866594
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07403 Sediul fostei Casine române, azi locuință \nStr. Memorandumului 12 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7694908,
+        23.587120800000005
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07404 Casă \nStr. Memorandumului 15 \nsec. XVI - XVII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7693806,
+        23.5869169
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07405 \nCasă Str. Memorandumului 17 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7692777,
+        23.5866702
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07405 \nCasă Str. Memorandumului 17 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7691674,
+        23.5864878
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07407Casa în care s-a judecat procesul memorandiștilor, azi Muzeul Etnografic al Transilvaniei („' Reduta”) \nStr. Memorandumului 21 \n1810-1812"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7696598,
+        23.5864985
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07408 \nCasă, \nStr. Memorandumului 22 \n1788"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.769432,
+        23.586058600000005
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07409Casă  \nStr. Memorandumului 23 \n1740"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7675783,
+        23.5892236
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07410Casă \nStr. Micu Klein I. 6 \nsf. sec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7675287,
+        23.5889768
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07411 \nCasă \nStr. Micu Klein I. 12 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.767266,
+        23.5884941
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07412 Casă Str. Micu Klein I. 15 \nsec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7672421,
+        23.5882151
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07413 \nCasă \nmunicipiul Cluj-Napoca \nStr. Micu Klein I. 17 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7684803,
+        23.5866487
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07414 Casă Str. Micu Klein Samuil 8 \nsec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7684914,
+        23.5848784
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07416 \nPalatul Primăriei  \nCalea Moților 1-3 \nsec. XIX \nIgnác Alpár (arhitect)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7690131,
+        23.5851681
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07417Casă \nCalea Moților 4 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.768778,
+        23.5842776
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07418 \nCasă \nCalea Moților 8 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.767852,
+        23.5826039
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07419 \nCasă \nCalea Moților 24 \n1832"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7673082,
+        23.5827971
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07420 \nCasă \nCalea Moților 27 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7671171,
+        23.5823894
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07421 \nCasă \nCalea Moților 29 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76714290000001,
+        23.5816571
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07422 \nCasa în care a locuit Ilie Măcelaru \nCalea Moților 32 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7665238,
+        23.5800612
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07423 \nCasă \nCalea Moților 54 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7661912,
+        23.5801041
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07424 Casă Calea Moților 69 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7657943,
+        23.5781192
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07425 \nCasă \nCalea Moților 70 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7655298,
+        23.5772341
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07426 \nLiceu \nCalea Moților 82 \n1900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7650704,
+        23.5754961
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici\n",
+      "descriere": "CJ-II-m-B-07427 \nBiserica reformată Calea Moților 84 \n1913 \nKároly Kós (arhitect)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7646074,
+        23.5746646
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07428Casă \nCalea Moților 94 \nsec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7643135,
+        23.5741872
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07429 \nCasă \nmunicipiul Cluj-Napoca \nCalea Moților 104 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.763637300000006,
+        23.5736695
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07430 Casă \nCalea Moților 137 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7665439,
+        23.6009529
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07431 \nCasă Str. Mureșanu Andrei 15 \nsec. XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7664484,
+        23.6007652
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07432 \nCasă \nStr. Mureșanu Andrei 16 \n1911"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7660626,
+        23.6011058
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07433 \nCasă \nStr. Mureșanu Andrei 20 \n1906"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7719598,
+        23.58733
+      ]
+    },
+    "properties": {
+      "categorie": "B. Palate\n",
+      "descriere": "CJ-II-m-B-07434Palatul Mikes Piața Muzeului 4 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77182390000001,
+        23.5869384
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07435Casă \nPiața Muzeului 5 \nsec. XVII - XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7686347,
+        23.5897708
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07436 \nHotel „Continental” \nStr. Napoca 1 \n1895"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76868240000001,
+        23.5895562
+      ]
+    },
+    "properties": {
+      "categorie": "B. Palate\n",
+      "descriere": "CJ-II-m-B-07437 \nPalatul Bornemisza \nStr. Napoca 2-4 și Piața Unirii nr. 9 \nsec. XV - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7684583,
+        23.5894677
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07438 Casă \nmunicipiul Cluj-Napoca \nStr. Napoca 3 \nsec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7682709,
+        23.5889983
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07439 Casă \nStr. Napoca 5 \nsec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7681993,
+        23.5885209
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07440Casă \nStr. Napoca 6[2] \nsec. XVIIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7682268,
+        23.5888723
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07441 \nCasă Str. Napoca 7 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76814230000001,
+        23.5887972
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07442(Cod RAN: 54984.187) \nCasă \nmunicipiul Cluj-Napoca \nStr. Napoca 9 \nsec. XVI - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76779510000001,
+        23.5875231
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07443 \nCasă Str. Napoca 10 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76798980000001,
+        23.5885531
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07444 \nInstitutul de Istorie Națională \nStr. Napoca 11 \nsec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7676077,
+        23.5870953
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07445 \nCasă Str. Napoca 12 \n1905"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7675673,
+        23.5868847
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07446 Casă Str. Napoca 14 \nsec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7678686,
+        23.5881346
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07447 Casă \nStr. Napoca 15 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7674552,
+        23.5865736
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07448Casă \nStr. Napoca 18 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7632588,
+        23.584621
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07450 \nClinica medicală  \nStr. Pasteur 1 \n1900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7624375,
+        23.5841113
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07451 \nInstitutul de Igienă Str. Pasteur 6 \n1900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7708135,
+        23.5872012
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07452 Casă Str. Petroșani 2 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7708098,
+        23.5873622
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07241.03 \nFragment din zidul primei incinte a orașului medieval Str. Petroșeni 1-3 \nsec. XIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.770267,
+        23.5860982
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07241.04 \nFragment din zidul primei incinte a orașului medieval  \nStr. Petroșeni 21-23 \nsec. XIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7696524,
+        23.5969591
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07270 \nCasă \nStr. Piața Ștefan cel Mare 14, Str. Baba Novac nr. 27 și Str. I.C. Brătianu nr. 55 \n1830-1840"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7667699,
+        23.5890681
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07242.05 \nFragment din zidul celei de a doua incinte a orașului medieval Str. Potaissa 1-3 \nsec. XV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7665678,
+        23.5872388
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07453 \nCasă \nStr. Republicii 7 \nsec. XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7625459,
+        23.589395300000003
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07454 \nCasă \nStr. Republicii 41 \nsec. XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7625386,
+        23.5888267
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-a-B-07455 \nGrădina Botanică Str. Republicii 42 \n1920"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7593415,
+        23.5923028
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07456 \nCasă  \nStr. Republicii 68 \n1930"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7711203,
+        23.5870899
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07457Casă Str. Roosevelt F. D. 2 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.775920400000004,
+        23.5711455
+      ]
+    },
+    "properties": {
+      "categorie": "A. Case\n",
+      "descriere": "CJ-II-m-A-07458 \nCasa Tătaru \nStr. Rosetti 17 \n1929"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7675507,
+        23.5867238
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07459 \nCasă \nStr. Șincai Gheorghe 17 \n1907"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7695385,
+        23.5989493
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07460 \nCazarma „Sf. Gheorghe”  \nPiața Ștefan cel Mare 3 \n1834-1837"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7778161,
+        23.5572839
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-a-B-07461 \nSecția în aer liber a Muzeului Etnografic al Transilvaniei \nStr. Tăietura Turcului Dealul Hoia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77236400000001,
+        23.5838377
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07462 \nTeatrul Maghiar Aleea Tineretului \n1912-1913 \nGeza Markus, Frigyes Spiegel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7719231,
+        23.5830331
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-s-B-07463 \nParcul municipal Aleea Tineretului \n1838"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7660515,
+        23.563249100000004
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-s-B-07464 \nParcul Iuliu Hațieganu  \nAleea Tineretului 7 \nsec. XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7733964,
+        23.5916162
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07242.03(Cod RAN: 54984.181) \nTurnul Pompierilor Str. Tipografiei 17 \n, 1405, partea superioară sec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7694834,
+        23.5928285
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07465 \nCasă Str. Tomis 1 \nsec. XV - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7712655,
+        23.5881534
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07466 \nCasă \nStr. Toplița 1-3 \n1820"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7713582,
+        23.5883627
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07467Casă \nStr. Toplița 5 \n1796"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77136,
+        23.588655
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07468 \nCasă \nStr. Toplița 10 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7698766,
+        23.5896367
+      ]
+    },
+    "properties": {
+      "categorie": "A. Biserici\n",
+      "descriere": "CJ-II-m-A-07469 Biserica romano-catolică „Sf. Mihail”  \nPiața Unirii 0 \n1349-1480"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.769026,
+        23.5909832
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07470 \nPrimăria veche Piața Unirii 1 \n1843-1846"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7690021,
+        23.5909241
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07471Casă \nPiața Unirii 2 \nsec. XVI - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7689855,
+        23.5908652
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07472 Casă Piața Unirii 3 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7689396,
+        23.5907739
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07473\nCasă \nPiața Unirii 4 \nsec. XVI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76889,
+        23.5906935
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07474Casă \nPiața Unirii 5 \nsec. XVI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7687706,
+        23.5903582
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07475Casă \nPiața Unirii 6 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7687504,
+        23.590261600000005
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07476 \nBanca Națională Piața Unirii 7 \nsec. XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7686732,
+        23.5900122
+      ]
+    },
+    "properties": {
+      "categorie": "B. Palate\n",
+      "descriere": "CJ-II-m-B-07477 \nPalatul Sebestyen \nPiața Unirii 8 și str. Universității, nr. 1-3 \n1912-1913 \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7687173,
+        23.5896286
+      ]
+    },
+    "properties": {
+      "categorie": "B. Palate\n",
+      "descriere": "CJ-II-m-B-07478 \nPalatul Bornemisza, fost și sediu al Societății teatrale maghiare din Ardeal \nPiața Unirii 9 și str. Napoca nr. 2-4 \nsec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7689415,
+        23.5894758
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07479 \nCasa Teleki \nPiața Unirii 10 \n1827"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7690737,
+        23.5893551
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07480 Casa în care a locuit Bőlőni Farcas Sandor Piața Unirii 11 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76918030000001,
+        23.5892398
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07481 Casă \nPiața Unirii 12 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7693218,
+        23.5891566
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07482Casă \nPiața Unirii 13 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7694522,
+        23.5889715
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07483 Casă \nPiața Unirii 14 \nsec. XV - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7696745,
+        23.5888025
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07484 Casa parohială a bisericii romano-catolice Piața Unirii 15 \nsec. XV - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7699216,
+        23.5885812
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07485Casă \nPiața Unirii 16 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.770278,
+        23.5884096
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07486 Casă Piața Unirii 18 \nsec. XVI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7703496,
+        23.5885853
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07487 Casă Piața Unirii 19 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7710239,
+        23.58987
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07495 Muzeul Farmaciei \nPiața Unirii 28 și str. Doja Gheorghe nr. 1 \nsec. XV - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7708989,
+        23.5896729
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07494 Casă \nPiața Unirii 27 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7708411,
+        23.5895777
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07493 Casă Piața Unirii 26 \nsec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7709109,
+        23.5892236
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07241.01 \nTurn și fragment din zidul primei incinte a orașului medieval Piața Unirii 25 și str. Toplița nr. 10 \n1376"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7706665,
+        23.5891727
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07492 \nImobil administrativ Piața Unirii 24 \n1883"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7705581,
+        23.5889983
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07491 \nImobil administrativ  \nPiața Unirii 23 \n1883"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7705232,
+        23.5889125
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07490Casă \nPiața Unirii 22 \nsec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7704498,
+        23.5887811
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07489Casă Piața Unirii 21 \nsec. XVI - XX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7704112,
+        23.5887006
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07488 \nCasă \nPiața Unirii 20 \nsec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7705655,
+        23.590326000000005
+      ]
+    },
+    "properties": {
+      "categorie": "A. Palate\n",
+      "descriere": "CJ-II-m-A-07497 Palatul Banffy, azi Muzeul de Artă  \nPiața Unirii 30 \n1774-1785 \nJohann Eberhard Blaumann (arhitect)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7696451,
+        23.5909241
+      ]
+    },
+    "properties": {
+      "categorie": "A. Case\n",
+      "descriere": "CJ-II-m-A-07498 Casa Wolphard Kakas, azi Universitatea de Arte Vizuale „Ion Andreescu” și banca „Société Générale” Piața Unirii 31 \nsec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.770519567652485,
+        23.57869327068329
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-m-B-07243.01 - Ateliere pictură (fostă expoziție)1940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76880001066341,
+        23.576606512069702
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-m-B-07243.03 Chioșc fanfară 1897"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76814597671408,
+        23.575844764709473
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-m-B-07243.04 Pavilionul de patinaj 1897"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.769013121133696,
+        23.57763648033142
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-m-B-07243.05 Kiosk 1897\n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76885512552104,
+        23.577287793159485
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-m-B-07243.02 Fântână arteziană1897"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7711625502878,
+        23.59014630317688
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici",
+      "descriere": "CJ-II-m-B-07306 Biserica și casa parohială Evanghelică Bdul 21 Decembrie 1 1816-1822"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77089433560736,
+        23.590167760849
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07246 Hotel Melody Bd. 21 Decembrie 1989 2 și Piața Unirii nr. 29 sec. XVI - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77124154476781,
+        23.59048694372177
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07247 Casă Bd. 21 Decembrie 1989 3 sec. XV - XVI \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77108722986173,
+        23.59063982963562
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07248 Casa Bd. 21 Decembrie 1989 4 sec. XVI - XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7715703810094,
+        23.591457903385162
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07249 Liceul \"Brassai\" Bd. 21 Decembrie 1989 7 sec. XVIII - XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77177796933482,
+        23.592318892478943
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07250 Colegiul unitarian „Janos Zsigmond” Bd. 21 Decembrie 1989 9 sec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77166958260986,
+        23.59185218811035
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici\n",
+      "descriere": "CJ-II-m-B-07251 Biserica unitariană Bd. 21 Decembrie 1989 9 sec. XVIII\nAnton Türk (arhitect)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.771261752639454,
+        23.591219186782837
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07252 Casa profesorilor unitarieni Bd. 21 Decembrie 1989 10 și str. Bolyai Janos nr. 10sec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.771342584050146,
+        23.591414988040928
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07253 Casă Bd. 21 Decembrie 1989 12 sec. XVIII - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77145005290656,
+        23.59187096357482
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07254 Reședința episcopului unitarian Bd. 21 Decembrie 1989 14 sec. XV - XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.771463830938714,
+        23.591950088739395
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07255 Casa parohială a bisericii unitariene Bd. 21 Decembrie 1989 16-18 sec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77219130653813,
+        23.593936264514923
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07256 Sediul P.S.D. Bd. 21 Decembrie 1989 19 sec. XVIII - XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.771506083578174,
+        23.592088222503662
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07257 Casă Bd. 21 Decembrie 1989 20 sec. XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77152629135056,
+        23.59217405319214
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07258 Sediul Redacției revistei \"Korunk\" în perioada interbelică Bd. 21 Decembrie 1989 20 sec. XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77159977409526,
+        23.592348396778107
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07259 Casă Bd. 21 Decembrie 1989 24 sec. XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.771636515430004,
+        23.59252005815506
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07260 Casă Bd. 21 Decembrie 1989 28 sec. XVII - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77170264976941,
+        23.59275609254837
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07261 Casă cu portal Bd. 21 Decembrie 1989 32 1559 \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77176327284253,
+        23.592984080314636
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07262  Casă Bd. 21 Decembrie 1989 34 1920 \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77180552524707,
+        23.59310746192932
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07263 Casă Bd. 21 Decembrie 1989 36 sec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77362785827923,
+        23.59760820865631
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici\n",
+      "descriere": "CJ-II-m-B-07264 Biserica reformată Bd. 21 Decembrie 1989 41 1821-1859 Georg Winkler (arhitect)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.7719084005282,
+        23.593761920928955
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07265 Casă Bd. 21 Decembrie 1989 44 sec. XVI - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77204066845808,
+        23.594185709953308
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07265 Casă Bd. 21 Decembrie 1989 44 sec. XVI - XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77234929236452,
+        23.59523713588715
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07267 Prefectura Cluj-Napoca Bd. 21 Decembrie 1989 58 și Piața Avram Iancu nr. 12 1910 Josef Huber (arhitect)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77510111067257,
+        23.603251576423645
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07268 Cazarmă, azi unitate militară Bd. 21 Decembrie 1989 106 sec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.776688210297614,
+        23.60714077949524
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici\n",
+      "descriere": "CJ-II-m-B-07245 Biserica romano-catolică \"Sf. Petru\" Bd. 21 Decembrie 1989 136- 138 sec. XIV - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.770591200000005,
+        23.5960311
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07269 Str. Baba Novac 8 Bd. Eroilor nr. 51 sec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76814597671408,
+        23.596980571746826
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A Fragment din zidul celei de a doua incinte a orașului medieval Str. Baba Novac 15 1406"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.767940211582165,
+        23.597517013549805
+      ]
+    },
+    "properties": {
+      "categorie": "A. Cetatea\n",
+      "descriere": "CJ-II-m-A-07271 Bastionul Bethlen (fost Turnul Croitorilor) Str. Baba Novac 35 sec. XV - XVII, ref.sec. XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76368878109588,
+        23.584953546524048
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-m-B-07272 Clinicile de neurologie și neuro-psihiatrie infantilă Str. Babeș Victor 43 1900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77186431114606,
+        23.585138618946075
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice\n",
+      "descriere": "CJ-II-m-B-07274 Institutul Politehnic Str. Barițiu George 25 1894 \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.77215272853335,
+        23.585219085216522
+      ]
+    },
+    "properties": {
+      "categorie": "B. Clădiri publice",
+      "descriere": "CJ-II-m-B-07275 Institutul Politehnic Str. Barițiu George 28 1895"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.765448921367,
+        23.588955402374268
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici\n",
+      "descriere": "CJ-II-m-B-07276 Biserica \"Sf. Treime\", din deal Str. Bisericii Ortodoxe 10 sec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76864201442564,
+        23.58763575553894
+      ]
+    },
+    "properties": {
+      "categorie": "B. Biserici\n",
+      "descriere": "CJ-II-m-B-07277 Biserica \"Învierea Domnului\", Bob Str. Bob 5 1800-1803 Iosif Leder "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76960100771495,
+        23.592434227466583
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case \n",
+      "descriere": "CJ-II-m-B-07278 Casa în s-a născut Bolyai Janos Str. Bolyai Janos 1 și Bd. Eroilor nr. 9 sec. XV - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76963040187558,
+        23.59254017472267
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07279 Casă Str. Bolyai Janos 2 și str. Eroilor nr. 11 sec. XV - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76970572433898,
+        23.59251469373703
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07280 Casă Str. Bolyai Janos 2-4 sec. XV - XIX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76824151025815,
+        23.592259883880615
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07282 Casă stil baroc Str. Brătianu I.C. 6 sec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76835541541614,
+        23.592579066753387
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07283 Casă stil baroc Str. Brătianu I.C. 8 sec. XVIII  "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76846197163621,
+        23.59278291463852
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07284 Casă Str. Brătianu I.C. 10 sec. XIX \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.768695292278515,
+        23.593458831310272
+      ]
+    },
+    "properties": {
+      "categorie": "A. Palate\n",
+      "descriere": "CJ-II-m-A-07285 Palatul Tholdalagy-Korda, azi Universitatea \"Babeș-Bolyai\" - administrația tehnică Str. Brătianu I.C. 14 \nCarlo Justi "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.768750407243324,
+        23.593582212924957
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case",
+      "descriere": "CJ-II-m-B-07286 Casă Str. Brătianu I.C. 16 sec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76882021945108,
+        23.59391748905182
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07287 Casă Str. Brătianu I.C. 18 sec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.768880845768635,
+        23.594233989715576
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07288 \"Casa Beldi\", azi clădire administrativă Str. Brătianu I.C. 22 sec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76896902938144,
+        23.595001101493835
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07289 Casă Str. Brătianu I.C. 24 sec. XVIII"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76880001066341,
+        23.593335449695587
+      ]
+    },
+    "properties": {
+      "categorie": "A. Case",
+      "descriere": "CJ-II-m-A-07290 Casa Aurarului Str. Brătianu I.C. 27 sec. XVIII \n"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        46.76925929942051,
+        23.596339523792267
+      ]
+    },
+    "properties": {
+      "categorie": "B. Case\n",
+      "descriere": "CJ-II-m-B-07291 Casă Str. Brătianu I.C. 34 sec. XIX"
+    }
+  }
+]
